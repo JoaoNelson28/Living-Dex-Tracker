@@ -1,6 +1,195 @@
 // MERGED SCRIPT.JS - Combined all modules to avoid loading issues
 
-// SUPABASE CONFIGURATION REMOVED
+// SUPABASE CONFIGURATION
+const SUPABASE_URL = 'https://idlewpgkdcxjlcndvgqv.supabase.co';
+const SUPABASE_ANON_KEY = 'sb_publishable_rE30kYBuTqmQ8Y25n3gJqQ_rEb3Ze9B';
+
+let supabaseClient;
+
+// Initialize Supabase with retry limit
+let supabaseInitAttempts = 0;
+const MAX_SUPABASE_ATTEMPTS = 20;
+
+function initSupabase() {
+    if (supabaseClient) return; // Already initialized
+    
+    if (window.supabase) {
+        supabaseClient = window.supabase.createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
+        // console.log("Supabase initialized");
+        setupAuthListener();
+        checkInitialSession();
+    } else {
+        // Retry if library not loaded yet
+        supabaseInitAttempts++;
+        if (supabaseInitAttempts < MAX_SUPABASE_ATTEMPTS) {
+            setTimeout(initSupabase, 100);
+        } else {
+            console.error("Failed to load Supabase library after multiple attempts.");
+            showToast("Erro ao carregar sistema de login. Recarregue a página.", "error");
+        }
+    }
+}
+
+async function checkInitialSession() {
+    if (!supabaseClient) return;
+    
+    try {
+        const { data } = await supabaseClient.auth.getSession();
+        if (!data.session) {
+            // No active session, show login modal
+            // Ensure UI is ready by checking a key element
+            if (document.readyState === 'loading') {
+                document.addEventListener('DOMContentLoaded', () => {
+                    if (!currentState.user) showAuthModal('login');
+                });
+            } else {
+                if (!currentState.user) showAuthModal('login');
+            }
+        }
+    } catch (e) {
+        console.error("Session check error:", e);
+    }
+}
+
+function setupAuthListener() {
+    supabaseClient.auth.onAuthStateChange((event, session) => {
+        // console.log("Auth State Change:", event, session);
+        if (event === 'SIGNED_IN' || event === 'TOKEN_REFRESHED') {
+            currentState.user = session.user;
+            updateAuthUI(true);
+            loadData(); // Reload data from Supabase
+            showToast("Conectado com sucesso!", "success");
+        } else if (event === 'SIGNED_OUT') {
+            currentState.user = null;
+            updateAuthUI(false);
+            
+            // Clear local storage robustly (all keys related to app)
+            Object.keys(localStorage).forEach(key => {
+                if (key.startsWith('livingDex_')) {
+                    localStorage.removeItem(key);
+                }
+            });
+            
+            // Clear local data view or switch to local storage mode
+            loadData(); // Revert to local storage data (which is now empty)
+            showToast("Desconectado.", "info");
+        }
+    });
+}
+
+// Auth Functions
+async function signIn(email, password) {
+    try {
+        const { data, error } = await supabaseClient.auth.signInWithPassword({
+            email,
+            password
+        });
+        return { data, error };
+    } catch (e) {
+        console.error("SignIn Error:", e);
+        return { data: null, error: { message: "Erro de conexão com o servidor. Verifique sua internet ou as configurações do projeto." } };
+    }
+}
+
+async function signUp(email, password) {
+    try {
+        const { data, error } = await supabaseClient.auth.signUp({
+            email,
+            password
+        });
+        return { data, error };
+    } catch (e) {
+        console.error("SignUp Error:", e);
+        return { data: null, error: { message: "Erro de conexão com o servidor." } };
+    }
+}
+
+async function signOut() {
+    try {
+        const { error } = await supabaseClient.auth.signOut();
+        return { error };
+    } catch (e) {
+        return { error: e };
+    }
+}
+
+async function resetPassword(email) {
+    try {
+        const { data, error } = await supabaseClient.auth.resetPasswordForEmail(email, {
+            redirectTo: window.location.href,
+        });
+        return { data, error };
+    } catch (e) {
+        return { data: null, error: { message: "Erro de conexão." } };
+    }
+}
+
+// Data Sync Functions
+async function loadUserDataFromSupabase(gameId) {
+    if (!currentState.user) return null;
+
+    const { data, error } = await supabaseClient
+        .from('user_progress')
+        .select('*')
+        .eq('user_id', currentState.user.id)
+        .eq('game_id', gameId)
+        .single();
+
+    if (error) {
+        if (error.code !== 'PGRST116') { // Not found
+            console.error('Error loading Supabase data:', error);
+        }
+        return null;
+    }
+    return data;
+}
+
+async function saveUserDataToSupabase(gameId, capturedData, teamData) {
+    if (!currentState.user) return;
+
+    const { data, error } = await supabaseClient
+        .from('user_progress')
+        .upsert({ 
+            user_id: currentState.user.id,
+            game_id: gameId,
+            captured_data: capturedData,
+            team_data: teamData,
+            updated_at: new Date()
+        }, { onConflict: 'user_id,game_id' });
+
+    if (error) console.error('Error saving to Supabase:', error);
+    else showToast("Progresso salvo na nuvem.", "success");
+}
+
+// Toast Helper
+function showToast(message, type = 'info') {
+    let container = document.querySelector('.toast-container');
+    if (!container) {
+        container = document.createElement('div');
+        container.className = 'toast-container';
+        document.body.appendChild(container);
+    }
+
+    const toast = document.createElement('div');
+    toast.className = `toast ${type}`;
+    toast.innerHTML = `
+        <span class="toast-message">${message}</span>
+        <button class="toast-close" onclick="this.parentElement.remove()">&times;</button>
+    `;
+
+    container.appendChild(toast);
+
+    // Trigger animation
+    requestAnimationFrame(() => {
+        toast.classList.add('show');
+    });
+
+    // Auto dismiss
+    setTimeout(() => {
+        toast.classList.remove('show');
+        setTimeout(() => toast.remove(), 300);
+    }, 3000);
+}
 
 
 // DATA
@@ -10524,7 +10713,15 @@ function saveUserData(gameId, capturedData, teamData) {
             team_data: teamData,
             updated_at: new Date()
         };
-        localStorage.setItem(`livingDex_${gameId}`, JSON.stringify(dataToSave));
+        
+        // If logged in, save ONLY to cloud and do NOT overwrite guest local storage
+        if (currentState.user) {
+            saveUserDataToSupabase(gameId, capturedData, teamData);
+        } else {
+            // Guest mode: Save to local storage
+            localStorage.setItem(`livingDex_${gameId}`, JSON.stringify(dataToSave));
+        }
+        
         return { data: dataToSave, error: null };
     } catch (e) {
         console.error("Error saving to localStorage", e);
@@ -10603,6 +10800,14 @@ function init() {
         const option = document.createElement('option');
         option.value = game.id;
         option.textContent = game.name;
+        
+        // Beta highlight for Scarlet & Violet
+        if (game.id === 'scarlet-violet') {
+            option.textContent = `${game.name} (Beta 🚧)`;
+            option.style.color = '#ff9f43'; // Orange highlight
+            option.style.fontWeight = 'bold';
+        }
+
         gameSelect.appendChild(option);
     });
 
@@ -10718,28 +10923,271 @@ function init() {
     }
 
     // Initial Load
-    loadData();
+    initSupabase();
+    initAuthScreen(); 
+    
+    // We don't call loadData() immediately here anymore.
+    // checkInitialSession() inside initSupabase will handle the flow.
 }
 
-// Removing Auth Check and going straight to data loading
-function loadData() {
-    // Load data for the current game from LocalStorage
-    const data = loadUserData(currentState.selectedGameId);
-    
-    if (data) {
-        currentState.capturedData = data.captured_data || {};
-        currentState.teamData = data.team_data || {};
+// Function to move to global scope or make sure it's accessible before initSupabase calls it
+// Actually loadData is defined below, but JS hoisting for function declarations should work.
+// However, if loadData is inside another block or not hoisted properly in this context (e.g. if script type=module), it might fail.
+// Given the error "loadData is not defined", it seems it's not accessible.
+
+// Moving loadData definition up or ensuring it's global if it was inside something else.
+// But looking at the file structure, loadData seems to be defined later.
+// Let's make sure loadData is defined before it's called or attached to window if needed.
+
+// ... (rest of code) ...
+
+const loginScreen = document.getElementById('login-screen');
+const appView = document.getElementById('app-view');
+
+const tabLogin = document.getElementById('tab-login');
+const tabRegister = document.getElementById('tab-register');
+
+const formLogin = document.getElementById('auth-login-form');
+const formRegister = document.getElementById('auth-register-form');
+const formForgot = document.getElementById('auth-forgot-form');
+
+const linkForgotPass = document.getElementById('link-forgot-pass');
+const linkBackLogin = document.getElementById('link-back-login');
+
+const btnLogout = document.getElementById('btn-logout');
+
+function initAuthScreen() {
+    // Tabs
+    if (tabLogin && tabRegister) {
+        tabLogin.addEventListener('click', () => switchAuthTab('login'));
+        tabRegister.addEventListener('click', () => switchAuthTab('register'));
+    }
+
+    // Links
+    if (linkForgotPass) linkForgotPass.addEventListener('click', (e) => {
+        e.preventDefault();
+        showForgotForm();
+    });
+
+    if (linkBackLogin) linkBackLogin.addEventListener('click', (e) => {
+        e.preventDefault();
+        switchAuthTab('login');
+    });
+
+    // Forms
+    if (formLogin) {
+        formLogin.addEventListener('submit', async (e) => {
+            e.preventDefault();
+            const email = document.getElementById('login-email').value;
+            const password = document.getElementById('login-password').value;
+            const msg = document.getElementById('login-message');
+            const btn = document.getElementById('btn-submit-login');
+            
+            setLoading(btn, true, 'Entrando...');
+            msg.textContent = '';
+            msg.className = 'auth-message';
+
+            const { data, error } = await signIn(email, password);
+            
+            setLoading(btn, false, 'Entrar');
+
+            if (error) {
+                msg.textContent = error.message === 'Invalid login credentials' ? 'Email ou senha incorretos.' : error.message;
+                msg.classList.add('error');
+            } else {
+                // Success is handled by auth listener
+            }
+        });
+    }
+
+    if (formRegister) {
+        formRegister.addEventListener('submit', async (e) => {
+            e.preventDefault();
+            const email = document.getElementById('register-email').value;
+            const password = document.getElementById('register-password').value;
+            const confirm = document.getElementById('register-confirm').value;
+            const msg = document.getElementById('register-message');
+            const btn = document.getElementById('btn-submit-register');
+
+            msg.textContent = '';
+            msg.className = 'auth-message';
+
+            if (password !== confirm) {
+                msg.textContent = 'As senhas não coincidem.';
+                msg.classList.add('error');
+                return;
+            }
+            
+            setLoading(btn, true, 'Criando...');
+
+            const { data, error } = await signUp(email, password);
+            
+            setLoading(btn, false, 'Criar Conta');
+
+            if (error) {
+                msg.textContent = error.message;
+                msg.classList.add('error');
+            } else {
+                // If auto-confirm is enabled, data.user will be present and confirmed_at might be null or not
+                // But usually session is established if auto-confirm is on.
+                if (data.session) {
+                    msg.textContent = 'Conta criada com sucesso! Entrando...';
+                    msg.classList.add('success');
+                    // Auth listener will handle redirect
+                } else {
+                    msg.textContent = 'Conta criada! Verifique seu email para confirmar.';
+                    msg.classList.add('success');
+                    // Optional: switch to login
+                    setTimeout(() => switchAuthTab('login'), 2000);
+                }
+            }
+        });
+    }
+
+    if (formForgot) {
+        formForgot.addEventListener('submit', async (e) => {
+            e.preventDefault();
+            const email = document.getElementById('forgot-email').value;
+            const msg = document.getElementById('forgot-message');
+            const btn = document.getElementById('btn-submit-forgot');
+            
+            setLoading(btn, true, 'Enviando...');
+            msg.textContent = '';
+            msg.className = 'auth-message';
+
+            const { data, error } = await resetPassword(email);
+            
+            setLoading(btn, false, 'Recuperar Senha');
+
+            if (error) {
+                msg.textContent = error.message;
+                msg.classList.add('error');
+            } else {
+                msg.textContent = 'Email de recuperação enviado!';
+                msg.classList.add('success');
+                setTimeout(() => switchAuthTab('login'), 3000);
+            }
+        });
+    }
+
+    // Logout
+    if (btnLogout) {
+        btnLogout.addEventListener('click', () => {
+            if (confirm("Deseja sair da sua conta?")) {
+                signOut();
+            }
+        });
+    }
+} // End of initAuthScreen
+
+function switchAuthTab(tab) {
+    if (tab === 'login') {
+        tabLogin.classList.add('active');
+        tabRegister.classList.remove('active');
+        formLogin.classList.remove('hidden');
+        formRegister.classList.add('hidden');
+        formForgot.classList.add('hidden');
     } else {
-        // Init empty
-        currentState.capturedData = {};
-        currentState.teamData = {};
+        tabLogin.classList.remove('active');
+        tabRegister.classList.add('active');
+        formLogin.classList.add('hidden');
+        formRegister.classList.remove('hidden');
+        formForgot.classList.add('hidden');
+    }
+}
+
+function showForgotForm() {
+    formLogin.classList.add('hidden');
+    formRegister.classList.add('hidden');
+    formForgot.classList.remove('hidden');
+}
+
+function setLoading(btn, isLoading, text) {
+    const span = btn.querySelector('.btn-text');
+    btn.disabled = isLoading;
+    if (span) span.textContent = text;
+    
+    // Add spinner if needed, for now text change is enough
+    if (isLoading) {
+        btn.style.opacity = '0.7';
+        btn.style.cursor = 'wait';
+    } else {
+        btn.style.opacity = '1';
+        btn.style.cursor = 'pointer';
+    }
+}
+
+function updateAuthUI(isLoggedIn) {
+    if (isLoggedIn) {
+        loginScreen.classList.add('hidden');
+        appView.classList.remove('hidden');
+        // Trigger resize event to fix any layout issues after showing hidden content
+        window.dispatchEvent(new Event('resize'));
+    } else {
+        loginScreen.classList.remove('hidden');
+        appView.classList.add('hidden');
+    }
+}
+
+// Function to load data (moved up for scope visibility)
+async function loadData() {
+    // 1. Load Local Data (Fast)
+    let localData = loadUserData(currentState.selectedGameId);
+    
+    // Reset state to avoid data bleeding between users
+    currentState.capturedData = {};
+    currentState.teamData = {};
+
+    // 2. If User Logged In, Load Cloud Data
+    if (currentState.user) {
+        const cloudData = await loadUserDataFromSupabase(currentState.selectedGameId);
+        
+        if (cloudData) {
+            // console.log("Cloud data found:", cloudData);
+            if (cloudData.captured_data) currentState.capturedData = cloudData.captured_data;
+            if (cloudData.team_data) currentState.teamData = cloudData.team_data;
+        } else {
+            // No cloud data yet, but we have local data. Upload local data to cloud?
+            if (localData) {
+                // console.log("Uploading local data to cloud...");
+                // Restore local data to state first so we can see it
+                currentState.capturedData = localData.captured_data || {};
+                currentState.teamData = localData.team_data || {};
+                
+                saveUserDataToSupabase(currentState.selectedGameId, localData.captured_data, localData.team_data);
+            }
+        }
+    } else {
+        // Not logged in, use local data
+        if (localData) {
+            currentState.capturedData = localData.captured_data || {};
+            currentState.teamData = localData.team_data || {};
+        }
     }
     
-    // Ensure structure
+    // Fallback inits
+    if (!currentState.capturedData) currentState.capturedData = {};
+    if (!currentState.teamData) currentState.teamData = {};
+
     if (!currentState.capturedData[currentState.selectedGameId]) currentState.capturedData[currentState.selectedGameId] = [];
     if (!currentState.teamData[currentState.selectedGameId]) currentState.teamData[currentState.selectedGameId] = [null,null,null,null,null,null];
 
     render();
+}
+
+// Initial Session Check override
+async function checkInitialSession() {
+    const { data } = await supabaseClient.auth.getSession();
+    if (data.session) {
+        // Logged in
+        currentState.user = data.session.user;
+        updateAuthUI(true);
+        loadData();
+    } else {
+        // Not logged in
+        updateAuthUI(false);
+        // We do NOT load data here, waiting for login
+    }
 }
 
 function switchView(view) {
@@ -11053,6 +11501,11 @@ function render() {
     renderList();
     renderDetails();
     updateProgress();
+    
+    // Ensure team builder is updated if visible
+    if (currentState.currentView === 'team') {
+        renderTeamBuilder();
+    }
 }
 
 function renderList() {

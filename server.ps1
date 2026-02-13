@@ -1,5 +1,5 @@
+param([int]$port = 8083)
 # Simple HTTP Server for PowerShell
-$port = 8081
 $root = "$PSScriptRoot\Living-Dex"
 
 Write-Host "Starting HTTP server at http://localhost:$port/"

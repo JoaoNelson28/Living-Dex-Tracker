@@ -58,10 +58,11 @@ body {
     background-color: var(--bg-color);
     color: var(--text-primary);
     line-height: 1.6;
-    height: 100vh;
+    height: 100dvh; /* Dynamic viewport height for mobile */
+    min-height: 100vh; /* Fallback */
     display: flex;
     flex-direction: column;
-    overflow: hidden;
+    overflow: hidden; /* Prevent scrolling on body, main layout handles it */
     background-image: 
         radial-gradient(circle at 10% 20%, rgba(59, 130, 246, 0.05) 0%, transparent 20%),
         radial-gradient(circle at 90% 80%, rgba(16, 185, 129, 0.05) 0%, transparent 20%);
@@ -303,7 +304,13 @@ header {
     color: var(--text-primary);
 }
 
+select option {
+    background-color: var(--bg-color); /* Ensure dropdown options match theme */
+    color: var(--text-primary);
+}
+
 .filters button {
+
     background: var(--card-bg);
     border: 1px solid var(--border-color);
     color: var(--text-secondary);
@@ -884,17 +891,18 @@ header {
     height: 100%;
     background: rgba(0, 0, 0, 0.7);
     backdrop-filter: blur(5px);
-    z-index: 1000;
+    z-index: 2000;
     display: flex;
     align-items: center;
     justify-content: center;
     opacity: 1;
+    visibility: visible;
     transition: opacity 0.3s ease;
 }
 
 .modal.hidden {
-    display: none !important;
     opacity: 0;
+    visibility: hidden;
     pointer-events: none;
 }
 
@@ -1235,7 +1243,8 @@ header {
     }
 
     .pokemon-list-section {
-        height: 600px; /* Fixed height on mobile for list */
+        height: calc(100vh - 140px); /* Better dynamic height for mobile */
+        min-height: 400px;
     }
 
     .details-card.sticky {
@@ -1250,6 +1259,68 @@ header {
         grid-template-columns: 1fr;
     }
 }
+
+@media (max-width: 380px) {
+    .team-slots-large {
+        grid-template-columns: 1fr; /* Single column for very small screens */
+    }
+}
+
+/* Toast Notifications */
+.toast-container {
+    position: fixed;
+    bottom: 24px;
+    right: 24px;
+    z-index: 9999;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    pointer-events: none;
+}
+
+.toast {
+    background: var(--card-bg);
+    border: 1px solid var(--border-color);
+    border-left: 4px solid var(--accent-color);
+    padding: 16px;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+    color: var(--text-color);
+    min-width: 300px;
+    max-width: 400px;
+    transform: translateX(120%);
+    transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    pointer-events: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.toast.show {
+    transform: translateX(0);
+}
+
+.toast.error { border-left-color: #ef4444; }
+.toast.success { border-left-color: #22c55e; }
+.toast.info { border-left-color: #3b82f6; }
+
+.toast-message {
+    font-size: 0.9rem;
+    margin-right: 12px;
+}
+
+.toast-close {
+    background: none;
+    border: none;
+    color: var(--text-muted);
+    cursor: pointer;
+    font-size: 1.2rem;
+    padding: 0;
+    line-height: 1;
+}
+
+.toast-close:hover { color: var(--text-color); }
+
 
 /* Database Error Modal Styles */
 .large-modal {

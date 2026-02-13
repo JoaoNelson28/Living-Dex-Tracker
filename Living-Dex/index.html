@@ -9,11 +9,89 @@
     <link rel="stylesheet" href="style.css?v=11">
     <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
     <meta http-equiv="Content-Security-Policy" content="default-src 'self' https:; script-src 'self' 'unsafe-inline' https://cdn.jsdelivr.net https://unpkg.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com https://cdnjs.cloudflare.com; font-src 'self' https://fonts.gstatic.com https://cdnjs.cloudflare.com; img-src 'self' data: https:;">
 </head>
 <body>
-    <!-- Main App View -->
-    <div id="app-view">
+    <!-- Login Screen (Shown by default) -->
+    <div id="login-screen" class="login-page">
+        <div class="login-container">
+            <div class="login-header">
+                <div class="pokeball-logo large"></div>
+                <h1>Living Dex Tracker</h1>
+                <p>Legends Z-A Edition</p>
+            </div>
+            
+            <div class="login-card">
+                <div class="auth-tabs">
+                    <button class="auth-tab active" id="tab-login">Login</button>
+                    <button class="auth-tab" id="tab-register">Cadastro</button>
+                </div>
+
+                <!-- Login Form -->
+                <form id="auth-login-form">
+                    <div class="form-group">
+                        <label for="login-email">Email</label>
+                        <input type="email" id="login-email" required placeholder="seu@email.com">
+                    </div>
+                    <div class="form-group">
+                        <label for="login-password">Senha</label>
+                        <input type="password" id="login-password" required placeholder="********">
+                    </div>
+                    <div class="auth-message" id="login-message"></div>
+                    <button type="submit" class="action-btn" id="btn-submit-login">
+                        <span class="btn-text">Entrar</span>
+                    </button>
+                    <div class="auth-links" style="text-align: center;">
+                        <a href="#" id="link-forgot-pass" style="color: var(--text-muted); font-size: 0.9rem; text-decoration: none;">Esqueci minha senha</a>
+                    </div>
+                </form>
+
+                <!-- Register Form -->
+                <form id="auth-register-form" class="hidden">
+                    <div class="form-group">
+                        <label for="register-email">Email</label>
+                        <input type="email" id="register-email" required placeholder="seu@email.com">
+                    </div>
+                    <div class="form-group">
+                        <label for="register-password">Senha</label>
+                        <input type="password" id="register-password" required placeholder="********">
+                    </div>
+                    <div class="form-group">
+                        <label for="register-confirm">Confirmar Senha</label>
+                        <input type="password" id="register-confirm" required placeholder="********">
+                    </div>
+                    <div class="auth-message" id="register-message"></div>
+                    <button type="submit" class="action-btn" id="btn-submit-register">
+                        <span class="btn-text">Criar Conta</span>
+                    </button>
+                </form>
+
+                <!-- Forgot Password Form -->
+                <form id="auth-forgot-form" class="hidden">
+                    <div class="form-group">
+                        <p style="font-size: 0.9rem; color: var(--text-muted); margin-bottom: 15px;">Digite seu email para receber o link de recuperação.</p>
+                        <label for="forgot-email">Email</label>
+                        <input type="email" id="forgot-email" required placeholder="seu@email.com">
+                    </div>
+                    <div class="auth-message" id="forgot-message"></div>
+                    <button type="submit" class="action-btn" id="btn-submit-forgot">
+                        <span class="btn-text">Recuperar Senha</span>
+                    </button>
+                    <div class="auth-links" style="text-align: center; margin-top: 10px;">
+                        <a href="#" id="link-back-login" style="color: var(--highlight); font-size: 0.9rem; text-decoration: none;">Voltar para Login</a>
+                    </div>
+                </form>
+            </div>
+            
+            <div class="login-footer" style="text-align: center; color: var(--text-muted); font-size: 0.8rem;">
+                <p>&copy; 2025 Living Dex Tracker</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Main App View (Hidden by default) -->
+    <div id="app-view" class="hidden">
         <header>
         <div class="container header-content">
             <h1>
@@ -38,6 +116,8 @@
             <div class="nav-tabs">
                 <button id="tab-dex" class="nav-tab active">Dex</button>
                 <button id="tab-team" class="nav-tab">Team Builder</button>
+                <!-- Login button removed from header as we have a dedicated screen -->
+                <button id="btn-logout" class="nav-tab" style="color: #ff5555; border-color: #ff5555;">Sair</button>
             </div>
         </div>
     </header>
@@ -184,6 +264,8 @@
             </div>
         </div>
     </div>
+
+    <!-- Auth Modal Removed -->
 
     <!-- Pokemon Selector Modal -->
     <div id="pokemon-selector-modal" class="modal hidden">
