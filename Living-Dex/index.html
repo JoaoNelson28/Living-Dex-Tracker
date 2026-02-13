@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Living Dex Tracker - Legends Z-A</title>
+    <!-- Font Awesome for icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="style.css?v=11">
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self' https:; script-src 'self' 'unsafe-inline' https://cdn.jsdelivr.net https://unpkg.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com https://cdnjs.cloudflare.com; font-src 'self' https://fonts.gstatic.com https://cdnjs.cloudflare.com; img-src 'self' data: https:;">
+</head>
+<body>
+    <!-- Main App View -->
+    <div id="app-view">
+        <header>
+        <div class="container header-content">
+            <h1>
+                <div class="pokeball-logo"></div>
+                Living Dex Tracker
+            </h1>
+            <div class="game-selector">
+                <label for="game-select">Jogo:</label>
+                <select id="game-select">
+                    <!-- Options will be populated by JS -->
+                </select>
+            </div>
+            <div class="progress-container">
+                <div class="progress-labels">
+                    <span>Progresso</span>
+                    <span id="progress-text">0/0</span>
+                </div>
+                <div class="progress-bar">
+                    <div id="progress-fill" style="width: 0%"></div>
+                </div>
+            </div>
+            <div class="nav-tabs">
+                <button id="tab-dex" class="nav-tab active">Dex</button>
+                <button id="tab-team" class="nav-tab">Team Builder</button>
+            </div>
+        </div>
+    </header>
+
+    <!-- View: Living Dex -->
+    <div id="view-dex" class="view-section active">
+        <main class="container main-layout">
+        <!-- Sidebar / List Section -->
+        <section class="pokemon-list-section">
+            <div class="search-bar">
+                <div class="search-input-wrapper">
+                    <i class="fa-solid fa-search"></i>
+                    <input type="text" id="search-input" placeholder="Buscar Pokémon...">
+                </div>
+                <div class="filters">
+                    <select id="filter-type" class="type-filter">
+                        <option value="all">Todos os Tipos</option>
+                        <!-- Options populated by JS -->
+                    </select>
+                    <button id="filter-uncaptured" title="Mostrar apenas não capturados"><i class="fa-regular fa-square"></i></button>
+                    <button id="filter-captured" title="Mostrar apenas capturados"><i class="fa-regular fa-check-square"></i></button>
+                </div>
+            </div>
+            <div id="pokemon-list" class="pokemon-list">
+                <!-- Pokemon items will be injected here -->
+            </div>
+        </section>
+
+        <!-- Details Section -->
+        <section class="pokemon-details-section" id="details-section">
+            <div class="details-card sticky">
+                <div id="empty-state" class="empty-state">
+                    <i class="fa-solid fa-arrow-left"></i>
+                    <p>Selecione um Pokémon para ver os detalhes de captura.</p>
+                </div>
+                
+                <div id="pokemon-detail-content" class="hidden">
+                    <div class="detail-header">
+                        <div class="header-text">
+                            <h2 id="detail-name">Nome do Pokémon</h2>
+                        </div>
+                        <span id="detail-id" class="dex-number">#000</span>
+                    </div>
+                    
+                    <div class="detail-image-container">
+                        <img id="detail-image" src="" alt="Pokemon Image">
+                    </div>
+
+                    <div id="detail-types" class="types-container">
+                        <!-- Types will be injected here -->
+                    </div>
+
+                    <div class="capture-status" id="capture-status-container">
+                        <label class="custom-checkbox">
+                            <input type="checkbox" id="detail-checkbox">
+                            <div class="pokeball-check"></div>
+                            <span class="label-text">Capturado</span>
+                        </label>
+                    </div>
+
+                    <button id="add-to-team-btn" class="action-btn">
+                        <i class="fa-solid fa-plus"></i> Adicionar à Equipe
+                    </button>
+
+                    <!-- New Evolution Block -->
+                    <div id="evolution-container" class="evolution-block hidden">
+                        <div class="evolution-header">
+                            <i class="fa-solid fa-dna"></i>
+                            <span>Pré-Evolução</span>
+                        </div>
+                        <div class="evolution-content">
+                            <i class="fa-solid fa-arrow-up-from-bracket fa-rotate-180"></i>
+                            <span>Evolui de: </span>
+                            <a href="#" id="pre-evolution-link" class="evolution-btn">Nome</a>
+                        </div>
+                    </div>
+
+                    <!-- Interactive Map Link Block -->
+                    <div id="map-container" class="evolution-block hidden">
+                        <div class="evolution-header">
+                            <i class="fa-solid fa-map"></i>
+                            <span>Mapa Interativo</span>
+                        </div>
+                        <div class="evolution-content" style="flex-direction: column; align-items: stretch;">
+                            <a href="#" id="map-link" target="_blank" class="evolution-btn" style="text-align: center;">
+                                <i class="fa-solid fa-external-link-alt"></i> Ver no Game8
+                            </a>
+                            <div id="static-map-preview" class="map-preview hidden">
+                                <!-- Placeholder for static map if we add one later -->
+                                <img src="https://img.game8.co/3618775/00758a0e39806626622606555550777a.png/show" alt="Paldea Map" style="width: 100%; border-radius: 8px; margin-top: 10px;">
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="info-grid">
+                        <div class="info-item">
+                            <h3><i class="fa-solid fa-map-location-dot"></i> Localização</h3>
+                            <p id="detail-location">--</p>
+                        </div>
+                        <div class="info-item">
+                            <h3><i class="fa-solid fa-clock"></i> Horário/Turno</h3>
+                            <p id="detail-time">--</p>
+                        </div>
+                        <div class="info-item">
+                            <h3><i class="fa-solid fa-cloud-sun"></i> Clima</h3>
+                            <p id="detail-weather">--</p>
+                        </div>
+                        <div class="info-item full-width">
+                            <h3><i class="fa-solid fa-book-open"></i> Método de Captura</h3>
+                            <p id="detail-method">--</p>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+    </div> <!-- End View Dex -->
+    
+    <!-- View: Team Builder -->
+    <div id="view-team" class="view-section hidden">
+        <div class="container">
+            <div class="team-builder-layout">
+                <div class="team-display-section">
+                    <h2>Sua Equipe</h2>
+                    <div class="team-slots-large" id="team-slots-large">
+                        <!-- Slots injected by JS -->
+                    </div>
+                </div>
+
+                <div class="team-analysis-section">
+                    <div class="analysis-header">
+                        <h2>Análise de Defesa</h2>
+                        <div class="analysis-legend">
+                            <span class="legend-item"><span class="dot weak"></span> Fraqueza</span>
+                            <span class="legend-item"><span class="dot resist"></span> Resistência</span>
+                            <span class="legend-item"><span class="dot immune"></span> Imunidade</span>
+                        </div>
+                    </div>
+                    <div class="analysis-grid" id="analysis-grid">
+                        <!-- Analysis rows injected by JS -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Pokemon Selector Modal -->
+    <div id="pokemon-selector-modal" class="modal hidden">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3>Selecionar Pokémon</h3>
+                <button id="close-modal-btn" class="close-btn"><i class="fa-solid fa-times"></i></button>
+            </div>
+            <div class="modal-search">
+                <i class="fa-solid fa-search"></i>
+                <input type="text" id="selector-search" placeholder="Pesquisar por nome...">
+                <select id="selector-type-filter" class="type-filter-modal">
+                    <option value="all">Todos os Tipos</option>
+                </select>
+            </div>
+            <div id="selector-list" class="selector-list">
+                <!-- List items injected by JS -->
+            </div>
+        </div>
+    </div>
+
+    </div> <!-- End App View -->
+
+    <script src="script.js?v=12"></script>
+</body>
+</html>
