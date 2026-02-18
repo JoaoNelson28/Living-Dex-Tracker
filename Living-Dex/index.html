@@ -212,7 +212,7 @@
                         </div>
                     </div>
 
-                    <div class="info-grid">
+                    <div id="info-grid" class="info-grid">
                         <div class="info-item">
                             <h3><i class="fa-solid fa-map-location-dot"></i> Localização</h3>
                             <p id="detail-location">--</p>
@@ -242,7 +242,18 @@
         <div class="container">
             <div class="team-builder-layout">
                 <div class="team-display-section">
-                    <h2>Sua Equipe</h2>
+                    <div class="team-header-controls" style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
+                        <h2>Sua Equipe</h2>
+                        <div class="profile-selector">
+                            <select id="team-profile-select" class="team-profile-select">
+                                <option value="0">Equipe 1</option>
+                                <option value="1">Equipe 2</option>
+                                <option value="2">Equipe 3</option>
+                                <option value="3">Equipe 4</option>
+                                <option value="4">Equipe 5</option>
+                            </select>
+                        </div>
+                    </div>
                     <div class="team-slots-large" id="team-slots-large">
                         <!-- Slots injected by JS -->
                     </div>
@@ -289,6 +300,6 @@
 
     </div> <!-- End App View -->
 
-    <script src="script.js?v=12"></script>
+    <script src="script.js?v=15"></script>
 </body>
 </html>

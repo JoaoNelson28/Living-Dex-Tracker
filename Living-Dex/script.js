@@ -6,76 +6,8 @@ const SUPABASE_ANON_KEY = 'sb_publishable_rE30kYBuTqmQ8Y25n3gJqQ_rEb3Ze9B';
 
 let supabaseClient;
 
-// Initialize Supabase with retry limit
-let supabaseInitAttempts = 0;
-const MAX_SUPABASE_ATTEMPTS = 20;
+// Auth listener setup moved to bottom with other init logic
 
-function initSupabase() {
-    if (supabaseClient) return; // Already initialized
-    
-    if (window.supabase) {
-        supabaseClient = window.supabase.createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
-        // console.log("Supabase initialized");
-        setupAuthListener();
-        checkInitialSession();
-    } else {
-        // Retry if library not loaded yet
-        supabaseInitAttempts++;
-        if (supabaseInitAttempts < MAX_SUPABASE_ATTEMPTS) {
-            setTimeout(initSupabase, 100);
-        } else {
-            console.error("Failed to load Supabase library after multiple attempts.");
-            showToast("Erro ao carregar sistema de login. Recarregue a página.", "error");
-        }
-    }
-}
-
-async function checkInitialSession() {
-    if (!supabaseClient) return;
-    
-    try {
-        const { data } = await supabaseClient.auth.getSession();
-        if (!data.session) {
-            // No active session, show login modal
-            // Ensure UI is ready by checking a key element
-            if (document.readyState === 'loading') {
-                document.addEventListener('DOMContentLoaded', () => {
-                    if (!currentState.user) showAuthModal('login');
-                });
-            } else {
-                if (!currentState.user) showAuthModal('login');
-            }
-        }
-    } catch (e) {
-        console.error("Session check error:", e);
-    }
-}
-
-function setupAuthListener() {
-    supabaseClient.auth.onAuthStateChange((event, session) => {
-        // console.log("Auth State Change:", event, session);
-        if (event === 'SIGNED_IN' || event === 'TOKEN_REFRESHED') {
-            currentState.user = session.user;
-            updateAuthUI(true);
-            loadData(); // Reload data from Supabase
-            showToast("Conectado com sucesso!", "success");
-        } else if (event === 'SIGNED_OUT') {
-            currentState.user = null;
-            updateAuthUI(false);
-            
-            // Clear local storage robustly (all keys related to app)
-            Object.keys(localStorage).forEach(key => {
-                if (key.startsWith('livingDex_')) {
-                    localStorage.removeItem(key);
-                }
-            });
-            
-            // Clear local data view or switch to local storage mode
-            loadData(); // Revert to local storage data (which is now empty)
-            showToast("Desconectado.", "info");
-        }
-    });
-}
 
 // Auth Functions
 async function signIn(email, password) {
@@ -4038,7 +3970,101 @@ const games = [
                     "weather": "Qualquer",
                     "notes": "Verifique os arredores."
                 }
-            }
+            },
+            // NEW MEGA EVOLUTIONS (LEGENDS Z-A)
+            { "id": 20001, "lumioseId": 401, "name": "Mega Raichu X", "type": ["Elétrico"], "image": "img/mega/Mega-Raichu-X.jpg", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"New in Legends Z-A"} },
+            { "id": 20002, "lumioseId": 402, "name": "Mega Raichu Y", "type": ["Elétrico"], "image": "img/mega/Mega-Raichu-Y.jpg", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"New in Legends Z-A"} },
+            { "id": 20003, "lumioseId": 403, "name": "Mega Clefable", "type": ["Fada","Voador"], "image": "img/mega/Mega-Clefable.jpg", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"New in Legends Z-A"} },
+            { "id": 20004, "lumioseId": 404, "name": "Mega Victreebel", "type": ["Grama","Venenoso"], "image": "img/mega/Mega-Victreebel.jpg", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"New in Legends Z-A"} },
+            { "id": 20005, "lumioseId": 405, "name": "Mega Starmie", "type": ["Água","Psíquico"], "image": "img/mega/Mega-Starmie.jpg", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"New in Legends Z-A"} },
+            { "id": 20006, "lumioseId": 406, "name": "Mega Dragonite", "type": ["Dragão","Voador"], "image": "img/mega/Mega-Dragonite.jpg", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"New in Legends Z-A"} },
+            { "id": 20007, "lumioseId": 407, "name": "Mega Meganium", "type": ["Grama","Fada"], "image": "img/mega/Mega-Meganium.jpg", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"New in Legends Z-A"} },
+            { "id": 20008, "lumioseId": 408, "name": "Mega Feraligatr", "type": ["Água","Dragão"], "image": "img/mega/Mega-Feraligatr.jpg", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"New in Legends Z-A"} },
+            { "id": 20009, "lumioseId": 409, "name": "Mega Skarmory", "type": ["Aço","Voador"], "image": "img/mega/Mega-Skarmory.jpg", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"New in Legends Z-A"} },
+            { "id": 20010, "lumioseId": 410, "name": "Mega Chimecho", "type": ["Psíquico","Aço"], "image": "img/mega/Mega-Chimecho.jpg", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"New in Legends Z-A"} },
+            { "id": 20011, "lumioseId": 411, "name": "Mega Absol Z", "type": ["Sombrio","Fantasma"], "image": "img/mega/Mega-Absol-Z.jpg", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"New in Legends Z-A"} },
+            { "id": 20012, "lumioseId": 412, "name": "Mega Staraptor", "type": ["Lutador","Voador"], "image": "img/mega/Mega-Staraptor.jpg", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"New in Legends Z-A"} },
+            { "id": 20013, "lumioseId": 413, "name": "Mega Garchomp Z", "type": ["Dragão"], "image": "img/mega/Mega-Garchomp-Z.jpg", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"New in Legends Z-A"} },
+            { "id": 20014, "lumioseId": 414, "name": "Mega Lucario Z", "type": ["Lutador","Aço"], "image": "img/mega/Mega-Lucario-Z.jpg", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"New in Legends Z-A"} },
+            { "id": 20015, "lumioseId": 415, "name": "Mega Froslass", "type": ["Gelo","Fantasma"], "image": "img/mega/Mega-Froslass.jpg", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"New in Legends Z-A"} },
+            { "id": 20016, "lumioseId": 416, "name": "Mega Heatran", "type": ["Fogo","Aço"], "image": "img/mega/Mega-Heatran.jpg", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"New in Legends Z-A"} },
+            { "id": 20017, "lumioseId": 417, "name": "Mega Darkrai", "type": ["Sombrio"], "image": "img/mega/Mega-Darkrai.jpg", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"New in Legends Z-A"} },
+            { "id": 20018, "lumioseId": 418, "name": "Mega Emboar", "type": ["Fogo","Lutador"], "image": "img/mega/Mega-Emboar.jpg", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"New in Legends Z-A"} },
+            { "id": 20019, "lumioseId": 419, "name": "Mega Excadrill", "type": ["Terrestre","Aço"], "image": "img/mega/Mega-Excadrill.jpg", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"New in Legends Z-A"} },
+            { "id": 20020, "lumioseId": 420, "name": "Mega Scolipede", "type": ["Inseto","Venenoso"], "image": "img/mega/Mega-Scolipede.jpg", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"New in Legends Z-A"} },
+            { "id": 20021, "lumioseId": 421, "name": "Mega Scrafty", "type": ["Sombrio","Lutador"], "image": "img/mega/Mega-Scrafty.jpg", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"New in Legends Z-A"} },
+            { "id": 20022, "lumioseId": 422, "name": "Mega Eelektross", "type": ["Elétrico"], "image": "img/mega/Mega-Eelektross.jpg", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"New in Legends Z-A"} },
+            { "id": 20023, "lumioseId": 423, "name": "Mega Chandelure", "type": ["Fantasma","Fogo"], "image": "img/mega/Mega-Chandelure.jpg", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"New in Legends Z-A"} },
+            { "id": 20024, "lumioseId": 424, "name": "Mega Golurk", "type": ["Terrestre","Fantasma"], "image": "img/mega/Mega-Golurk.jpg", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"New in Legends Z-A"} },
+            { "id": 20025, "lumioseId": 425, "name": "Mega Chesnaught", "type": ["Grama","Lutador"], "image": "img/mega/Mega-Chesnaught.jpg", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"New in Legends Z-A"} },
+            { "id": 20026, "lumioseId": 426, "name": "Mega Delphox", "type": ["Fogo","Psíquico"], "image": "img/mega/Mega-Delphox.jpg", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"New in Legends Z-A"} },
+            { "id": 20027, "lumioseId": 427, "name": "Mega Greninja", "type": ["Água","Sombrio"], "image": "img/mega/Mega-Greninja.jpg", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"New in Legends Z-A"} },
+            { "id": 20028, "lumioseId": 428, "name": "Mega Pyroar", "type": ["Fogo","Normal"], "image": "img/mega/Mega-Pyroar.jpg", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"New in Legends Z-A"} },
+            { "id": 20029, "lumioseId": 429, "name": "Mega Eternal Floette", "type": ["Fada"], "image": "img/mega/Mega-Floette.jpg", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"New in Legends Z-A"} },
+            { "id": 20030, "lumioseId": 430, "name": "Mega Meowstic", "type": ["Psíquico"], "image": "img/mega/Mega-Meowstic.jpg", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"New in Legends Z-A"} },
+            { "id": 20031, "lumioseId": 431, "name": "Mega Malamar", "type": ["Sombrio","Psíquico"], "image": "img/mega/Mega-Malamar.jpg", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"New in Legends Z-A"} },
+            { "id": 20032, "lumioseId": 432, "name": "Mega Barbaracle", "type": ["Pedra","Lutador"], "image": "img/mega/Mega-Barbaracle.jpg", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"New in Legends Z-A"} },
+            { "id": 20033, "lumioseId": 433, "name": "Mega Dragalge", "type": ["Venenoso","Dragão"], "image": "img/mega/Mega-Dragalge.jpg", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"New in Legends Z-A"} },
+            { "id": 20034, "lumioseId": 434, "name": "Mega Hawlucha", "type": ["Lutador","Voador"], "image": "img/mega/Mega-Hawlucha.jpg", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"New in Legends Z-A"} },
+            { "id": 20035, "lumioseId": 435, "name": "Mega Complete Zygarde", "type": ["Dragão","Terrestre"], "image": "img/mega/Mega-Zygarde.jpg", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"New in Legends Z-A"} },
+            { "id": 20036, "lumioseId": 436, "name": "Mega Crabominable", "type": ["Lutador","Gelo"], "image": "img/mega/Mega-Crabominable.jpg", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"New in Legends Z-A"} },
+            { "id": 20037, "lumioseId": 437, "name": "Mega Golisopod", "type": ["Inseto","Aço"], "image": "img/mega/Mega-Golisopod.jpg", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"New in Legends Z-A"} },
+            { "id": 20038, "lumioseId": 438, "name": "Mega Drampa", "type": ["Normal","Dragão"], "image": "img/mega/Mega-Drampa.jpg", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"New in Legends Z-A"} },
+            { "id": 20039, "lumioseId": 439, "name": "Mega Magearna", "type": ["Aço","Fada"], "image": "img/mega/Mega-Magearna.jpg", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"New in Legends Z-A"} },
+            { "id": 20041, "lumioseId": 441, "name": "Mega Zeraora", "type": ["Elétrico"], "image": "img/mega/Mega-Zeraora.jpg", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"New in Legends Z-A"} },
+            { "id": 20042, "lumioseId": 442, "name": "Mega Scovillain", "type": ["Grama","Fogo"], "image": "img/mega/Mega-Scovillian.jpg", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"New in Legends Z-A"} },
+            { "id": 20043, "lumioseId": 443, "name": "Mega Glimmora", "type": ["Pedra","Venenoso"], "image": "img/mega/Mega-Glimmora.jpg", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"New in Legends Z-A"} },
+            { "id": 20044, "lumioseId": 444, "name": "Mega Tatsugiri", "type": ["Dragão","Água"], "image": "img/mega/Mega-Tatsugiri.jpg", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"New in Legends Z-A"} },
+            { "id": 20047, "lumioseId": 447, "name": "Mega Falinks", "type": ["Lutador"], "image": "img/mega/Mega-Falinks.jpg", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"New in Legends Z-A"} },
+            { "id": 20048, "lumioseId": 448, "name": "Mega Baxcalibur", "type": ["Dragão","Gelo"], "image": "img/mega/Mega-Baxcalibur.jpg", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"New in Legends Z-A"} },
+            { "id": 20101, "lumioseId": 450, "name": "Mega Venusaur", "type": ["Grama","Venenoso"], "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10033.png", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"Returning Mega"} },
+            { "id": 20102, "lumioseId": 451, "name": "Mega Charizard X", "type": ["Fogo","Dragão"], "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10034.png", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"Returning Mega"} },
+            { "id": 20103, "lumioseId": 452, "name": "Mega Charizard Y", "type": ["Fogo","Voador"], "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10035.png", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"Returning Mega"} },
+            { "id": 20104, "lumioseId": 453, "name": "Mega Blastoise", "type": ["Água"], "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10036.png", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"Returning Mega"} },
+            { "id": 20105, "lumioseId": 454, "name": "Mega Beedrill", "type": ["Inseto","Venenoso"], "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10090.png", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"Returning Mega"} },
+            { "id": 20106, "lumioseId": 455, "name": "Mega Pidgeot", "type": ["Normal","Voador"], "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10073.png", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"Returning Mega"} },
+            { "id": 20107, "lumioseId": 456, "name": "Mega Alakazam", "type": ["Psíquico"], "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10037.png", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"Returning Mega"} },
+            { "id": 20108, "lumioseId": 457, "name": "Mega Slowbro", "type": ["Água","Psíquico"], "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10071.png", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"Returning Mega"} },
+            { "id": 20109, "lumioseId": 458, "name": "Mega Gengar", "type": ["Fantasma","Venenoso"], "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10038.png", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"Returning Mega"} },
+            { "id": 20110, "lumioseId": 459, "name": "Mega Kangaskhan", "type": ["Normal"], "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10039.png", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"Returning Mega"} },
+            { "id": 20111, "lumioseId": 460, "name": "Mega Pinsir", "type": ["Inseto","Voador"], "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10040.png", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"Returning Mega"} },
+            { "id": 20112, "lumioseId": 461, "name": "Mega Gyarados", "type": ["Água","Sombrio"], "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10041.png", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"Returning Mega"} },
+            { "id": 20113, "lumioseId": 462, "name": "Mega Aerodactyl", "type": ["Pedra","Voador"], "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10042.png", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"Returning Mega"} },
+            { "id": 20114, "lumioseId": 463, "name": "Mega Mewtwo X", "type": ["Psíquico","Lutador"], "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10043.png", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"Returning Mega"} },
+            { "id": 20115, "lumioseId": 464, "name": "Mega Mewtwo Y", "type": ["Psíquico"], "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10044.png", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"Returning Mega"} },
+            { "id": 20116, "lumioseId": 465, "name": "Mega Ampharos", "type": ["Elétrico","Dragão"], "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10045.png", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"Returning Mega"} },
+            { "id": 20117, "lumioseId": 466, "name": "Mega Steelix", "type": ["Aço","Terrestre"], "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10072.png", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"Returning Mega"} },
+            { "id": 20118, "lumioseId": 467, "name": "Mega Scizor", "type": ["Inseto","Aço"], "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10046.png", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"Returning Mega"} },
+            { "id": 20119, "lumioseId": 468, "name": "Mega Heracross", "type": ["Inseto","Lutador"], "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10047.png", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"Returning Mega"} },
+            { "id": 20120, "lumioseId": 469, "name": "Mega Houndoom", "type": ["Sombrio","Fogo"], "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10048.png", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"Returning Mega"} },
+            { "id": 20121, "lumioseId": 470, "name": "Mega Tyranitar", "type": ["Pedra","Sombrio"], "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10049.png", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"Returning Mega"} },
+            { "id": 20122, "lumioseId": 471, "name": "Mega Sceptile", "type": ["Grama","Dragão"], "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10065.png", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"Returning Mega"} },
+            { "id": 20123, "lumioseId": 472, "name": "Mega Blaziken", "type": ["Fogo","Lutador"], "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10050.png", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"Returning Mega"} },
+            { "id": 20124, "lumioseId": 473, "name": "Mega Swampert", "type": ["Água","Terrestre"], "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10064.png", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"Returning Mega"} },
+            { "id": 20125, "lumioseId": 474, "name": "Mega Gardevoir", "type": ["Psíquico","Fada"], "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10051.png", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"Returning Mega"} },
+            { "id": 20126, "lumioseId": 475, "name": "Mega Sableye", "type": ["Sombrio","Fantasma"], "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10066.png", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"Returning Mega"} },
+            { "id": 20127, "lumioseId": 476, "name": "Mega Mawile", "type": ["Aço","Fada"], "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10052.png", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"Returning Mega"} },
+            { "id": 20128, "lumioseId": 477, "name": "Mega Aggron", "type": ["Aço"], "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10053.png", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"Returning Mega"} },
+            { "id": 20129, "lumioseId": 478, "name": "Mega Medicham", "type": ["Lutador","Psíquico"], "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10054.png", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"Returning Mega"} },
+            { "id": 20130, "lumioseId": 479, "name": "Mega Manectric", "type": ["Elétrico"], "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10055.png", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"Returning Mega"} },
+            { "id": 20131, "lumioseId": 480, "name": "Mega Sharpedo", "type": ["Água","Sombrio"], "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10067.png", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"Returning Mega"} },
+            { "id": 20132, "lumioseId": 481, "name": "Mega Camerupt", "type": ["Fogo","Terrestre"], "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10087.png", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"Returning Mega"} },
+            { "id": 20133, "lumioseId": 482, "name": "Mega Altaria", "type": ["Dragão","Fada"], "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10068.png", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"Returning Mega"} },
+            { "id": 20134, "lumioseId": 483, "name": "Mega Banette", "type": ["Fantasma"], "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10056.png", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"Returning Mega"} },
+            { "id": 20135, "lumioseId": 484, "name": "Mega Absol", "type": ["Sombrio"], "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10057.png", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"Returning Mega"} },
+            { "id": 20136, "lumioseId": 485, "name": "Mega Glalie", "type": ["Gelo"], "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10074.png", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"Returning Mega"} },
+            { "id": 20137, "lumioseId": 486, "name": "Mega Salamence", "type": ["Dragão","Voador"], "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10089.png", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"Returning Mega"} },
+            { "id": 20138, "lumioseId": 487, "name": "Mega Metagross", "type": ["Aço","Psíquico"], "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10076.png", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"Returning Mega"} },
+            { "id": 20139, "lumioseId": 488, "name": "Mega Latias", "type": ["Dragão","Psíquico"], "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10062.png", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"Returning Mega"} },
+            { "id": 20140, "lumioseId": 489, "name": "Mega Latios", "type": ["Dragão","Psíquico"], "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10063.png", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"Returning Mega"} },
+            { "id": 20141, "lumioseId": 490, "name": "Mega Rayquaza", "type": ["Dragão","Voador"], "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10079.png", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"Returning Mega"} },
+            { "id": 20142, "lumioseId": 491, "name": "Mega Lopunny", "type": ["Normal","Lutador"], "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10088.png", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"Returning Mega"} },
+            { "id": 20143, "lumioseId": 492, "name": "Mega Garchomp", "type": ["Dragão","Terrestre"], "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10058.png", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"Returning Mega"} },
+            { "id": 20144, "lumioseId": 493, "name": "Mega Lucario", "type": ["Lutador","Aço"], "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10059.png", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"Returning Mega"} },
+            { "id": 20145, "lumioseId": 494, "name": "Mega Abomasnow", "type": ["Grama","Gelo"], "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10060.png", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"Returning Mega"} },
+            { "id": 20146, "lumioseId": 495, "name": "Mega Gallade", "type": ["Psíquico","Lutador"], "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10069.png", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"Returning Mega"} },
+            { "id": 20147, "lumioseId": 496, "name": "Mega Audino", "type": ["Normal","Fada"], "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10070.png", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"Returning Mega"} },
+            { "id": 20148, "lumioseId": 497, "name": "Mega Diancie", "type": ["Pedra","Fada"], "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10075.png", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"Returning Mega"} }
         ]
     },
     {
@@ -10650,19 +10676,11 @@ const games = [
                     "weather": "Qualquer",
                     "notes": "Verifique o mapa interativo."
                 }
-            }
+            },
+
         ]
     }
 ];
-
-
-// RE-INJECTING FULL DATA (Simulated for this context, user has the full file)
-// In a real scenario I would cat data.js here. 
-// Let's try to fix the imports first. Since we removed type="module", we can't use import.
-// We need to make data.js and typeChart.js loadable as globals or merge them.
-
-// Let's revert to using module but fixing the server/path issue OR stick to the plan of merging.
-// Merging is safer for simple local servers.
 
 const typeChart = {
     "Normal": { weak: ["Lutador"], resist: [], immune: ["Fantasma"] },
@@ -10721,6 +10739,7 @@ function saveUserData(gameId, capturedData, teamData) {
             // Guest mode: Save to local storage
             localStorage.setItem(`livingDex_${gameId}`, JSON.stringify(dataToSave));
         }
+
         
         return { data: dataToSave, error: null };
     } catch (e) {
@@ -10742,11 +10761,13 @@ let currentState = {
     capturedData: {}, // Loaded from LocalStorage
     teamData: {}, // Loaded from LocalStorage
     currentView: 'dex', // 'dex', 'team'
-    selectedSlotIndex: null // Track which slot we are filling
+    selectedSlotIndex: null, // Track which slot we are filling
+    selectedTeamProfile: 0 // Default profile 0 (Equipe 1)
 };
 
 // DOM Elements
 const gameSelect = document.getElementById('game-select');
+const teamProfileSelect = document.getElementById('team-profile-select');
 const pokemonListEl = document.getElementById('pokemon-list');
 const searchInput = document.getElementById('search-input');
 const filterTypeSelect = document.getElementById('filter-type');
@@ -10792,6 +10813,7 @@ const mapContainer = document.getElementById('map-container');
 const mapLink = document.getElementById('map-link');
 const staticMapPreview = document.getElementById('static-map-preview');
 const addToTeamBtn = document.getElementById('add-to-team-btn');
+const infoGrid = document.getElementById('info-grid');
 
 // Initialize
 function init() {
@@ -10833,6 +10855,13 @@ function init() {
         filterTypeSelect.addEventListener('change', (e) => {
             currentState.filterType = e.target.value;
             renderList();
+        });
+    }
+
+    if (teamProfileSelect) {
+        teamProfileSelect.addEventListener('change', (e) => {
+            currentState.selectedTeamProfile = parseInt(e.target.value);
+            renderTeamBuilder();
         });
     }
 
@@ -10922,12 +10951,46 @@ function init() {
         });
     }
 
-    // Initial Load
-    initSupabase();
+    // Initialize Supabase with retry limit
+    // Wait for DOMContentLoaded to ensure window.supabase is available if loaded async
+    if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', () => initSupabase());
+    } else {
+        initSupabase();
+    }
+    
     initAuthScreen(); 
     
     // We don't call loadData() immediately here anymore.
     // checkInitialSession() inside initSupabase will handle the flow.
+}
+
+// Initialize Supabase with retry limit
+let supabaseInitAttempts = 0;
+const MAX_SUPABASE_ATTEMPTS = 50; // Increased attempts
+
+function initSupabase() {
+    if (supabaseClient) return; // Already initialized
+    
+    if (window.supabase) {
+        try {
+            supabaseClient = window.supabase.createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
+            // console.log("Supabase initialized");
+            setupAuthListener();
+            checkInitialSession();
+        } catch (e) {
+            console.error("Supabase init error:", e);
+        }
+    } else {
+        // Retry if library not loaded yet
+        supabaseInitAttempts++;
+        if (supabaseInitAttempts < MAX_SUPABASE_ATTEMPTS) {
+            setTimeout(initSupabase, 200);
+        } else {
+            console.error("Failed to load Supabase library after multiple attempts.");
+            // Don't show toast immediately on load to avoid annoyance, only if user tries to login
+        }
+    }
 }
 
 // Function to move to global scope or make sure it's accessible before initSupabase calls it
@@ -11137,6 +11200,8 @@ async function loadData() {
     // Reset state to avoid data bleeding between users
     currentState.capturedData = {};
     currentState.teamData = {};
+    currentState.selectedTeamProfile = 0;
+    if (teamProfileSelect) teamProfileSelect.value = 0;
 
     // 2. If User Logged In, Load Cloud Data
     if (currentState.user) {
@@ -11170,9 +11235,63 @@ async function loadData() {
     if (!currentState.teamData) currentState.teamData = {};
 
     if (!currentState.capturedData[currentState.selectedGameId]) currentState.capturedData[currentState.selectedGameId] = [];
-    if (!currentState.teamData[currentState.selectedGameId]) currentState.teamData[currentState.selectedGameId] = [null,null,null,null,null,null];
+    
+    // Check if team data is in new format (array of arrays) or old format (single array)
+    let currentTeamData = currentState.teamData[currentState.selectedGameId];
+    
+    if (!currentTeamData) {
+        // Init 5 empty profiles
+        currentState.teamData[currentState.selectedGameId] = [
+            [null,null,null,null,null,null],
+            [null,null,null,null,null,null],
+            [null,null,null,null,null,null],
+            [null,null,null,null,null,null],
+            [null,null,null,null,null,null]
+        ];
+    } else if (Array.isArray(currentTeamData) && currentTeamData.length === 6 && !Array.isArray(currentTeamData[0])) {
+        // Migration: Old format (single array of 6 slots) -> New format (array of profiles)
+        console.log("Migrating team data to profiles...");
+        currentState.teamData[currentState.selectedGameId] = [
+            currentTeamData, // Profile 1 gets the old data
+            [null,null,null,null,null,null],
+            [null,null,null,null,null,null],
+            [null,null,null,null,null,null],
+            [null,null,null,null,null,null]
+        ];
+    } else if (Array.isArray(currentTeamData) && currentTeamData.length < 5) {
+        // Ensure we have 5 profiles if structure exists but is partial
+        while (currentState.teamData[currentState.selectedGameId].length < 5) {
+            currentState.teamData[currentState.selectedGameId].push([null,null,null,null,null,null]);
+        }
+    }
 
     render();
+}
+
+function setupAuthListener() {
+    supabaseClient.auth.onAuthStateChange((event, session) => {
+        // console.log("Auth State Change:", event, session);
+        if (event === 'SIGNED_IN' || event === 'TOKEN_REFRESHED') {
+            currentState.user = session.user;
+            updateAuthUI(true);
+            loadData(); // Reload data from Supabase
+            showToast("Conectado com sucesso!", "success");
+        } else if (event === 'SIGNED_OUT') {
+            currentState.user = null;
+            updateAuthUI(false);
+            
+            // Clear local storage robustly (all keys related to app)
+            Object.keys(localStorage).forEach(key => {
+                if (key.startsWith('livingDex_')) {
+                    localStorage.removeItem(key);
+                }
+            });
+            
+            // Clear local data view or switch to local storage mode
+            loadData(); // Revert to local storage data (which is now empty)
+            showToast("Desconectado.", "info");
+        }
+    });
 }
 
 // Initial Session Check override
@@ -11208,10 +11327,26 @@ function switchView(view) {
 }
 
 function getTeam() {
-    if (!currentState.teamData[currentState.selectedGameId]) {
-        currentState.teamData[currentState.selectedGameId] = [null, null, null, null, null, null];
+    const gameData = currentState.teamData[currentState.selectedGameId];
+    
+    // Safety check if data is corrupted or old format somehow not caught
+    if (!gameData || !Array.isArray(gameData) || (gameData.length > 0 && !Array.isArray(gameData[0]))) {
+        // Force reset/init if bad state
+        currentState.teamData[currentState.selectedGameId] = [
+            [null,null,null,null,null,null],
+            [null,null,null,null,null,null],
+            [null,null,null,null,null,null],
+            [null,null,null,null,null,null],
+            [null,null,null,null,null,null]
+        ];
     }
-    return currentState.teamData[currentState.selectedGameId];
+    
+    // Ensure index is valid
+    if (currentState.selectedTeamProfile < 0 || currentState.selectedTeamProfile >= 5) {
+        currentState.selectedTeamProfile = 0;
+    }
+
+    return currentState.teamData[currentState.selectedGameId][currentState.selectedTeamProfile];
 }
 
 function addToTeam(pokemonId, slotIndex = null) {
@@ -11580,9 +11715,12 @@ function renderDetails() {
     detailImage.src = pokemon.image;
     detailImage.alt = pokemon.name;
 
+    // Check if it is a Mega Evolution (ID > 20000)
+    const isMega = pokemon.id > 20000;
+
     // Evolution Logic
     const captureMethod = pokemon.captureInfo.method || "";
-    if (captureMethod.includes("Evoluir") || captureMethod.includes("Evolução")) {
+    if (!isMega && (captureMethod.includes("Evoluir") || captureMethod.includes("Evolução"))) {
         // Extract name from "Evoluir [Name]" or "Evolução de [Name]"
         let preEvoName = captureMethod.replace("Evoluir ", "").replace("Evolução de ", "").split(" ")[0]; // Get first word
         
@@ -11603,8 +11741,8 @@ function renderDetails() {
         evolutionContainer.classList.add('hidden');
     }
     
-    // Map Logic (Only for Scarlet/Violet)
-    if (currentState.selectedGameId === 'scarlet-violet') {
+    // Map Logic (Only for Scarlet/Violet and NOT Mega)
+    if (!isMega && currentState.selectedGameId === 'scarlet-violet') {
         mapContainer.classList.remove('hidden');
         // Link to Game8 Interactive Map
         // We can link to the general map or try to search
@@ -11614,6 +11752,15 @@ function renderDetails() {
     } else {
         mapContainer.classList.add('hidden');
         staticMapPreview.classList.add('hidden');
+    }
+
+    // Info Grid Logic (Hide for Megas)
+    if (infoGrid) {
+        if (isMega) {
+            infoGrid.classList.add('hidden');
+        } else {
+            infoGrid.classList.remove('hidden');
+        }
     }
 
     // Types

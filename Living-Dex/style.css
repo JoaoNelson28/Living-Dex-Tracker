@@ -93,7 +93,8 @@ header {
     height: var(--header-height);
     flex-shrink: 0;
     z-index: 50;
-    position: relative;
+    position: sticky;
+    top: 0;
     display: flex;
     align-items: center;
 }
@@ -219,13 +220,27 @@ header {
     flex-direction: column;
 }
 
+#view-team {
+    overflow-y: scroll; /* Force vertical scrolling */
+    height: calc(100vh - var(--header-height));
+    padding-bottom: 100px;
+    display: block; /* Ensure it's not a flex column constraining height */
+}
+
+/* Explicitly set Dex View to not scroll the container but children */
+#view-dex {
+    overflow: hidden; 
+    height: calc(100vh - var(--header-height));
+}
+
 .main-layout {
     display: grid;
     grid-template-columns: 1fr 420px;
     gap: 32px;
-    height: calc(100vh - var(--header-height));
+    height: 100%; /* Take full height of parent */
     padding-top: 32px;
     padding-bottom: 32px;
+    overflow: hidden; /* Prevent grid blowouts */
 }
 
 /* Pokemon List Section */
@@ -235,6 +250,7 @@ header {
     gap: 24px;
     height: 100%;
     overflow: hidden;
+    min-height: 0; /* Safety for flex container nesting */
 }
 
 .search-bar {
@@ -344,7 +360,9 @@ select option {
     gap: 16px;
     overflow-y: auto;
     padding-right: 8px;
-    flex: 1; /* Fix for scrolling */
+    padding-bottom: 20px; /* Space at bottom */
+    flex: 1; 
+    min-height: 0; 
 }
 
 .pokemon-item {
@@ -694,6 +712,7 @@ select option {
     flex-direction: column;
     gap: 32px;
     padding: 20px 0;
+    padding-bottom: 80px; /* Extra padding for scrolling */
 }
 
 .team-display-section h2, .team-analysis-section h2 {
@@ -1239,11 +1258,12 @@ select option {
     .main-layout {
         grid-template-columns: 1fr;
         height: auto;
-        overflow-y: auto;
+        /* overflow-y: auto; - Removed to prevent double scrollbars */
+        padding-bottom: 80px;
     }
 
     .pokemon-list-section {
-        height: calc(100vh - 140px); /* Better dynamic height for mobile */
+        height: 600px; /* Revert to fixed or specific height for mobile inner scroll */
         min-height: 400px;
     }
 
@@ -1320,6 +1340,42 @@ select option {
 }
 
 .toast-close:hover { color: var(--text-color); }
+
+/* Team Profile Select */
+.team-profile-select {
+    background-color: var(--card-bg);
+    color: var(--text-color);
+    border: 1px solid var(--border-color);
+    padding: 8px 16px;
+    border-radius: 8px;
+    font-size: 0.9rem;
+    outline: none;
+    cursor: pointer;
+    transition: border-color 0.2s;
+    min-width: 150px;
+}
+
+.team-profile-select:hover {
+    border-color: var(--text-muted);
+}
+
+.team-profile-select:focus {
+    border-color: var(--highlight);
+    box-shadow: 0 0 0 2px var(--highlight-glow);
+}
+
+@media (max-width: 480px) {
+    .team-header-controls {
+        gap: 10px;
+    }
+    .team-header-controls h2 {
+        font-size: 1.2rem;
+    }
+    .team-profile-select {
+        padding: 6px 10px;
+        min-width: auto;
+    }
+}
 
 
 /* Database Error Modal Styles */
