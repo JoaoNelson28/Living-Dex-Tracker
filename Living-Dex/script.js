@@ -4047,9 +4047,9 @@ const games = [
             { "id": 20128, "lumioseId": 477, "name": "Mega Aggron", "type": ["Aço"], "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10053.png", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"Returning Mega"} },
             { "id": 20129, "lumioseId": 478, "name": "Mega Medicham", "type": ["Lutador","Psíquico"], "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10054.png", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"Returning Mega"} },
             { "id": 20130, "lumioseId": 479, "name": "Mega Manectric", "type": ["Elétrico"], "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10055.png", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"Returning Mega"} },
-            { "id": 20131, "lumioseId": 480, "name": "Mega Sharpedo", "type": ["Água","Sombrio"], "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10067.png", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"Returning Mega"} },
+            { "id": 20131, "lumioseId": 480, "name": "Mega Sharpedo", "type": ["Água","Sombrio"], "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10070.png", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"Returning Mega"} },
             { "id": 20132, "lumioseId": 481, "name": "Mega Camerupt", "type": ["Fogo","Terrestre"], "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10087.png", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"Returning Mega"} },
-            { "id": 20133, "lumioseId": 482, "name": "Mega Altaria", "type": ["Dragão","Fada"], "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10068.png", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"Returning Mega"} },
+            { "id": 20133, "lumioseId": 482, "name": "Mega Altaria", "type": ["Dragão","Fada"], "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10067.png", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"Returning Mega"} },
             { "id": 20134, "lumioseId": 483, "name": "Mega Banette", "type": ["Fantasma"], "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10056.png", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"Returning Mega"} },
             { "id": 20135, "lumioseId": 484, "name": "Mega Absol", "type": ["Sombrio"], "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10057.png", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"Returning Mega"} },
             { "id": 20136, "lumioseId": 485, "name": "Mega Glalie", "type": ["Gelo"], "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10074.png", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"Returning Mega"} },
@@ -4062,8 +4062,8 @@ const games = [
             { "id": 20143, "lumioseId": 492, "name": "Mega Garchomp", "type": ["Dragão","Terrestre"], "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10058.png", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"Returning Mega"} },
             { "id": 20144, "lumioseId": 493, "name": "Mega Lucario", "type": ["Lutador","Aço"], "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10059.png", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"Returning Mega"} },
             { "id": 20145, "lumioseId": 494, "name": "Mega Abomasnow", "type": ["Grama","Gelo"], "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10060.png", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"Returning Mega"} },
-            { "id": 20146, "lumioseId": 495, "name": "Mega Gallade", "type": ["Psíquico","Lutador"], "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10069.png", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"Returning Mega"} },
-            { "id": 20147, "lumioseId": 496, "name": "Mega Audino", "type": ["Normal","Fada"], "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10070.png", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"Returning Mega"} },
+            { "id": 20146, "lumioseId": 495, "name": "Mega Gallade", "type": ["Psíquico","Lutador"], "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10068.png", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"Returning Mega"} },
+            { "id": 20147, "lumioseId": 496, "name": "Mega Audino", "type": ["Normal","Fada"], "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10069.png", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"Returning Mega"} },
             { "id": 20148, "lumioseId": 497, "name": "Mega Diancie", "type": ["Pedra","Fada"], "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10075.png", "captureInfo": {"location":"Mega Evolução","method":"Mega Evolução","notes":"Returning Mega"} }
         ]
     },
@@ -10762,7 +10762,9 @@ let currentState = {
     teamData: {}, // Loaded from LocalStorage
     currentView: 'dex', // 'dex', 'team'
     selectedSlotIndex: null, // Track which slot we are filling
-    selectedTeamProfile: 0 // Default profile 0 (Equipe 1)
+    selectedTeamProfile: 0, // Default profile 0 (Equipe 1)
+    hideMegas: false, // Toggle to hide Mega Evolutions
+    shinyToggles: {} // Toggle Shiny view per Pokemon
 };
 
 // DOM Elements
@@ -10773,6 +10775,7 @@ const searchInput = document.getElementById('search-input');
 const filterTypeSelect = document.getElementById('filter-type');
 const filterUncapturedBtn = document.getElementById('filter-uncaptured');
 const filterCapturedBtn = document.getElementById('filter-captured');
+const filterHideMegasBtn = document.getElementById('filter-hide-megas');
 const progressText = document.getElementById('progress-text');
 const progressFill = document.getElementById('progress-fill');
 
@@ -10807,6 +10810,7 @@ const detailMethod = document.getElementById('detail-method');
 
 const detailCheckbox = document.getElementById('detail-checkbox');
 const captureStatusContainer = document.getElementById('capture-status-container');
+const shinyToggleBtn = document.getElementById('shiny-toggle-btn'); // Shiny Button
 const evolutionContainer = document.getElementById('evolution-container');
 const preEvolutionLink = document.getElementById('pre-evolution-link');
 const mapContainer = document.getElementById('map-container');
@@ -10911,10 +10915,28 @@ function init() {
         });
     }
 
+    if (filterHideMegasBtn) {
+        filterHideMegasBtn.addEventListener('click', () => {
+            currentState.hideMegas = !currentState.hideMegas;
+            filterHideMegasBtn.classList.toggle('active', currentState.hideMegas);
+            renderList();
+            updateProgress();
+        });
+    }
+
     if (detailCheckbox) {
         detailCheckbox.addEventListener('change', (e) => {
             if (currentState.selectedPokemonId) {
                 toggleCapture(currentState.selectedPokemonId, e.target.checked);
+            }
+        });
+    }
+
+    if (shinyToggleBtn) {
+        shinyToggleBtn.addEventListener('click', (e) => {
+            e.stopPropagation(); // Prevent bubbling if needed
+            if (currentState.selectedPokemonId) {
+                toggleShiny(currentState.selectedPokemonId);
             }
         });
     }
@@ -11431,8 +11453,10 @@ function renderSelectorList(searchTerm = '') {
         item.className = 'selector-item';
         item.onclick = () => addToTeam(p.id, currentState.selectedSlotIndex);
         
+        const imageUrl = getPokemonImage(p);
+
         item.innerHTML = `
-            <img src="${p.image}" alt="${p.name}">
+            <img src="${imageUrl}" alt="${p.name}">
             <div class="selector-info">
                 <span class="selector-name">#${String(p.lumioseId).padStart(3, '0')} ${p.name}</span>
                 <div class="selector-types">
@@ -11469,9 +11493,10 @@ function renderTeamBuilder() {
         if (pokemonId) {
             const pokemon = gameData.pokemonList.find(p => p.id === pokemonId);
             if (pokemon) {
+                const imageUrl = getPokemonImage(pokemon);
                 slot.innerHTML = `
                     <div class="slot-image">
-                        <img src="${pokemon.image}" alt="${pokemon.name}">
+                        <img src="${imageUrl}" alt="${pokemon.name}">
                     </div>
                     <div class="slot-info">
                         <span class="slot-name">${pokemon.name}</span>
@@ -11628,6 +11653,12 @@ function toggleCapture(pokemonId, isCaptured) {
     renderList(); 
 }
 
+function toggleShiny(pokemonId) {
+    currentState.shinyToggles[pokemonId] = !currentState.shinyToggles[pokemonId];
+    renderDetails(); // Update image in details
+    // renderList(); // Update image in list (optional, but good for consistency if we show shiny in list)
+}
+
 function saveData() {
     saveUserData(currentState.selectedGameId, currentState.capturedData, currentState.teamData);
 }
@@ -11641,6 +11672,25 @@ function render() {
     if (currentState.currentView === 'team') {
         renderTeamBuilder();
     }
+}
+
+function getPokemonImage(pokemon) {
+    let imageUrl = pokemon.image;
+    if (currentState.shinyToggles[pokemon.id]) {
+        if (imageUrl.includes("raw.githubusercontent.com/PokeAPI")) {
+            // PokeAPI
+            imageUrl = imageUrl.replace("/official-artwork/", "/official-artwork/shiny/");
+        } else if (imageUrl.includes("img/mega/")) {
+            // Local Mega - Attempt to use -shiny suffix
+            // e.g., img/mega/Mega-Name.jpg -> img/mega/shiny/Mega-Name.jpg
+            // Since we can't easily check file existence, we'll try to follow a convention
+            // Or just alert the user for now that custom shinies need to be added?
+            // Let's assume a folder structure or naming convention
+            // Try: img/mega/Mega-Name-Shiny.jpg
+            imageUrl = imageUrl.replace(".jpg", "-Shiny.jpg");
+        }
+    }
+    return imageUrl;
 }
 
 function renderList() {
@@ -11662,6 +11712,9 @@ function renderList() {
             if (!p.type.includes(currentState.filterType)) return false;
         }
 
+        // Hide Megas Logic
+        if (currentState.hideMegas && p.id > 20000) return false;
+
         return matchesSearch;
     });
 
@@ -11673,13 +11726,15 @@ function renderList() {
     filteredList.forEach(p => {
         const isCaptured = capturedList.includes(p.id);
         const isActive = p.id === currentState.selectedPokemonId;
+        // const imageUrl = getPokemonImage(p); // Disabled for list view
+        const imageUrl = p.image; // Use normal image for list view
         
         const item = document.createElement('div');
         item.className = `pokemon-item ${isCaptured ? 'captured' : ''} ${isActive ? 'active' : ''}`;
         item.onclick = () => selectPokemon(p.id);
 
         item.innerHTML = `
-            <img src="${p.image}" alt="${p.name}">
+            <img src="${imageUrl}" alt="${p.name}">
             <div class="pokemon-id">#${String(p.lumioseId).padStart(3, '0')}</div>
             <div class="pokemon-info">
                 <span class="pokemon-name">${p.name}</span>
@@ -11712,8 +11767,22 @@ function renderDetails() {
     // Populate data
     detailName.textContent = pokemon.name;
     detailId.textContent = `#${String(pokemon.lumioseId).padStart(3, '0')}`;
-    detailImage.src = pokemon.image;
+    
+    // Shiny Image Logic
+    const imageUrl = getPokemonImage(pokemon);
+    detailImage.src = imageUrl;
     detailImage.alt = pokemon.name;
+    
+    // Update Shiny Button State
+    if (shinyToggleBtn) {
+        if (currentState.shinyToggles[pokemon.id]) {
+            shinyToggleBtn.classList.add('active');
+            shinyToggleBtn.title = "Ver Normal";
+        } else {
+            shinyToggleBtn.classList.remove('active');
+            shinyToggleBtn.title = "Ver Shiny";
+        }
+    }
 
     // Check if it is a Mega Evolution (ID > 20000)
     const isMega = pokemon.id > 20000;
@@ -11795,8 +11864,15 @@ function renderDetails() {
 function updateProgress() {
     const gameData = getCurrentGameData();
     const capturedList = getCapturedList();
-    const total = gameData.pokemonList.length;
-    const current = capturedList.filter(id => gameData.pokemonList.some(p => p.id === id)).length; // Only count valid pokemon for this game
+    
+    // Calculate total based on filters (including hideMegas)
+    const validPokemon = gameData.pokemonList.filter(p => {
+        if (currentState.hideMegas && p.id > 20000) return false;
+        return true;
+    });
+
+    const total = validPokemon.length;
+    const current = capturedList.filter(id => validPokemon.some(p => p.id === id)).length;
 
     progressText.textContent = `${current}/${total}`;
     const percentage = total === 0 ? 0 : (current / total) * 100;

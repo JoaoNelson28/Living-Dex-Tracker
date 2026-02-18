@@ -139,6 +139,7 @@
                     </select>
                     <button id="filter-uncaptured" title="Mostrar apenas não capturados"><i class="fa-regular fa-square"></i></button>
                     <button id="filter-captured" title="Mostrar apenas capturados"><i class="fa-regular fa-check-square"></i></button>
+                    <button id="filter-hide-megas" title="Ocultar Mega Evoluções" class="toggle-btn"><i class="fa-solid fa-dna"></i></button>
                 </div>
             </div>
             <div id="pokemon-list" class="pokemon-list">
@@ -164,6 +165,9 @@
                     
                     <div class="detail-image-container">
                         <img id="detail-image" src="" alt="Pokemon Image">
+                        <button id="shiny-toggle-btn" class="shiny-btn" title="Ver Shiny">
+                            <i class="fa-solid fa-star"></i>
+                        </button>
                     </div>
 
                     <div id="detail-types" class="types-container">
@@ -300,6 +304,6 @@
 
     </div> <!-- End App View -->
 
-    <script src="script.js?v=15"></script>
+    <script src="script.js?v=16"></script>
 </body>
 </html>
