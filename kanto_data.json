@@ -1,0 +1,2485 @@
+[
+  {
+    "id": 1,
+    "lumioseId": 1,
+    "name": "Bulbasaur",
+    "type": [
+      "Grama",
+      "Venenoso"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png",
+    "captureInfo": {
+      "location": "Pallet Town (Inicial)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Escolhido no início do jogo."
+    }
+  },
+  {
+    "id": 2,
+    "lumioseId": 2,
+    "name": "Ivysaur",
+    "type": [
+      "Grama",
+      "Venenoso"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/2.png",
+    "captureInfo": {
+      "location": "Evolução",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Obtido através de evolução."
+    }
+  },
+  {
+    "id": 3,
+    "lumioseId": 3,
+    "name": "Venusaur",
+    "type": [
+      "Grama",
+      "Venenoso"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/3.png",
+    "captureInfo": {
+      "location": "Evolução",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Obtido através de evolução."
+    }
+  },
+  {
+    "id": 4,
+    "lumioseId": 4,
+    "name": "Charmander",
+    "type": [
+      "Fogo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/4.png",
+    "captureInfo": {
+      "location": "Pallet Town (Inicial)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Escolhido no início do jogo."
+    }
+  },
+  {
+    "id": 5,
+    "lumioseId": 5,
+    "name": "Charmeleon",
+    "type": [
+      "Fogo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/5.png",
+    "captureInfo": {
+      "location": "Evolução",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Obtido através de evolução."
+    }
+  },
+  {
+    "id": 6,
+    "lumioseId": 6,
+    "name": "Charizard",
+    "type": [
+      "Fogo",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png",
+    "captureInfo": {
+      "location": "Evolução",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Obtido através de evolução."
+    }
+  },
+  {
+    "id": 7,
+    "lumioseId": 7,
+    "name": "Squirtle",
+    "type": [
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/7.png",
+    "captureInfo": {
+      "location": "Pallet Town (Inicial)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Escolhido no início do jogo."
+    }
+  },
+  {
+    "id": 8,
+    "lumioseId": 8,
+    "name": "Wartortle",
+    "type": [
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/8.png",
+    "captureInfo": {
+      "location": "Evolução",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Obtido através de evolução."
+    }
+  },
+  {
+    "id": 9,
+    "lumioseId": 9,
+    "name": "Blastoise",
+    "type": [
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/9.png",
+    "captureInfo": {
+      "location": "Evolução",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Obtido através de evolução."
+    }
+  },
+  {
+    "id": 10,
+    "lumioseId": 10,
+    "name": "Caterpie",
+    "type": [
+      "Inseto"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10.png",
+    "captureInfo": {
+      "location": "Viridian Forest, Route 2, Route 24, Route 25",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 11,
+    "lumioseId": 11,
+    "name": "Metapod",
+    "type": [
+      "Inseto"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/11.png",
+    "captureInfo": {
+      "location": "Viridian Forest, Route 24, Route 25 (ou Evolução)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Obtido através de evolução."
+    }
+  },
+  {
+    "id": 12,
+    "lumioseId": 12,
+    "name": "Butterfree",
+    "type": [
+      "Inseto",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/12.png",
+    "captureInfo": {
+      "location": "Evolução",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Obtido através de evolução."
+    }
+  },
+  {
+    "id": 13,
+    "lumioseId": 13,
+    "name": "Weedle",
+    "type": [
+      "Inseto",
+      "Venenoso"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/13.png",
+    "captureInfo": {
+      "location": "Viridian Forest, Route 2, Route 24, Route 25",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 14,
+    "lumioseId": 14,
+    "name": "Kakuna",
+    "type": [
+      "Inseto",
+      "Venenoso"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/14.png",
+    "captureInfo": {
+      "location": "Viridian Forest, Route 24, Route 25 (ou Evolução)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Obtido através de evolução."
+    }
+  },
+  {
+    "id": 15,
+    "lumioseId": 15,
+    "name": "Beedrill",
+    "type": [
+      "Inseto",
+      "Venenoso"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/15.png",
+    "captureInfo": {
+      "location": "Evolução",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Obtido através de evolução."
+    }
+  },
+  {
+    "id": 16,
+    "lumioseId": 16,
+    "name": "Pidgey",
+    "type": [
+      "Normal",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/16.png",
+    "captureInfo": {
+      "location": "Route 1, 2, 3, 5, 6, 7, 8, 12, 13, 14, 15, 24, 25",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 17,
+    "lumioseId": 17,
+    "name": "Pidgeotto",
+    "type": [
+      "Normal",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/17.png",
+    "captureInfo": {
+      "location": "Route 13, 14, 15, Bond Bridge, Five Isle Meadow (ou Evolução)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Obtido através de evolução."
+    }
+  },
+  {
+    "id": 18,
+    "lumioseId": 18,
+    "name": "Pidgeot",
+    "type": [
+      "Normal",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/18.png",
+    "captureInfo": {
+      "location": "Evolução",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Obtido através de evolução."
+    }
+  },
+  {
+    "id": 19,
+    "lumioseId": 19,
+    "name": "Rattata",
+    "type": [
+      "Normal"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/19.png",
+    "captureInfo": {
+      "location": "Route 1, 2, 4, 9, 16, 17, 18, 22, Pokémon Mansion",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 20,
+    "lumioseId": 20,
+    "name": "Raticate",
+    "type": [
+      "Normal"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/20.png",
+    "captureInfo": {
+      "location": "Route 16, 17, 18, Pokémon Mansion (ou Evolução)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Obtido através de evolução."
+    }
+  },
+  {
+    "id": 21,
+    "lumioseId": 21,
+    "name": "Spearow",
+    "type": [
+      "Normal",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/21.png",
+    "captureInfo": {
+      "location": "Route 3, 4, 9, 10, 11, 16, 17, 18, 22, 23",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 22,
+    "lumioseId": 22,
+    "name": "Fearow",
+    "type": [
+      "Normal",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/22.png",
+    "captureInfo": {
+      "location": "Route 17, 18, 23, Bond Bridge, Canyon Entrance (ou Evolução)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Obtido através de evolução."
+    }
+  },
+  {
+    "id": 23,
+    "lumioseId": 23,
+    "name": "Ekans",
+    "type": [
+      "Venenoso"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/23.png",
+    "captureInfo": {
+      "location": "Route 4, 8, 9, 10, 11, 23 (FireRed Exclusivo)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Apenas na versão FireRed."
+    }
+  },
+  {
+    "id": 24,
+    "lumioseId": 24,
+    "name": "Arbok",
+    "type": [
+      "Venenoso"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/24.png",
+    "captureInfo": {
+      "location": "Route 23, Victory Road (FireRed Exclusivo)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Apenas na versão FireRed."
+    }
+  },
+  {
+    "id": 25,
+    "lumioseId": 25,
+    "name": "Pikachu",
+    "type": [
+      "Elétrico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png",
+    "captureInfo": {
+      "location": "Viridian Forest, Power Plant",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 26,
+    "lumioseId": 26,
+    "name": "Raichu",
+    "type": [
+      "Elétrico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/26.png",
+    "captureInfo": {
+      "location": "Evolução (Thunder Stone)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Obtido através de evolução."
+    }
+  },
+  {
+    "id": 27,
+    "lumioseId": 27,
+    "name": "Sandshrew",
+    "type": [
+      "Terrestre"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/27.png",
+    "captureInfo": {
+      "location": "Route 4, 8, 9, 10, 11, 23 (LeafGreen Exclusivo)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Apenas na versão LeafGreen."
+    }
+  },
+  {
+    "id": 28,
+    "lumioseId": 28,
+    "name": "Sandslash",
+    "type": [
+      "Terrestre"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/28.png",
+    "captureInfo": {
+      "location": "Route 23, Victory Road (LeafGreen Exclusivo)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Apenas na versão LeafGreen."
+    }
+  },
+  {
+    "id": 29,
+    "lumioseId": 29,
+    "name": "Nidoran-f",
+    "type": [
+      "Venenoso"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/29.png",
+    "captureInfo": {
+      "location": "Route 3, Safari Zone",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 30,
+    "lumioseId": 30,
+    "name": "Nidorina",
+    "type": [
+      "Venenoso"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/30.png",
+    "captureInfo": {
+      "location": "Safari Zone (ou Evolução)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Obtido através de evolução."
+    }
+  },
+  {
+    "id": 31,
+    "lumioseId": 31,
+    "name": "Nidoqueen",
+    "type": [
+      "Venenoso",
+      "Terrestre"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/31.png",
+    "captureInfo": {
+      "location": "Evolução (Moon Stone)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Obtido através de evolução."
+    }
+  },
+  {
+    "id": 32,
+    "lumioseId": 32,
+    "name": "Nidoran-m",
+    "type": [
+      "Venenoso"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/32.png",
+    "captureInfo": {
+      "location": "Route 3, Safari Zone",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 33,
+    "lumioseId": 33,
+    "name": "Nidorino",
+    "type": [
+      "Venenoso"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/33.png",
+    "captureInfo": {
+      "location": "Safari Zone (ou Evolução)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Obtido através de evolução."
+    }
+  },
+  {
+    "id": 34,
+    "lumioseId": 34,
+    "name": "Nidoking",
+    "type": [
+      "Venenoso",
+      "Terrestre"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/34.png",
+    "captureInfo": {
+      "location": "Evolução (Moon Stone)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Obtido através de evolução."
+    }
+  },
+  {
+    "id": 35,
+    "lumioseId": 35,
+    "name": "Clefairy",
+    "type": [
+      "Fada"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/35.png",
+    "captureInfo": {
+      "location": "Mt. Moon, Rocket Game Corner",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 36,
+    "lumioseId": 36,
+    "name": "Clefable",
+    "type": [
+      "Fada"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/36.png",
+    "captureInfo": {
+      "location": "Evolução (Moon Stone)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Obtido através de evolução."
+    }
+  },
+  {
+    "id": 37,
+    "lumioseId": 37,
+    "name": "Vulpix",
+    "type": [
+      "Fogo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/37.png",
+    "captureInfo": {
+      "location": "Route 7, 8, Pokémon Mansion (LeafGreen Exclusivo)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Apenas na versão LeafGreen."
+    }
+  },
+  {
+    "id": 38,
+    "lumioseId": 38,
+    "name": "Ninetales",
+    "type": [
+      "Fogo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/38.png",
+    "captureInfo": {
+      "location": "Evolução (Fire Stone)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Obtido através de evolução."
+    }
+  },
+  {
+    "id": 39,
+    "lumioseId": 39,
+    "name": "Jigglypuff",
+    "type": [
+      "Normal",
+      "Fada"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/39.png",
+    "captureInfo": {
+      "location": "Route 3",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 40,
+    "lumioseId": 40,
+    "name": "Wigglytuff",
+    "type": [
+      "Normal",
+      "Fada"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/40.png",
+    "captureInfo": {
+      "location": "Evolução (Moon Stone)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Obtido através de evolução."
+    }
+  },
+  {
+    "id": 41,
+    "lumioseId": 41,
+    "name": "Zubat",
+    "type": [
+      "Venenoso",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/41.png",
+    "captureInfo": {
+      "location": "Mt. Moon, Rock Tunnel, Seafoam Islands, Victory Road",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 42,
+    "lumioseId": 42,
+    "name": "Golbat",
+    "type": [
+      "Venenoso",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/42.png",
+    "captureInfo": {
+      "location": "Seafoam Islands, Victory Road (ou Evolução)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Obtido através de evolução."
+    }
+  },
+  {
+    "id": 43,
+    "lumioseId": 43,
+    "name": "Oddish",
+    "type": [
+      "Grama",
+      "Venenoso"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/43.png",
+    "captureInfo": {
+      "location": "Route 5, 6, 7, 12, 13, 14, 15, 24, 25 (FireRed Exclusivo)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Apenas na versão FireRed."
+    }
+  },
+  {
+    "id": 44,
+    "lumioseId": 44,
+    "name": "Gloom",
+    "type": [
+      "Grama",
+      "Venenoso"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/44.png",
+    "captureInfo": {
+      "location": "Route 12, 13, 14, 15 (FireRed Exclusivo)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Apenas na versão FireRed."
+    }
+  },
+  {
+    "id": 45,
+    "lumioseId": 45,
+    "name": "Vileplume",
+    "type": [
+      "Grama",
+      "Venenoso"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/45.png",
+    "captureInfo": {
+      "location": "Evolução (Leaf Stone)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Obtido através de evolução."
+    }
+  },
+  {
+    "id": 46,
+    "lumioseId": 46,
+    "name": "Paras",
+    "type": [
+      "Inseto",
+      "Grama"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/46.png",
+    "captureInfo": {
+      "location": "Mt. Moon, Safari Zone",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 47,
+    "lumioseId": 47,
+    "name": "Parasect",
+    "type": [
+      "Inseto",
+      "Grama"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/47.png",
+    "captureInfo": {
+      "location": "Safari Zone, Cerulean Cave (ou Evolução)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Obtido através de evolução."
+    }
+  },
+  {
+    "id": 48,
+    "lumioseId": 48,
+    "name": "Venonat",
+    "type": [
+      "Inseto",
+      "Venenoso"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/48.png",
+    "captureInfo": {
+      "location": "Route 12, 13, 14, 15, Safari Zone",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 49,
+    "lumioseId": 49,
+    "name": "Venomoth",
+    "type": [
+      "Inseto",
+      "Venenoso"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/49.png",
+    "captureInfo": {
+      "location": "Safari Zone, Berry Forest (ou Evolução)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Obtido através de evolução."
+    }
+  },
+  {
+    "id": 50,
+    "lumioseId": 50,
+    "name": "Diglett",
+    "type": [
+      "Terrestre"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/50.png",
+    "captureInfo": {
+      "location": "Diglett's Cave",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 51,
+    "lumioseId": 51,
+    "name": "Dugtrio",
+    "type": [
+      "Terrestre"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/51.png",
+    "captureInfo": {
+      "location": "Diglett's Cave (ou Evolução)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Obtido através de evolução."
+    }
+  },
+  {
+    "id": 52,
+    "lumioseId": 52,
+    "name": "Meowth",
+    "type": [
+      "Normal"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/52.png",
+    "captureInfo": {
+      "location": "Route 5, 6, 7, 8, Bond Bridge",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 53,
+    "lumioseId": 53,
+    "name": "Persian",
+    "type": [
+      "Normal"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/53.png",
+    "captureInfo": {
+      "location": "Bond Bridge, Five Isle Meadow (ou Evolução)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Obtido através de evolução."
+    }
+  },
+  {
+    "id": 54,
+    "lumioseId": 54,
+    "name": "Psyduck",
+    "type": [
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/54.png",
+    "captureInfo": {
+      "location": "Surf/Fish: Safari Zone, Cerulean City, Route 6, 22 (FireRed Exclusivo)",
+      "method": "Pesca",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Apenas na versão FireRed."
+    }
+  },
+  {
+    "id": 55,
+    "lumioseId": 55,
+    "name": "Golduck",
+    "type": [
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/55.png",
+    "captureInfo": {
+      "location": "Surf: Cape Brink, Berry Forest (FireRed Exclusivo)",
+      "method": "Surf",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Apenas na versão FireRed."
+    }
+  },
+  {
+    "id": 56,
+    "lumioseId": 56,
+    "name": "Mankey",
+    "type": [
+      "Lutador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/56.png",
+    "captureInfo": {
+      "location": "Route 3, 4, 22, 23, Rock Tunnel",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 57,
+    "lumioseId": 57,
+    "name": "Primeape",
+    "type": [
+      "Lutador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/57.png",
+    "captureInfo": {
+      "location": "Route 23, Victory Road (ou Evolução)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Obtido através de evolução."
+    }
+  },
+  {
+    "id": 58,
+    "lumioseId": 58,
+    "name": "Growlithe",
+    "type": [
+      "Fogo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/58.png",
+    "captureInfo": {
+      "location": "Route 7, 8, Pokémon Mansion (FireRed Exclusivo)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Apenas na versão FireRed."
+    }
+  },
+  {
+    "id": 59,
+    "lumioseId": 59,
+    "name": "Arcanine",
+    "type": [
+      "Fogo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/59.png",
+    "captureInfo": {
+      "location": "Evolução (Fire Stone)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Obtido através de evolução."
+    }
+  },
+  {
+    "id": 60,
+    "lumioseId": 60,
+    "name": "Poliwag",
+    "type": [
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/60.png",
+    "captureInfo": {
+      "location": "Fish: Pallet Town, Viridian City, Route 22, etc.",
+      "method": "Pesca",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 61,
+    "lumioseId": 61,
+    "name": "Poliwhirl",
+    "type": [
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/61.png",
+    "captureInfo": {
+      "location": "Fish: Route 6, 22, 23, etc. (ou Evolução)",
+      "method": "Pesca",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Obtido através de evolução."
+    }
+  },
+  {
+    "id": 62,
+    "lumioseId": 62,
+    "name": "Poliwrath",
+    "type": [
+      "Água",
+      "Lutador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/62.png",
+    "captureInfo": {
+      "location": "Evolução (Water Stone)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Obtido através de evolução."
+    }
+  },
+  {
+    "id": 63,
+    "lumioseId": 63,
+    "name": "Abra",
+    "type": [
+      "Psíquico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/63.png",
+    "captureInfo": {
+      "location": "Route 24, 25, Rocket Game Corner",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 64,
+    "lumioseId": 64,
+    "name": "Kadabra",
+    "type": [
+      "Psíquico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/64.png",
+    "captureInfo": {
+      "location": "Cerulean Cave (ou Evolução)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Obtido através de evolução."
+    }
+  },
+  {
+    "id": 65,
+    "lumioseId": 65,
+    "name": "Alakazam",
+    "type": [
+      "Psíquico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/65.png",
+    "captureInfo": {
+      "location": "Evolução (Troca)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Obtido através de evolução."
+    }
+  },
+  {
+    "id": 66,
+    "lumioseId": 66,
+    "name": "Machop",
+    "type": [
+      "Lutador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/66.png",
+    "captureInfo": {
+      "location": "Rock Tunnel, Victory Road, Mt. Ember",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 67,
+    "lumioseId": 67,
+    "name": "Machoke",
+    "type": [
+      "Lutador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/67.png",
+    "captureInfo": {
+      "location": "Victory Road, Mt. Ember (ou Evolução)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Obtido através de evolução."
+    }
+  },
+  {
+    "id": 68,
+    "lumioseId": 68,
+    "name": "Machamp",
+    "type": [
+      "Lutador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/68.png",
+    "captureInfo": {
+      "location": "Evolução (Troca)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Obtido através de evolução."
+    }
+  },
+  {
+    "id": 69,
+    "lumioseId": 69,
+    "name": "Bellsprout",
+    "type": [
+      "Grama",
+      "Venenoso"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/69.png",
+    "captureInfo": {
+      "location": "Route 5, 6, 7, 12, 13, 14, 15, 24, 25 (LeafGreen Exclusivo)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Apenas na versão LeafGreen."
+    }
+  },
+  {
+    "id": 70,
+    "lumioseId": 70,
+    "name": "Weepinbell",
+    "type": [
+      "Grama",
+      "Venenoso"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/70.png",
+    "captureInfo": {
+      "location": "Route 12, 13, 14, 15 (LeafGreen Exclusivo)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Apenas na versão LeafGreen."
+    }
+  },
+  {
+    "id": 71,
+    "lumioseId": 71,
+    "name": "Victreebel",
+    "type": [
+      "Grama",
+      "Venenoso"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/71.png",
+    "captureInfo": {
+      "location": "Evolução (Leaf Stone)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Obtido através de evolução."
+    }
+  },
+  {
+    "id": 72,
+    "lumioseId": 72,
+    "name": "Tentacool",
+    "type": [
+      "Água",
+      "Venenoso"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/72.png",
+    "captureInfo": {
+      "location": "Surf: Most sea routes (Route 19, 20, 21, etc.)",
+      "method": "Surf",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 73,
+    "lumioseId": 73,
+    "name": "Tentacruel",
+    "type": [
+      "Água",
+      "Venenoso"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/73.png",
+    "captureInfo": {
+      "location": "Surf: Most sea routes (ou Evolução)",
+      "method": "Surf",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Obtido através de evolução."
+    }
+  },
+  {
+    "id": 74,
+    "lumioseId": 74,
+    "name": "Geodude",
+    "type": [
+      "Pedra",
+      "Terrestre"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/74.png",
+    "captureInfo": {
+      "location": "Mt. Moon, Rock Tunnel, Victory Road",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 75,
+    "lumioseId": 75,
+    "name": "Graveler",
+    "type": [
+      "Pedra",
+      "Terrestre"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/75.png",
+    "captureInfo": {
+      "location": "Rock Tunnel, Victory Road, Cerulean Cave (ou Evolução)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Obtido através de evolução."
+    }
+  },
+  {
+    "id": 76,
+    "lumioseId": 76,
+    "name": "Golem",
+    "type": [
+      "Pedra",
+      "Terrestre"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/76.png",
+    "captureInfo": {
+      "location": "Evolução (Troca)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Obtido através de evolução."
+    }
+  },
+  {
+    "id": 77,
+    "lumioseId": 77,
+    "name": "Ponyta",
+    "type": [
+      "Fogo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/77.png",
+    "captureInfo": {
+      "location": "Pokémon Mansion, Kindle Road, Mt. Ember",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 78,
+    "lumioseId": 78,
+    "name": "Rapidash",
+    "type": [
+      "Fogo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/78.png",
+    "captureInfo": {
+      "location": "Kindle Road, Mt. Ember (ou Evolução)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Obtido através de evolução."
+    }
+  },
+  {
+    "id": 79,
+    "lumioseId": 79,
+    "name": "Slowpoke",
+    "type": [
+      "Água",
+      "Psíquico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/79.png",
+    "captureInfo": {
+      "location": "Surf/Fish: Safari Zone, Cerulean City, Route 6, 22 (LeafGreen Exclusivo)",
+      "method": "Pesca",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Apenas na versão LeafGreen."
+    }
+  },
+  {
+    "id": 80,
+    "lumioseId": 80,
+    "name": "Slowbro",
+    "type": [
+      "Água",
+      "Psíquico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/80.png",
+    "captureInfo": {
+      "location": "Surf: Cape Brink, Berry Forest (LeafGreen Exclusivo)",
+      "method": "Surf",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Apenas na versão LeafGreen."
+    }
+  },
+  {
+    "id": 81,
+    "lumioseId": 81,
+    "name": "Magnemite",
+    "type": [
+      "Elétrico",
+      "Aço"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/81.png",
+    "captureInfo": {
+      "location": "Power Plant",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 82,
+    "lumioseId": 82,
+    "name": "Magneton",
+    "type": [
+      "Elétrico",
+      "Aço"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/82.png",
+    "captureInfo": {
+      "location": "Power Plant, Cerulean Cave (ou Evolução)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Obtido através de evolução."
+    }
+  },
+  {
+    "id": 83,
+    "lumioseId": 83,
+    "name": "Farfetchd",
+    "type": [
+      "Normal",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/83.png",
+    "captureInfo": {
+      "location": "Troca em Vermilion City (Spearow)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 84,
+    "lumioseId": 84,
+    "name": "Doduo",
+    "type": [
+      "Normal",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/84.png",
+    "captureInfo": {
+      "location": "Route 16, 17, 18, Safari Zone",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 85,
+    "lumioseId": 85,
+    "name": "Dodrio",
+    "type": [
+      "Normal",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/85.png",
+    "captureInfo": {
+      "location": "Route 17 (ou Evolução)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Obtido através de evolução."
+    }
+  },
+  {
+    "id": 86,
+    "lumioseId": 86,
+    "name": "Seel",
+    "type": [
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/86.png",
+    "captureInfo": {
+      "location": "Seafoam Islands, Icefall Cave",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 87,
+    "lumioseId": 87,
+    "name": "Dewgong",
+    "type": [
+      "Água",
+      "Gelo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/87.png",
+    "captureInfo": {
+      "location": "Seafoam Islands, Icefall Cave (ou Evolução)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Obtido através de evolução."
+    }
+  },
+  {
+    "id": 88,
+    "lumioseId": 88,
+    "name": "Grimer",
+    "type": [
+      "Venenoso"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/88.png",
+    "captureInfo": {
+      "location": "Pokémon Mansion, Celadon City (Surf)",
+      "method": "Surf",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 89,
+    "lumioseId": 89,
+    "name": "Muk",
+    "type": [
+      "Venenoso"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/89.png",
+    "captureInfo": {
+      "location": "Pokémon Mansion (ou Evolução)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Obtido através de evolução."
+    }
+  },
+  {
+    "id": 90,
+    "lumioseId": 90,
+    "name": "Shellder",
+    "type": [
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/90.png",
+    "captureInfo": {
+      "location": "Fish: Pallet Town, Vermilion City, Route 6, 19, 20, 21 (FireRed Exclusivo)",
+      "method": "Pesca",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Apenas na versão FireRed."
+    }
+  },
+  {
+    "id": 91,
+    "lumioseId": 91,
+    "name": "Cloyster",
+    "type": [
+      "Água",
+      "Gelo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/91.png",
+    "captureInfo": {
+      "location": "Evolução (Water Stone)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Obtido através de evolução."
+    }
+  },
+  {
+    "id": 92,
+    "lumioseId": 92,
+    "name": "Gastly",
+    "type": [
+      "Fantasma",
+      "Venenoso"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/92.png",
+    "captureInfo": {
+      "location": "Pokémon Tower",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 93,
+    "lumioseId": 93,
+    "name": "Haunter",
+    "type": [
+      "Fantasma",
+      "Venenoso"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/93.png",
+    "captureInfo": {
+      "location": "Pokémon Tower (ou Evolução)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Obtido através de evolução."
+    }
+  },
+  {
+    "id": 94,
+    "lumioseId": 94,
+    "name": "Gengar",
+    "type": [
+      "Fantasma",
+      "Venenoso"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png",
+    "captureInfo": {
+      "location": "Evolução (Troca)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Obtido através de evolução."
+    }
+  },
+  {
+    "id": 95,
+    "lumioseId": 95,
+    "name": "Onix",
+    "type": [
+      "Pedra",
+      "Terrestre"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/95.png",
+    "captureInfo": {
+      "location": "Rock Tunnel, Victory Road",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 96,
+    "lumioseId": 96,
+    "name": "Drowzee",
+    "type": [
+      "Psíquico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/96.png",
+    "captureInfo": {
+      "location": "Route 11, Berry Forest",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 97,
+    "lumioseId": 97,
+    "name": "Hypno",
+    "type": [
+      "Psíquico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/97.png",
+    "captureInfo": {
+      "location": "Berry Forest (ou Evolução)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Obtido através de evolução."
+    }
+  },
+  {
+    "id": 98,
+    "lumioseId": 98,
+    "name": "Krabby",
+    "type": [
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/98.png",
+    "captureInfo": {
+      "location": "Fish: Route 4, 10, 11, 12, 13, 19, 20, 21, 24",
+      "method": "Pesca",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 99,
+    "lumioseId": 99,
+    "name": "Kingler",
+    "type": [
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/99.png",
+    "captureInfo": {
+      "location": "Fish: Route 19, 20, 21, 23 (ou Evolução)",
+      "method": "Pesca",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Obtido através de evolução."
+    }
+  },
+  {
+    "id": 100,
+    "lumioseId": 100,
+    "name": "Voltorb",
+    "type": [
+      "Elétrico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/100.png",
+    "captureInfo": {
+      "location": "Route 10, Power Plant",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 101,
+    "lumioseId": 101,
+    "name": "Electrode",
+    "type": [
+      "Elétrico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/101.png",
+    "captureInfo": {
+      "location": "Power Plant, Cerulean Cave (ou Evolução)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Obtido através de evolução."
+    }
+  },
+  {
+    "id": 102,
+    "lumioseId": 102,
+    "name": "Exeggcute",
+    "type": [
+      "Grama",
+      "Psíquico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/102.png",
+    "captureInfo": {
+      "location": "Safari Zone",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 103,
+    "lumioseId": 103,
+    "name": "Exeggutor",
+    "type": [
+      "Grama",
+      "Psíquico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/103.png",
+    "captureInfo": {
+      "location": "Evolução (Leaf Stone)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Obtido através de evolução."
+    }
+  },
+  {
+    "id": 104,
+    "lumioseId": 104,
+    "name": "Cubone",
+    "type": [
+      "Terrestre"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/104.png",
+    "captureInfo": {
+      "location": "Pokémon Tower",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 105,
+    "lumioseId": 105,
+    "name": "Marowak",
+    "type": [
+      "Terrestre"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/105.png",
+    "captureInfo": {
+      "location": "Victory Road (ou Evolução)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Obtido através de evolução."
+    }
+  },
+  {
+    "id": 106,
+    "lumioseId": 106,
+    "name": "Hitmonlee",
+    "type": [
+      "Lutador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/106.png",
+    "captureInfo": {
+      "location": "Fighting Dojo (Saffron City - Escolha 1)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 107,
+    "lumioseId": 107,
+    "name": "Hitmonchan",
+    "type": [
+      "Lutador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/107.png",
+    "captureInfo": {
+      "location": "Fighting Dojo (Saffron City - Escolha 1)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 108,
+    "lumioseId": 108,
+    "name": "Lickitung",
+    "type": [
+      "Normal"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/108.png",
+    "captureInfo": {
+      "location": "Troca na Route 18 (Golduck/Slowbro)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 109,
+    "lumioseId": 109,
+    "name": "Koffing",
+    "type": [
+      "Venenoso"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/109.png",
+    "captureInfo": {
+      "location": "Pokémon Mansion, Celadon City (Surf)",
+      "method": "Surf",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 110,
+    "lumioseId": 110,
+    "name": "Weezing",
+    "type": [
+      "Venenoso"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/110.png",
+    "captureInfo": {
+      "location": "Pokémon Mansion (ou Evolução)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Obtido através de evolução."
+    }
+  },
+  {
+    "id": 111,
+    "lumioseId": 111,
+    "name": "Rhyhorn",
+    "type": [
+      "Terrestre",
+      "Pedra"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/111.png",
+    "captureInfo": {
+      "location": "Safari Zone",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 112,
+    "lumioseId": 112,
+    "name": "Rhydon",
+    "type": [
+      "Terrestre",
+      "Pedra"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/112.png",
+    "captureInfo": {
+      "location": "Evolução",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Obtido através de evolução."
+    }
+  },
+  {
+    "id": 113,
+    "lumioseId": 113,
+    "name": "Chansey",
+    "type": [
+      "Normal"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/113.png",
+    "captureInfo": {
+      "location": "Safari Zone",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 114,
+    "lumioseId": 114,
+    "name": "Tangela",
+    "type": [
+      "Grama"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/114.png",
+    "captureInfo": {
+      "location": "Route 21 (Grass)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 115,
+    "lumioseId": 115,
+    "name": "Kangaskhan",
+    "type": [
+      "Normal"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/115.png",
+    "captureInfo": {
+      "location": "Safari Zone",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 116,
+    "lumioseId": 116,
+    "name": "Horsea",
+    "type": [
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/116.png",
+    "captureInfo": {
+      "location": "Fish: Route 4, 10, 11, 12, 13, 19, 20, 21, 24",
+      "method": "Pesca",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 117,
+    "lumioseId": 117,
+    "name": "Seadra",
+    "type": [
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/117.png",
+    "captureInfo": {
+      "location": "Fish: Route 19, 20, 21, 23 (ou Evolução)",
+      "method": "Pesca",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Obtido através de evolução."
+    }
+  },
+  {
+    "id": 118,
+    "lumioseId": 118,
+    "name": "Goldeen",
+    "type": [
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/118.png",
+    "captureInfo": {
+      "location": "Fish: Most freshwater ponds",
+      "method": "Pesca",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 119,
+    "lumioseId": 119,
+    "name": "Seaking",
+    "type": [
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/119.png",
+    "captureInfo": {
+      "location": "Fish: Safari Zone, Fuchsia City (ou Evolução)",
+      "method": "Pesca",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Obtido através de evolução."
+    }
+  },
+  {
+    "id": 120,
+    "lumioseId": 120,
+    "name": "Staryu",
+    "type": [
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/120.png",
+    "captureInfo": {
+      "location": "Fish: Pallet Town, Vermilion City, Route 6, 19, 20, 21 (LeafGreen Exclusivo)",
+      "method": "Pesca",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Apenas na versão LeafGreen."
+    }
+  },
+  {
+    "id": 121,
+    "lumioseId": 121,
+    "name": "Starmie",
+    "type": [
+      "Água",
+      "Psíquico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/121.png",
+    "captureInfo": {
+      "location": "Evolução (Water Stone)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Obtido através de evolução."
+    }
+  },
+  {
+    "id": 122,
+    "lumioseId": 122,
+    "name": "Mr-mime",
+    "type": [
+      "Psíquico",
+      "Fada"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/122.png",
+    "captureInfo": {
+      "location": "Troca na Route 2 (Abra)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 123,
+    "lumioseId": 123,
+    "name": "Scyther",
+    "type": [
+      "Inseto",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+    "captureInfo": {
+      "location": "Safari Zone, Rocket Game Corner (FireRed Exclusivo)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Apenas na versão FireRed."
+    }
+  },
+  {
+    "id": 124,
+    "lumioseId": 124,
+    "name": "Jynx",
+    "type": [
+      "Gelo",
+      "Psíquico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/124.png",
+    "captureInfo": {
+      "location": "Troca em Cerulean City (Poliwhirl)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 125,
+    "lumioseId": 125,
+    "name": "Electabuzz",
+    "type": [
+      "Elétrico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/125.png",
+    "captureInfo": {
+      "location": "Power Plant (FireRed Exclusivo)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Apenas na versão FireRed."
+    }
+  },
+  {
+    "id": 126,
+    "lumioseId": 126,
+    "name": "Magmar",
+    "type": [
+      "Fogo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/126.png",
+    "captureInfo": {
+      "location": "Mt. Ember (LeafGreen Exclusivo)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Apenas na versão LeafGreen."
+    }
+  },
+  {
+    "id": 127,
+    "lumioseId": 127,
+    "name": "Pinsir",
+    "type": [
+      "Inseto"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/127.png",
+    "captureInfo": {
+      "location": "Safari Zone, Rocket Game Corner (LeafGreen Exclusivo)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Apenas na versão LeafGreen."
+    }
+  },
+  {
+    "id": 128,
+    "lumioseId": 128,
+    "name": "Tauros",
+    "type": [
+      "Normal"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/128.png",
+    "captureInfo": {
+      "location": "Safari Zone",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 129,
+    "lumioseId": 129,
+    "name": "Magikarp",
+    "type": [
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/129.png",
+    "captureInfo": {
+      "location": "Fish: Everywhere (Old Rod)",
+      "method": "Pesca",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 130,
+    "lumioseId": 130,
+    "name": "Gyarados",
+    "type": [
+      "Água",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/130.png",
+    "captureInfo": {
+      "location": "Fish: Fuchsia City, Safari Zone (ou Evolução)",
+      "method": "Pesca",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Obtido através de evolução."
+    }
+  },
+  {
+    "id": 131,
+    "lumioseId": 131,
+    "name": "Lapras",
+    "type": [
+      "Água",
+      "Gelo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/131.png",
+    "captureInfo": {
+      "location": "Silph Co. (Gift)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 132,
+    "lumioseId": 132,
+    "name": "Ditto",
+    "type": [
+      "Normal"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/132.png",
+    "captureInfo": {
+      "location": "Route 13, 14, 15, Pokémon Mansion, Cerulean Cave",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 133,
+    "lumioseId": 133,
+    "name": "Eevee",
+    "type": [
+      "Normal"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/133.png",
+    "captureInfo": {
+      "location": "Celadon Mansion (Gift)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 134,
+    "lumioseId": 134,
+    "name": "Vaporeon",
+    "type": [
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/134.png",
+    "captureInfo": {
+      "location": "Evolução (Water Stone)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Obtido através de evolução."
+    }
+  },
+  {
+    "id": 135,
+    "lumioseId": 135,
+    "name": "Jolteon",
+    "type": [
+      "Elétrico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/135.png",
+    "captureInfo": {
+      "location": "Evolução (Thunder Stone)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Obtido através de evolução."
+    }
+  },
+  {
+    "id": 136,
+    "lumioseId": 136,
+    "name": "Flareon",
+    "type": [
+      "Fogo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/136.png",
+    "captureInfo": {
+      "location": "Evolução (Fire Stone)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Obtido através de evolução."
+    }
+  },
+  {
+    "id": 137,
+    "lumioseId": 137,
+    "name": "Porygon",
+    "type": [
+      "Normal"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/137.png",
+    "captureInfo": {
+      "location": "Rocket Game Corner",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 138,
+    "lumioseId": 138,
+    "name": "Omanyte",
+    "type": [
+      "Pedra",
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/138.png",
+    "captureInfo": {
+      "location": "Reviver Fossil (Mt. Moon -> Cinnabar Lab)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 139,
+    "lumioseId": 139,
+    "name": "Omastar",
+    "type": [
+      "Pedra",
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/139.png",
+    "captureInfo": {
+      "location": "Evolução",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Obtido através de evolução."
+    }
+  },
+  {
+    "id": 140,
+    "lumioseId": 140,
+    "name": "Kabuto",
+    "type": [
+      "Pedra",
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/140.png",
+    "captureInfo": {
+      "location": "Reviver Fossil (Mt. Moon -> Cinnabar Lab)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 141,
+    "lumioseId": 141,
+    "name": "Kabutops",
+    "type": [
+      "Pedra",
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/141.png",
+    "captureInfo": {
+      "location": "Evolução",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Obtido através de evolução."
+    }
+  },
+  {
+    "id": 142,
+    "lumioseId": 142,
+    "name": "Aerodactyl",
+    "type": [
+      "Pedra",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/142.png",
+    "captureInfo": {
+      "location": "Reviver Old Amber (Pewter Museum -> Cinnabar Lab)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 143,
+    "lumioseId": 143,
+    "name": "Snorlax",
+    "type": [
+      "Normal"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/143.png",
+    "captureInfo": {
+      "location": "Route 12, Route 16 (Fixo - Poké Flute)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 144,
+    "lumioseId": 144,
+    "name": "Articuno",
+    "type": [
+      "Gelo",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/144.png",
+    "captureInfo": {
+      "location": "Seafoam Islands (Lendário Fixo)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 145,
+    "lumioseId": 145,
+    "name": "Zapdos",
+    "type": [
+      "Elétrico",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/145.png",
+    "captureInfo": {
+      "location": "Power Plant (Lendário Fixo)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 146,
+    "lumioseId": 146,
+    "name": "Moltres",
+    "type": [
+      "Fogo",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/146.png",
+    "captureInfo": {
+      "location": "Mt. Ember (Lendário Fixo)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 147,
+    "lumioseId": 147,
+    "name": "Dratini",
+    "type": [
+      "Dragão"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/147.png",
+    "captureInfo": {
+      "location": "Safari Zone, Rocket Game Corner",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 148,
+    "lumioseId": 148,
+    "name": "Dragonair",
+    "type": [
+      "Dragão"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/148.png",
+    "captureInfo": {
+      "location": "Safari Zone (ou Evolução)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Obtido através de evolução."
+    }
+  },
+  {
+    "id": 149,
+    "lumioseId": 149,
+    "name": "Dragonite",
+    "type": [
+      "Dragão",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/149.png",
+    "captureInfo": {
+      "location": "Evolução",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Obtido através de evolução."
+    }
+  },
+  {
+    "id": 150,
+    "lumioseId": 150,
+    "name": "Mewtwo",
+    "type": [
+      "Psíquico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/150.png",
+    "captureInfo": {
+      "location": "Cerulean Cave (Lendário Fixo)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 151,
+    "lumioseId": 151,
+    "name": "Mew",
+    "type": [
+      "Psíquico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/151.png",
+    "captureInfo": {
+      "location": "Evento / Glitch",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  }
+]
