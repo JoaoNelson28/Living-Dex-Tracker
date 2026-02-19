@@ -1,0 +1,6608 @@
+[
+  {
+    "id": 810,
+    "lumioseId": 1,
+    "name": "Grookey",
+    "type": [
+      "Grama"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/810.png",
+    "captureInfo": {
+      "location": "Postwick (Inicial)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Escolhido no início do jogo."
+    }
+  },
+  {
+    "id": 811,
+    "lumioseId": 2,
+    "name": "Thwackey",
+    "type": [
+      "Grama"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/811.png",
+    "captureInfo": {
+      "location": "Evolução",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Obtido através de evolução."
+    }
+  },
+  {
+    "id": 812,
+    "lumioseId": 3,
+    "name": "Rillaboom",
+    "type": [
+      "Grama"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/812.png",
+    "captureInfo": {
+      "location": "Evolução",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Obtido através de evolução."
+    }
+  },
+  {
+    "id": 813,
+    "lumioseId": 4,
+    "name": "Scorbunny",
+    "type": [
+      "Fogo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/813.png",
+    "captureInfo": {
+      "location": "Postwick (Inicial)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Escolhido no início do jogo."
+    }
+  },
+  {
+    "id": 814,
+    "lumioseId": 5,
+    "name": "Raboot",
+    "type": [
+      "Fogo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/814.png",
+    "captureInfo": {
+      "location": "Evolução",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Obtido através de evolução."
+    }
+  },
+  {
+    "id": 815,
+    "lumioseId": 6,
+    "name": "Cinderace",
+    "type": [
+      "Fogo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/815.png",
+    "captureInfo": {
+      "location": "Evolução",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Obtido através de evolução."
+    }
+  },
+  {
+    "id": 816,
+    "lumioseId": 7,
+    "name": "Sobble",
+    "type": [
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/816.png",
+    "captureInfo": {
+      "location": "Postwick (Inicial)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Escolhido no início do jogo."
+    }
+  },
+  {
+    "id": 817,
+    "lumioseId": 8,
+    "name": "Drizzile",
+    "type": [
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/817.png",
+    "captureInfo": {
+      "location": "Evolução",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Obtido através de evolução."
+    }
+  },
+  {
+    "id": 818,
+    "lumioseId": 9,
+    "name": "Inteleon",
+    "type": [
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/818.png",
+    "captureInfo": {
+      "location": "Evolução",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Obtido através de evolução."
+    }
+  },
+  {
+    "id": 824,
+    "lumioseId": 10,
+    "name": "Blipbug",
+    "type": [
+      "Inseto"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/824.png",
+    "captureInfo": {
+      "location": "Route 1, 2, Wild Area",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 825,
+    "lumioseId": 11,
+    "name": "Dottler",
+    "type": [
+      "Inseto",
+      "Psíquico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/825.png",
+    "captureInfo": {
+      "location": "Route 5, Wild Area",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 826,
+    "lumioseId": 12,
+    "name": "Orbeetle",
+    "type": [
+      "Inseto",
+      "Psíquico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/826.png",
+    "captureInfo": {
+      "location": "Slumbering Weald, Wild Area",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 10,
+    "lumioseId": 13,
+    "name": "Caterpie",
+    "type": [
+      "Inseto"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 11,
+    "lumioseId": 14,
+    "name": "Metapod",
+    "type": [
+      "Inseto"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/11.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 12,
+    "lumioseId": 15,
+    "name": "Butterfree",
+    "type": [
+      "Inseto",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/12.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 736,
+    "lumioseId": 16,
+    "name": "Grubbin",
+    "type": [
+      "Inseto"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/736.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 737,
+    "lumioseId": 17,
+    "name": "Charjabug",
+    "type": [
+      "Inseto",
+      "Elétrico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/737.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 738,
+    "lumioseId": 18,
+    "name": "Vikavolt",
+    "type": [
+      "Inseto",
+      "Elétrico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/738.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 163,
+    "lumioseId": 19,
+    "name": "Hoothoot",
+    "type": [
+      "Normal",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/163.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 164,
+    "lumioseId": 20,
+    "name": "Noctowl",
+    "type": [
+      "Normal",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/164.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 821,
+    "lumioseId": 21,
+    "name": "Rookidee",
+    "type": [
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/821.png",
+    "captureInfo": {
+      "location": "Route 1, 2, 3",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 822,
+    "lumioseId": 22,
+    "name": "Corvisquire",
+    "type": [
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/822.png",
+    "captureInfo": {
+      "location": "Route 3, Wild Area",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 823,
+    "lumioseId": 23,
+    "name": "Corviknight",
+    "type": [
+      "Voador",
+      "Aço"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/823.png",
+    "captureInfo": {
+      "location": "Route 7, Wild Area",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 819,
+    "lumioseId": 24,
+    "name": "Skwovet",
+    "type": [
+      "Normal"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/819.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 820,
+    "lumioseId": 25,
+    "name": "Greedent",
+    "type": [
+      "Normal"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/820.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 519,
+    "lumioseId": 26,
+    "name": "Pidove",
+    "type": [
+      "Normal",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/519.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 520,
+    "lumioseId": 27,
+    "name": "Tranquill",
+    "type": [
+      "Normal",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/520.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 521,
+    "lumioseId": 28,
+    "name": "Unfezant",
+    "type": [
+      "Normal",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/521.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 827,
+    "lumioseId": 29,
+    "name": "Nickit",
+    "type": [
+      "Sombrio"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/827.png",
+    "captureInfo": {
+      "location": "Route 2, Wild Area",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 828,
+    "lumioseId": 30,
+    "name": "Thievul",
+    "type": [
+      "Sombrio"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/828.png",
+    "captureInfo": {
+      "location": "Route 7, 9, Wild Area",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 10174,
+    "lumioseId": 31,
+    "name": "Zigzagoon (Galar)",
+    "type": [
+      "Sombrio",
+      "Normal"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10174.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 10175,
+    "lumioseId": 32,
+    "name": "Linoone (Galar)",
+    "type": [
+      "Sombrio",
+      "Normal"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10175.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 862,
+    "lumioseId": 33,
+    "name": "Obstagoon",
+    "type": [
+      "Sombrio",
+      "Normal"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/862.png",
+    "captureInfo": {
+      "location": "Route 2 (Evolução de Linoone Galar)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Obtido através de evolução."
+    }
+  },
+  {
+    "id": 831,
+    "lumioseId": 34,
+    "name": "Wooloo",
+    "type": [
+      "Normal"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/831.png",
+    "captureInfo": {
+      "location": "Route 1, 4",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 832,
+    "lumioseId": 35,
+    "name": "Dubwool",
+    "type": [
+      "Normal"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/832.png",
+    "captureInfo": {
+      "location": "Route 7, Wild Area",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 270,
+    "lumioseId": 36,
+    "name": "Lotad",
+    "type": [
+      "Água",
+      "Grama"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/270.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 271,
+    "lumioseId": 37,
+    "name": "Lombre",
+    "type": [
+      "Água",
+      "Grama"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/271.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 272,
+    "lumioseId": 38,
+    "name": "Ludicolo",
+    "type": [
+      "Água",
+      "Grama"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/272.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 273,
+    "lumioseId": 39,
+    "name": "Seedot",
+    "type": [
+      "Grama"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/273.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 274,
+    "lumioseId": 40,
+    "name": "Nuzleaf",
+    "type": [
+      "Grama",
+      "Sombrio"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/274.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 275,
+    "lumioseId": 41,
+    "name": "Shiftry",
+    "type": [
+      "Grama",
+      "Sombrio"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/275.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 833,
+    "lumioseId": 42,
+    "name": "Chewtle",
+    "type": [
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/833.png",
+    "captureInfo": {
+      "location": "Route 2, 4, 5, Wild Area",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 834,
+    "lumioseId": 43,
+    "name": "Drednaw",
+    "type": [
+      "Água",
+      "Pedra"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/834.png",
+    "captureInfo": {
+      "location": "Route 2, 6, Wild Area",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 509,
+    "lumioseId": 44,
+    "name": "Purrloin",
+    "type": [
+      "Sombrio"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/509.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 510,
+    "lumioseId": 45,
+    "name": "Liepard",
+    "type": [
+      "Sombrio"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/510.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 835,
+    "lumioseId": 46,
+    "name": "Yamper",
+    "type": [
+      "Elétrico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/835.png",
+    "captureInfo": {
+      "location": "Route 2, 4",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 836,
+    "lumioseId": 47,
+    "name": "Boltund",
+    "type": [
+      "Elétrico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/836.png",
+    "captureInfo": {
+      "location": "Wild Area",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 659,
+    "lumioseId": 48,
+    "name": "Bunnelby",
+    "type": [
+      "Normal"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/659.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 660,
+    "lumioseId": 49,
+    "name": "Diggersby",
+    "type": [
+      "Normal",
+      "Terrestre"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/660.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 572,
+    "lumioseId": 50,
+    "name": "Minccino",
+    "type": [
+      "Normal"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/572.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 573,
+    "lumioseId": 51,
+    "name": "Cinccino",
+    "type": [
+      "Normal"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/573.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 761,
+    "lumioseId": 52,
+    "name": "Bounsweet",
+    "type": [
+      "Grama"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/761.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 762,
+    "lumioseId": 53,
+    "name": "Steenee",
+    "type": [
+      "Grama"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/762.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 763,
+    "lumioseId": 54,
+    "name": "Tsareena",
+    "type": [
+      "Grama"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/763.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 43,
+    "lumioseId": 55,
+    "name": "Oddish",
+    "type": [
+      "Grama",
+      "Venenoso"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/43.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 44,
+    "lumioseId": 56,
+    "name": "Gloom",
+    "type": [
+      "Grama",
+      "Venenoso"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/44.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 45,
+    "lumioseId": 57,
+    "name": "Vileplume",
+    "type": [
+      "Grama",
+      "Venenoso"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/45.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 182,
+    "lumioseId": 58,
+    "name": "Bellossom",
+    "type": [
+      "Grama"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/182.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 406,
+    "lumioseId": 59,
+    "name": "Budew",
+    "type": [
+      "Grama",
+      "Venenoso"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/406.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 315,
+    "lumioseId": 60,
+    "name": "Roselia",
+    "type": [
+      "Grama",
+      "Venenoso"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/315.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 407,
+    "lumioseId": 61,
+    "name": "Roserade",
+    "type": [
+      "Grama",
+      "Venenoso"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/407.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 278,
+    "lumioseId": 62,
+    "name": "Wingull",
+    "type": [
+      "Água",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/278.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 279,
+    "lumioseId": 63,
+    "name": "Pelipper",
+    "type": [
+      "Água",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/279.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 595,
+    "lumioseId": 64,
+    "name": "Joltik",
+    "type": [
+      "Inseto",
+      "Elétrico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/595.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 596,
+    "lumioseId": 65,
+    "name": "Galvantula",
+    "type": [
+      "Inseto",
+      "Elétrico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/596.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 309,
+    "lumioseId": 66,
+    "name": "Electrike",
+    "type": [
+      "Elétrico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/309.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 310,
+    "lumioseId": 67,
+    "name": "Manectric",
+    "type": [
+      "Elétrico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/310.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 37,
+    "lumioseId": 68,
+    "name": "Vulpix",
+    "type": [
+      "Fogo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/37.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 38,
+    "lumioseId": 69,
+    "name": "Ninetales",
+    "type": [
+      "Fogo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/38.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 58,
+    "lumioseId": 70,
+    "name": "Growlithe",
+    "type": [
+      "Fogo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/58.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 59,
+    "lumioseId": 71,
+    "name": "Arcanine",
+    "type": [
+      "Fogo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/59.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 582,
+    "lumioseId": 72,
+    "name": "Vanillite",
+    "type": [
+      "Gelo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/582.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 583,
+    "lumioseId": 73,
+    "name": "Vanillish",
+    "type": [
+      "Gelo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/583.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 584,
+    "lumioseId": 74,
+    "name": "Vanilluxe",
+    "type": [
+      "Gelo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/584.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 220,
+    "lumioseId": 75,
+    "name": "Swinub",
+    "type": [
+      "Gelo",
+      "Terrestre"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/220.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 221,
+    "lumioseId": 76,
+    "name": "Piloswine",
+    "type": [
+      "Gelo",
+      "Terrestre"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/221.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 473,
+    "lumioseId": 77,
+    "name": "Mamoswine",
+    "type": [
+      "Gelo",
+      "Terrestre"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/473.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 225,
+    "lumioseId": 78,
+    "name": "Delibird",
+    "type": [
+      "Gelo",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/225.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 361,
+    "lumioseId": 79,
+    "name": "Snorunt",
+    "type": [
+      "Gelo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/361.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 362,
+    "lumioseId": 80,
+    "name": "Glalie",
+    "type": [
+      "Gelo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/362.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 478,
+    "lumioseId": 81,
+    "name": "Froslass",
+    "type": [
+      "Gelo",
+      "Fantasma"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/478.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 343,
+    "lumioseId": 82,
+    "name": "Baltoy",
+    "type": [
+      "Terrestre",
+      "Psíquico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/343.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 344,
+    "lumioseId": 83,
+    "name": "Claydol",
+    "type": [
+      "Terrestre",
+      "Psíquico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/344.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 749,
+    "lumioseId": 84,
+    "name": "Mudbray",
+    "type": [
+      "Terrestre"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/749.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 750,
+    "lumioseId": 85,
+    "name": "Mudsdale",
+    "type": [
+      "Terrestre"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/750.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 557,
+    "lumioseId": 86,
+    "name": "Dwebble",
+    "type": [
+      "Inseto",
+      "Pedra"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/557.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 558,
+    "lumioseId": 87,
+    "name": "Crustle",
+    "type": [
+      "Inseto",
+      "Pedra"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/558.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 622,
+    "lumioseId": 88,
+    "name": "Golett",
+    "type": [
+      "Terrestre",
+      "Fantasma"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/622.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 623,
+    "lumioseId": 89,
+    "name": "Golurk",
+    "type": [
+      "Terrestre",
+      "Fantasma"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/623.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 517,
+    "lumioseId": 90,
+    "name": "Munna",
+    "type": [
+      "Psíquico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/517.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 518,
+    "lumioseId": 91,
+    "name": "Musharna",
+    "type": [
+      "Psíquico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/518.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 177,
+    "lumioseId": 92,
+    "name": "Natu",
+    "type": [
+      "Psíquico",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/177.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 178,
+    "lumioseId": 93,
+    "name": "Xatu",
+    "type": [
+      "Psíquico",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/178.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 759,
+    "lumioseId": 94,
+    "name": "Stufful",
+    "type": [
+      "Normal",
+      "Lutador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/759.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 760,
+    "lumioseId": 95,
+    "name": "Bewear",
+    "type": [
+      "Normal",
+      "Lutador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/760.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 459,
+    "lumioseId": 96,
+    "name": "Snover",
+    "type": [
+      "Grama",
+      "Gelo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/459.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 460,
+    "lumioseId": 97,
+    "name": "Abomasnow",
+    "type": [
+      "Grama",
+      "Gelo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/460.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 98,
+    "lumioseId": 98,
+    "name": "Krabby",
+    "type": [
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/98.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 99,
+    "lumioseId": 99,
+    "name": "Kingler",
+    "type": [
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/99.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 194,
+    "lumioseId": 100,
+    "name": "Wooper",
+    "type": [
+      "Água",
+      "Terrestre"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/194.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 195,
+    "lumioseId": 101,
+    "name": "Quagsire",
+    "type": [
+      "Água",
+      "Terrestre"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/195.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 341,
+    "lumioseId": 102,
+    "name": "Corphish",
+    "type": [
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/341.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 342,
+    "lumioseId": 103,
+    "name": "Crawdaunt",
+    "type": [
+      "Água",
+      "Sombrio"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/342.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 290,
+    "lumioseId": 104,
+    "name": "Nincada",
+    "type": [
+      "Inseto",
+      "Terrestre"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/290.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 291,
+    "lumioseId": 105,
+    "name": "Ninjask",
+    "type": [
+      "Inseto",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/291.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 292,
+    "lumioseId": 106,
+    "name": "Shedinja",
+    "type": [
+      "Inseto",
+      "Fantasma"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/292.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 236,
+    "lumioseId": 107,
+    "name": "Tyrogue",
+    "type": [
+      "Lutador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/236.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 106,
+    "lumioseId": 108,
+    "name": "Hitmonlee",
+    "type": [
+      "Lutador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/106.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 107,
+    "lumioseId": 109,
+    "name": "Hitmonchan",
+    "type": [
+      "Lutador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/107.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 237,
+    "lumioseId": 110,
+    "name": "Hitmontop",
+    "type": [
+      "Lutador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/237.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 674,
+    "lumioseId": 111,
+    "name": "Pancham",
+    "type": [
+      "Lutador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/674.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 675,
+    "lumioseId": 112,
+    "name": "Pangoro",
+    "type": [
+      "Lutador",
+      "Sombrio"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/675.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 599,
+    "lumioseId": 113,
+    "name": "Klink",
+    "type": [
+      "Aço"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/599.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 600,
+    "lumioseId": 114,
+    "name": "Klang",
+    "type": [
+      "Aço"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/600.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 601,
+    "lumioseId": 115,
+    "name": "Klinklang",
+    "type": [
+      "Aço"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/601.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 415,
+    "lumioseId": 116,
+    "name": "Combee",
+    "type": [
+      "Inseto",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/415.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 416,
+    "lumioseId": 117,
+    "name": "Vespiquen",
+    "type": [
+      "Inseto",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/416.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 436,
+    "lumioseId": 118,
+    "name": "Bronzor",
+    "type": [
+      "Aço",
+      "Psíquico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/436.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 437,
+    "lumioseId": 119,
+    "name": "Bronzong",
+    "type": [
+      "Aço",
+      "Psíquico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/437.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 280,
+    "lumioseId": 120,
+    "name": "Ralts",
+    "type": [
+      "Psíquico",
+      "Fada"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/280.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 281,
+    "lumioseId": 121,
+    "name": "Kirlia",
+    "type": [
+      "Psíquico",
+      "Fada"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/281.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 282,
+    "lumioseId": 122,
+    "name": "Gardevoir",
+    "type": [
+      "Psíquico",
+      "Fada"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/282.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 475,
+    "lumioseId": 123,
+    "name": "Gallade",
+    "type": [
+      "Psíquico",
+      "Lutador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/475.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 425,
+    "lumioseId": 124,
+    "name": "Drifloon",
+    "type": [
+      "Fantasma",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/425.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 426,
+    "lumioseId": 125,
+    "name": "Drifblim",
+    "type": [
+      "Fantasma",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/426.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 829,
+    "lumioseId": 126,
+    "name": "Gossifleur",
+    "type": [
+      "Grama"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/829.png",
+    "captureInfo": {
+      "location": "Route 2, 3",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 830,
+    "lumioseId": 127,
+    "name": "Eldegoss",
+    "type": [
+      "Grama"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/830.png",
+    "captureInfo": {
+      "location": "Route 5, Wild Area",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 420,
+    "lumioseId": 128,
+    "name": "Cherubi",
+    "type": [
+      "Grama"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/420.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 421,
+    "lumioseId": 129,
+    "name": "Cherrim",
+    "type": [
+      "Grama"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/421.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 434,
+    "lumioseId": 130,
+    "name": "Stunky",
+    "type": [
+      "Venenoso",
+      "Sombrio"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/434.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 435,
+    "lumioseId": 131,
+    "name": "Skuntank",
+    "type": [
+      "Venenoso",
+      "Sombrio"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/435.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 535,
+    "lumioseId": 132,
+    "name": "Tympole",
+    "type": [
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/535.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 536,
+    "lumioseId": 133,
+    "name": "Palpitoad",
+    "type": [
+      "Água",
+      "Terrestre"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/536.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 537,
+    "lumioseId": 134,
+    "name": "Seismitoad",
+    "type": [
+      "Água",
+      "Terrestre"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/537.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 355,
+    "lumioseId": 135,
+    "name": "Duskull",
+    "type": [
+      "Fantasma"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/355.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 356,
+    "lumioseId": 136,
+    "name": "Dusclops",
+    "type": [
+      "Fantasma"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/356.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 477,
+    "lumioseId": 137,
+    "name": "Dusknoir",
+    "type": [
+      "Fantasma"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/477.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 66,
+    "lumioseId": 138,
+    "name": "Machop",
+    "type": [
+      "Lutador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/66.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 67,
+    "lumioseId": 139,
+    "name": "Machoke",
+    "type": [
+      "Lutador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/67.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 68,
+    "lumioseId": 140,
+    "name": "Machamp",
+    "type": [
+      "Lutador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/68.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 92,
+    "lumioseId": 141,
+    "name": "Gastly",
+    "type": [
+      "Fantasma",
+      "Venenoso"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/92.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 93,
+    "lumioseId": 142,
+    "name": "Haunter",
+    "type": [
+      "Fantasma",
+      "Venenoso"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/93.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 94,
+    "lumioseId": 143,
+    "name": "Gengar",
+    "type": [
+      "Fantasma",
+      "Venenoso"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 129,
+    "lumioseId": 144,
+    "name": "Magikarp",
+    "type": [
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/129.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 130,
+    "lumioseId": 145,
+    "name": "Gyarados",
+    "type": [
+      "Água",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/130.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 118,
+    "lumioseId": 146,
+    "name": "Goldeen",
+    "type": [
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/118.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 119,
+    "lumioseId": 147,
+    "name": "Seaking",
+    "type": [
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/119.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 223,
+    "lumioseId": 148,
+    "name": "Remoraid",
+    "type": [
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/223.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 224,
+    "lumioseId": 149,
+    "name": "Octillery",
+    "type": [
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/224.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 90,
+    "lumioseId": 150,
+    "name": "Shellder",
+    "type": [
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/90.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 91,
+    "lumioseId": 151,
+    "name": "Cloyster",
+    "type": [
+      "Água",
+      "Gelo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/91.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 349,
+    "lumioseId": 152,
+    "name": "Feebas",
+    "type": [
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/349.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 350,
+    "lumioseId": 153,
+    "name": "Milotic",
+    "type": [
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/350.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 550,
+    "lumioseId": 154,
+    "name": "Basculin",
+    "type": [
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/550.png",
+    "captureInfo": {
+      "location": "Erro ao carregar dados",
+      "method": "???",
+      "time": "???",
+      "weather": "???",
+      "notes": "Erro na API."
+    }
+  },
+  {
+    "id": 746,
+    "lumioseId": 155,
+    "name": "Wishiwashi",
+    "type": [
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/746.png",
+    "captureInfo": {
+      "location": "Erro ao carregar dados",
+      "method": "???",
+      "time": "???",
+      "weather": "???",
+      "notes": "Erro na API."
+    }
+  },
+  {
+    "id": 771,
+    "lumioseId": 156,
+    "name": "Pyukumuku",
+    "type": [
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/771.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 568,
+    "lumioseId": 157,
+    "name": "Trubbish",
+    "type": [
+      "Venenoso"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/568.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 569,
+    "lumioseId": 158,
+    "name": "Garbodor",
+    "type": [
+      "Venenoso"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/569.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 850,
+    "lumioseId": 159,
+    "name": "Sizzlipede",
+    "type": [
+      "Fogo",
+      "Inseto"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/850.png",
+    "captureInfo": {
+      "location": "Route 3",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 851,
+    "lumioseId": 160,
+    "name": "Centiskorch",
+    "type": [
+      "Fogo",
+      "Inseto"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/851.png",
+    "captureInfo": {
+      "location": "Wild Area",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 837,
+    "lumioseId": 161,
+    "name": "Rolycoly",
+    "type": [
+      "Pedra"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/837.png",
+    "captureInfo": {
+      "location": "Route 3, Galar Mine",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 838,
+    "lumioseId": 162,
+    "name": "Carkol",
+    "type": [
+      "Pedra",
+      "Fogo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/838.png",
+    "captureInfo": {
+      "location": "Galar Mine No. 2, Wild Area",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 839,
+    "lumioseId": 163,
+    "name": "Coalossal",
+    "type": [
+      "Pedra",
+      "Fogo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/839.png",
+    "captureInfo": {
+      "location": "Lake of Outrage",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 50,
+    "lumioseId": 164,
+    "name": "Diglett",
+    "type": [
+      "Terrestre"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/50.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 51,
+    "lumioseId": 165,
+    "name": "Dugtrio",
+    "type": [
+      "Terrestre"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/51.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 529,
+    "lumioseId": 166,
+    "name": "Drilbur",
+    "type": [
+      "Terrestre"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/529.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 530,
+    "lumioseId": 167,
+    "name": "Excadrill",
+    "type": [
+      "Terrestre",
+      "Aço"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/530.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 524,
+    "lumioseId": 168,
+    "name": "Roggenrola",
+    "type": [
+      "Pedra"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/524.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 525,
+    "lumioseId": 169,
+    "name": "Boldore",
+    "type": [
+      "Pedra"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/525.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 526,
+    "lumioseId": 170,
+    "name": "Gigalith",
+    "type": [
+      "Pedra"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/526.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 532,
+    "lumioseId": 171,
+    "name": "Timburr",
+    "type": [
+      "Lutador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/532.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 533,
+    "lumioseId": 172,
+    "name": "Gurdurr",
+    "type": [
+      "Lutador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/533.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 534,
+    "lumioseId": 173,
+    "name": "Conkeldurr",
+    "type": [
+      "Lutador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/534.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 527,
+    "lumioseId": 174,
+    "name": "Woobat",
+    "type": [
+      "Psíquico",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/527.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 528,
+    "lumioseId": 175,
+    "name": "Swoobat",
+    "type": [
+      "Psíquico",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/528.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 714,
+    "lumioseId": 176,
+    "name": "Noibat",
+    "type": [
+      "Voador",
+      "Dragão"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/714.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 715,
+    "lumioseId": 177,
+    "name": "Noivern",
+    "type": [
+      "Voador",
+      "Dragão"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/715.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 95,
+    "lumioseId": 178,
+    "name": "Onix",
+    "type": [
+      "Pedra",
+      "Terrestre"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/95.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 208,
+    "lumioseId": 179,
+    "name": "Steelix",
+    "type": [
+      "Aço",
+      "Terrestre"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/208.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 846,
+    "lumioseId": 180,
+    "name": "Arrokuda",
+    "type": [
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/846.png",
+    "captureInfo": {
+      "location": "Route 2, Wild Area (Fish)",
+      "method": "Pesca",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 847,
+    "lumioseId": 181,
+    "name": "Barraskewda",
+    "type": [
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/847.png",
+    "captureInfo": {
+      "location": "Route 2, Wild Area (Fish)",
+      "method": "Pesca",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 10161,
+    "lumioseId": 182,
+    "name": "Meowth (Galar)",
+    "type": [
+      "Aço"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10161.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 863,
+    "lumioseId": 183,
+    "name": "Perrserker",
+    "type": [
+      "Aço"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/863.png",
+    "captureInfo": {
+      "location": "Route 7, 9 (Evolução de Meowth Galar)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Obtido através de evolução."
+    }
+  },
+  {
+    "id": 53,
+    "lumioseId": 184,
+    "name": "Persian",
+    "type": [
+      "Normal"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/53.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 868,
+    "lumioseId": 185,
+    "name": "Milcery",
+    "type": [
+      "Fada"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/868.png",
+    "captureInfo": {
+      "location": "Route 4",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 869,
+    "lumioseId": 186,
+    "name": "Alcremie",
+    "type": [
+      "Fada"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/869.png",
+    "captureInfo": {
+      "location": "Evolução",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Obtido através de evolução."
+    }
+  },
+  {
+    "id": 742,
+    "lumioseId": 187,
+    "name": "Cutiefly",
+    "type": [
+      "Inseto",
+      "Fada"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/742.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 743,
+    "lumioseId": 188,
+    "name": "Ribombee",
+    "type": [
+      "Inseto",
+      "Fada"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/743.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 597,
+    "lumioseId": 189,
+    "name": "Ferroseed",
+    "type": [
+      "Grama",
+      "Aço"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/597.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 598,
+    "lumioseId": 190,
+    "name": "Ferrothorn",
+    "type": [
+      "Grama",
+      "Aço"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/598.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 710,
+    "lumioseId": 191,
+    "name": "Pumpkaboo",
+    "type": [
+      "Fantasma",
+      "Grama"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/710.png",
+    "captureInfo": {
+      "location": "Erro ao carregar dados",
+      "method": "???",
+      "time": "???",
+      "weather": "???",
+      "notes": "Erro na API."
+    }
+  },
+  {
+    "id": 711,
+    "lumioseId": 192,
+    "name": "Gourgeist",
+    "type": [
+      "Fantasma",
+      "Grama"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/711.png",
+    "captureInfo": {
+      "location": "Erro ao carregar dados",
+      "method": "???",
+      "time": "???",
+      "weather": "???",
+      "notes": "Erro na API."
+    }
+  },
+  {
+    "id": 172,
+    "lumioseId": 193,
+    "name": "Pichu",
+    "type": [
+      "Elétrico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/172.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 25,
+    "lumioseId": 194,
+    "name": "Pikachu",
+    "type": [
+      "Elétrico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 26,
+    "lumioseId": 195,
+    "name": "Raichu",
+    "type": [
+      "Elétrico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/26.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 133,
+    "lumioseId": 196,
+    "name": "Eevee",
+    "type": [
+      "Normal"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/133.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 134,
+    "lumioseId": 197,
+    "name": "Vaporeon",
+    "type": [
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/134.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 135,
+    "lumioseId": 198,
+    "name": "Jolteon",
+    "type": [
+      "Elétrico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/135.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 136,
+    "lumioseId": 199,
+    "name": "Flareon",
+    "type": [
+      "Fogo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/136.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 196,
+    "lumioseId": 200,
+    "name": "Espeon",
+    "type": [
+      "Psíquico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/196.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 197,
+    "lumioseId": 201,
+    "name": "Umbreon",
+    "type": [
+      "Sombrio"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/197.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 470,
+    "lumioseId": 202,
+    "name": "Leafeon",
+    "type": [
+      "Grama"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/470.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 471,
+    "lumioseId": 203,
+    "name": "Glaceon",
+    "type": [
+      "Gelo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/471.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 700,
+    "lumioseId": 204,
+    "name": "Sylveon",
+    "type": [
+      "Fada"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/700.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 840,
+    "lumioseId": 205,
+    "name": "Applin",
+    "type": [
+      "Grama",
+      "Dragão"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/840.png",
+    "captureInfo": {
+      "location": "Route 5, Wild Area",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 841,
+    "lumioseId": 206,
+    "name": "Flapple",
+    "type": [
+      "Grama",
+      "Dragão"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/841.png",
+    "captureInfo": {
+      "location": "Evolução (Tart Apple - Sword)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Obtido através de evolução."
+    }
+  },
+  {
+    "id": 842,
+    "lumioseId": 207,
+    "name": "Appletun",
+    "type": [
+      "Grama",
+      "Dragão"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/842.png",
+    "captureInfo": {
+      "location": "Evolução (Sweet Apple - Shield)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Obtido através de evolução."
+    }
+  },
+  {
+    "id": 677,
+    "lumioseId": 208,
+    "name": "Espurr",
+    "type": [
+      "Psíquico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/677.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 678,
+    "lumioseId": 209,
+    "name": "Meowstic",
+    "type": [
+      "Psíquico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/678.png",
+    "captureInfo": {
+      "location": "Erro ao carregar dados",
+      "method": "???",
+      "time": "???",
+      "weather": "???",
+      "notes": "Erro na API."
+    }
+  },
+  {
+    "id": 684,
+    "lumioseId": 210,
+    "name": "Swirlix",
+    "type": [
+      "Fada"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/684.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 685,
+    "lumioseId": 211,
+    "name": "Slurpuff",
+    "type": [
+      "Fada"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/685.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 682,
+    "lumioseId": 212,
+    "name": "Spritzee",
+    "type": [
+      "Fada"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/682.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 683,
+    "lumioseId": 213,
+    "name": "Aromatisse",
+    "type": [
+      "Fada"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/683.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 751,
+    "lumioseId": 214,
+    "name": "Dewpider",
+    "type": [
+      "Água",
+      "Inseto"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/751.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 752,
+    "lumioseId": 215,
+    "name": "Araquanid",
+    "type": [
+      "Água",
+      "Inseto"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/752.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 360,
+    "lumioseId": 216,
+    "name": "Wynaut",
+    "type": [
+      "Psíquico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/360.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 202,
+    "lumioseId": 217,
+    "name": "Wobbuffet",
+    "type": [
+      "Psíquico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/202.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 10166,
+    "lumioseId": 218,
+    "name": "Farfetch'd (Galar)",
+    "type": [
+      "Lutador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10166.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 865,
+    "lumioseId": 219,
+    "name": "Sirfetch'd",
+    "type": [
+      "Lutador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/865.png",
+    "captureInfo": {
+      "location": "Evolução (Sword Exclusivo)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a versão do jogo."
+    }
+  },
+  {
+    "id": 170,
+    "lumioseId": 220,
+    "name": "Chinchou",
+    "type": [
+      "Água",
+      "Elétrico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/170.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 171,
+    "lumioseId": 221,
+    "name": "Lanturn",
+    "type": [
+      "Água",
+      "Elétrico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/171.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 453,
+    "lumioseId": 222,
+    "name": "Croagunk",
+    "type": [
+      "Venenoso",
+      "Lutador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/453.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 454,
+    "lumioseId": 223,
+    "name": "Toxicroak",
+    "type": [
+      "Venenoso",
+      "Lutador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/454.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 559,
+    "lumioseId": 224,
+    "name": "Scraggy",
+    "type": [
+      "Sombrio",
+      "Lutador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/559.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 560,
+    "lumioseId": 225,
+    "name": "Scrafty",
+    "type": [
+      "Sombrio",
+      "Lutador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/560.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 10180,
+    "lumioseId": 226,
+    "name": "Stunfisk (Galar)",
+    "type": [
+      "Terrestre",
+      "Aço"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10180.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 213,
+    "lumioseId": 227,
+    "name": "Shuckle",
+    "type": [
+      "Inseto",
+      "Pedra"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/213.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 339,
+    "lumioseId": 228,
+    "name": "Barboach",
+    "type": [
+      "Água",
+      "Terrestre"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/339.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 340,
+    "lumioseId": 229,
+    "name": "Whiscash",
+    "type": [
+      "Água",
+      "Terrestre"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/340.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 422,
+    "lumioseId": 230,
+    "name": "Shellos",
+    "type": [
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/422.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 423,
+    "lumioseId": 231,
+    "name": "Gastrodon",
+    "type": [
+      "Água",
+      "Terrestre"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/423.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 767,
+    "lumioseId": 232,
+    "name": "Wimpod",
+    "type": [
+      "Inseto",
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/767.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 768,
+    "lumioseId": 233,
+    "name": "Golisopod",
+    "type": [
+      "Inseto",
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/768.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 688,
+    "lumioseId": 234,
+    "name": "Binacle",
+    "type": [
+      "Pedra",
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/688.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 689,
+    "lumioseId": 235,
+    "name": "Barbaracle",
+    "type": [
+      "Pedra",
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/689.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 10173,
+    "lumioseId": 236,
+    "name": "Corsola (Galar)",
+    "type": [
+      "Fantasma"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10173.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 864,
+    "lumioseId": 237,
+    "name": "Cursola",
+    "type": [
+      "Fantasma"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/864.png",
+    "captureInfo": {
+      "location": "Evolução (Shield Exclusivo)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a versão do jogo."
+    }
+  },
+  {
+    "id": 859,
+    "lumioseId": 238,
+    "name": "Impidimp",
+    "type": [
+      "Sombrio",
+      "Fada"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/859.png",
+    "captureInfo": {
+      "location": "Glimwood Tangle, Motostoke Outskirts",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 860,
+    "lumioseId": 239,
+    "name": "Morgrem",
+    "type": [
+      "Sombrio",
+      "Fada"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/860.png",
+    "captureInfo": {
+      "location": "Glimwood Tangle",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 861,
+    "lumioseId": 240,
+    "name": "Grimmsnarl",
+    "type": [
+      "Sombrio",
+      "Fada"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/861.png",
+    "captureInfo": {
+      "location": "Lake of Outrage",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 856,
+    "lumioseId": 241,
+    "name": "Hatenna",
+    "type": [
+      "Psíquico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/856.png",
+    "captureInfo": {
+      "location": "Motostoke Outskirts",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 857,
+    "lumioseId": 242,
+    "name": "Hattrem",
+    "type": [
+      "Psíquico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/857.png",
+    "captureInfo": {
+      "location": "Glimwood Tangle",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 858,
+    "lumioseId": 243,
+    "name": "Hatterene",
+    "type": [
+      "Psíquico",
+      "Fada"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/858.png",
+    "captureInfo": {
+      "location": "Lake of Outrage",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 757,
+    "lumioseId": 244,
+    "name": "Salandit",
+    "type": [
+      "Venenoso",
+      "Fogo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/757.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 758,
+    "lumioseId": 245,
+    "name": "Salazzle",
+    "type": [
+      "Venenoso",
+      "Fogo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/758.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 624,
+    "lumioseId": 246,
+    "name": "Pawniard",
+    "type": [
+      "Sombrio",
+      "Aço"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/624.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 625,
+    "lumioseId": 247,
+    "name": "Bisharp",
+    "type": [
+      "Sombrio",
+      "Aço"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/625.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 539,
+    "lumioseId": 248,
+    "name": "Sawk",
+    "type": [
+      "Lutador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/539.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 538,
+    "lumioseId": 249,
+    "name": "Throh",
+    "type": [
+      "Lutador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/538.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 109,
+    "lumioseId": 250,
+    "name": "Koffing",
+    "type": [
+      "Venenoso"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/109.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 10167,
+    "lumioseId": 251,
+    "name": "Weezing (Galar)",
+    "type": [
+      "Venenoso",
+      "Fada"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10167.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 438,
+    "lumioseId": 252,
+    "name": "Bonsly",
+    "type": [
+      "Pedra"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/438.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 185,
+    "lumioseId": 253,
+    "name": "Sudowoodo",
+    "type": [
+      "Pedra"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/185.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 173,
+    "lumioseId": 254,
+    "name": "Cleffa",
+    "type": [
+      "Fada"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/173.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 35,
+    "lumioseId": 255,
+    "name": "Clefairy",
+    "type": [
+      "Fada"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/35.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 36,
+    "lumioseId": 256,
+    "name": "Clefable",
+    "type": [
+      "Fada"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/36.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 175,
+    "lumioseId": 257,
+    "name": "Togepi",
+    "type": [
+      "Fada"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/175.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 176,
+    "lumioseId": 258,
+    "name": "Togetic",
+    "type": [
+      "Fada",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/176.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 468,
+    "lumioseId": 259,
+    "name": "Togekiss",
+    "type": [
+      "Fada",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/468.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 446,
+    "lumioseId": 260,
+    "name": "Munchlax",
+    "type": [
+      "Normal"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/446.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 143,
+    "lumioseId": 261,
+    "name": "Snorlax",
+    "type": [
+      "Normal"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/143.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 546,
+    "lumioseId": 262,
+    "name": "Cottonee",
+    "type": [
+      "Grama",
+      "Fada"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/546.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 547,
+    "lumioseId": 263,
+    "name": "Whimsicott",
+    "type": [
+      "Grama",
+      "Fada"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/547.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 111,
+    "lumioseId": 264,
+    "name": "Rhyhorn",
+    "type": [
+      "Terrestre",
+      "Pedra"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/111.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 112,
+    "lumioseId": 265,
+    "name": "Rhydon",
+    "type": [
+      "Terrestre",
+      "Pedra"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/112.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 464,
+    "lumioseId": 266,
+    "name": "Rhyperior",
+    "type": [
+      "Terrestre",
+      "Pedra"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/464.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 574,
+    "lumioseId": 267,
+    "name": "Gothita",
+    "type": [
+      "Psíquico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/574.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 575,
+    "lumioseId": 268,
+    "name": "Gothorita",
+    "type": [
+      "Psíquico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/575.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 576,
+    "lumioseId": 269,
+    "name": "Gothitelle",
+    "type": [
+      "Psíquico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/576.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 577,
+    "lumioseId": 270,
+    "name": "Solosis",
+    "type": [
+      "Psíquico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/577.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 578,
+    "lumioseId": 271,
+    "name": "Duosion",
+    "type": [
+      "Psíquico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/578.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 579,
+    "lumioseId": 272,
+    "name": "Reuniclus",
+    "type": [
+      "Psíquico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/579.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 588,
+    "lumioseId": 273,
+    "name": "Karrablast",
+    "type": [
+      "Inseto"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/588.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 589,
+    "lumioseId": 274,
+    "name": "Escavalier",
+    "type": [
+      "Inseto",
+      "Aço"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/589.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 616,
+    "lumioseId": 275,
+    "name": "Shelmet",
+    "type": [
+      "Inseto"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/616.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 617,
+    "lumioseId": 276,
+    "name": "Accelgor",
+    "type": [
+      "Inseto"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/617.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 605,
+    "lumioseId": 277,
+    "name": "Elgyem",
+    "type": [
+      "Psíquico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/605.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 606,
+    "lumioseId": 278,
+    "name": "Beheeyem",
+    "type": [
+      "Psíquico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/606.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 613,
+    "lumioseId": 279,
+    "name": "Cubchoo",
+    "type": [
+      "Gelo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/613.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 614,
+    "lumioseId": 280,
+    "name": "Beartic",
+    "type": [
+      "Gelo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/614.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 627,
+    "lumioseId": 281,
+    "name": "Rufflet",
+    "type": [
+      "Normal",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/627.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 628,
+    "lumioseId": 282,
+    "name": "Braviary",
+    "type": [
+      "Normal",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/628.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 629,
+    "lumioseId": 283,
+    "name": "Vullaby",
+    "type": [
+      "Sombrio",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/629.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 630,
+    "lumioseId": 284,
+    "name": "Mandibuzz",
+    "type": [
+      "Sombrio",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/630.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 451,
+    "lumioseId": 285,
+    "name": "Skorupi",
+    "type": [
+      "Venenoso",
+      "Inseto"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/451.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 452,
+    "lumioseId": 286,
+    "name": "Drapion",
+    "type": [
+      "Venenoso",
+      "Sombrio"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/452.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 607,
+    "lumioseId": 287,
+    "name": "Litwick",
+    "type": [
+      "Fantasma",
+      "Fogo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/607.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 608,
+    "lumioseId": 288,
+    "name": "Lampent",
+    "type": [
+      "Fantasma",
+      "Fogo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/608.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 609,
+    "lumioseId": 289,
+    "name": "Chandelure",
+    "type": [
+      "Fantasma",
+      "Fogo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/609.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 686,
+    "lumioseId": 290,
+    "name": "Inkay",
+    "type": [
+      "Sombrio",
+      "Psíquico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/686.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 687,
+    "lumioseId": 291,
+    "name": "Malamar",
+    "type": [
+      "Sombrio",
+      "Psíquico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/687.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 215,
+    "lumioseId": 292,
+    "name": "Sneasel",
+    "type": [
+      "Sombrio",
+      "Gelo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/215.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 461,
+    "lumioseId": 293,
+    "name": "Weavile",
+    "type": [
+      "Sombrio",
+      "Gelo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/461.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 302,
+    "lumioseId": 294,
+    "name": "Sableye",
+    "type": [
+      "Sombrio",
+      "Fantasma"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/302.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 303,
+    "lumioseId": 295,
+    "name": "Mawile",
+    "type": [
+      "Aço",
+      "Fada"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/303.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 556,
+    "lumioseId": 296,
+    "name": "Maractus",
+    "type": [
+      "Grama"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/556.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 561,
+    "lumioseId": 297,
+    "name": "Sigilyph",
+    "type": [
+      "Psíquico",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/561.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 447,
+    "lumioseId": 298,
+    "name": "Riolu",
+    "type": [
+      "Lutador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/447.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 448,
+    "lumioseId": 299,
+    "name": "Lucario",
+    "type": [
+      "Lutador",
+      "Aço"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/448.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 324,
+    "lumioseId": 300,
+    "name": "Torkoal",
+    "type": [
+      "Fogo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/324.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 778,
+    "lumioseId": 301,
+    "name": "Mimikyu",
+    "type": [
+      "Fantasma",
+      "Fada"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/778.png",
+    "captureInfo": {
+      "location": "Erro ao carregar dados",
+      "method": "???",
+      "time": "???",
+      "weather": "???",
+      "notes": "Erro na API."
+    }
+  },
+  {
+    "id": 878,
+    "lumioseId": 302,
+    "name": "Cufant",
+    "type": [
+      "Aço"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/878.png",
+    "captureInfo": {
+      "location": "Bridge Field",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 879,
+    "lumioseId": 303,
+    "name": "Copperajah",
+    "type": [
+      "Aço"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/879.png",
+    "captureInfo": {
+      "location": "Lake of Outrage",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 211,
+    "lumioseId": 304,
+    "name": "Qwilfish",
+    "type": [
+      "Água",
+      "Venenoso"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/211.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 592,
+    "lumioseId": 305,
+    "name": "Frillish",
+    "type": [
+      "Água",
+      "Fantasma"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/592.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 593,
+    "lumioseId": 306,
+    "name": "Jellicent",
+    "type": [
+      "Água",
+      "Fantasma"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/593.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 747,
+    "lumioseId": 307,
+    "name": "Mareanie",
+    "type": [
+      "Venenoso",
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/747.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 748,
+    "lumioseId": 308,
+    "name": "Toxapex",
+    "type": [
+      "Venenoso",
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/748.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 845,
+    "lumioseId": 309,
+    "name": "Cramorant",
+    "type": [
+      "Voador",
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/845.png",
+    "captureInfo": {
+      "location": "Route 9, Wild Area",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 848,
+    "lumioseId": 310,
+    "name": "Toxel",
+    "type": [
+      "Elétrico",
+      "Venenoso"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/848.png",
+    "captureInfo": {
+      "location": "Route 7, Wild Area",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 849,
+    "lumioseId": 311,
+    "name": "Toxtricity",
+    "type": [
+      "Elétrico",
+      "Venenoso"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/849.png",
+    "captureInfo": {
+      "location": "Erro ao carregar dados",
+      "method": "???",
+      "time": "???",
+      "weather": "???",
+      "notes": "Erro na API."
+    }
+  },
+  {
+    "id": 843,
+    "lumioseId": 312,
+    "name": "Silicobra",
+    "type": [
+      "Terrestre"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/843.png",
+    "captureInfo": {
+      "location": "Route 6",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 844,
+    "lumioseId": 313,
+    "name": "Sandaconda",
+    "type": [
+      "Terrestre"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/844.png",
+    "captureInfo": {
+      "location": "Route 8, Wild Area",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 449,
+    "lumioseId": 314,
+    "name": "Hippopotas",
+    "type": [
+      "Terrestre"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/449.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 450,
+    "lumioseId": 315,
+    "name": "Hippowdon",
+    "type": [
+      "Terrestre"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/450.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 632,
+    "lumioseId": 316,
+    "name": "Durant",
+    "type": [
+      "Inseto",
+      "Aço"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/632.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 631,
+    "lumioseId": 317,
+    "name": "Heatmor",
+    "type": [
+      "Fogo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/631.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 694,
+    "lumioseId": 318,
+    "name": "Helioptile",
+    "type": [
+      "Elétrico",
+      "Normal"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/694.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 695,
+    "lumioseId": 319,
+    "name": "Heliolisk",
+    "type": [
+      "Elétrico",
+      "Normal"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/695.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 701,
+    "lumioseId": 320,
+    "name": "Hawlucha",
+    "type": [
+      "Lutador",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/701.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 328,
+    "lumioseId": 321,
+    "name": "Trapinch",
+    "type": [
+      "Terrestre"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/328.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 329,
+    "lumioseId": 322,
+    "name": "Vibrava",
+    "type": [
+      "Terrestre",
+      "Dragão"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/329.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 330,
+    "lumioseId": 323,
+    "name": "Flygon",
+    "type": [
+      "Terrestre",
+      "Dragão"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/330.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 610,
+    "lumioseId": 324,
+    "name": "Axew",
+    "type": [
+      "Dragão"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/610.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 611,
+    "lumioseId": 325,
+    "name": "Fraxure",
+    "type": [
+      "Dragão"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/611.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 612,
+    "lumioseId": 326,
+    "name": "Haxorus",
+    "type": [
+      "Dragão"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/612.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 10179,
+    "lumioseId": 327,
+    "name": "Yamask (Galar)",
+    "type": [
+      "Terrestre",
+      "Fantasma"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10179.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 867,
+    "lumioseId": 328,
+    "name": "Runerigus",
+    "type": [
+      "Terrestre",
+      "Fantasma"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/867.png",
+    "captureInfo": {
+      "location": "Evolução de Yamask Galar",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Obtido através de evolução."
+    }
+  },
+  {
+    "id": 563,
+    "lumioseId": 329,
+    "name": "Cofagrigus",
+    "type": [
+      "Fantasma"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/563.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 679,
+    "lumioseId": 330,
+    "name": "Honedge",
+    "type": [
+      "Aço",
+      "Fantasma"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/679.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 680,
+    "lumioseId": 331,
+    "name": "Doublade",
+    "type": [
+      "Aço",
+      "Fantasma"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/680.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 681,
+    "lumioseId": 332,
+    "name": "Aegislash",
+    "type": [
+      "Aço",
+      "Fantasma"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/681.png",
+    "captureInfo": {
+      "location": "Erro ao carregar dados",
+      "method": "???",
+      "time": "???",
+      "weather": "???",
+      "notes": "Erro na API."
+    }
+  },
+  {
+    "id": 10162,
+    "lumioseId": 333,
+    "name": "Ponyta (Galar)",
+    "type": [
+      "Psíquico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10162.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 10163,
+    "lumioseId": 334,
+    "name": "Rapidash (Galar)",
+    "type": [
+      "Psíquico",
+      "Fada"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10163.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 854,
+    "lumioseId": 335,
+    "name": "Sinistea",
+    "type": [
+      "Fantasma"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/854.png",
+    "captureInfo": {
+      "location": "Glimwood Tangle",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 855,
+    "lumioseId": 336,
+    "name": "Polteageist",
+    "type": [
+      "Fantasma"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/855.png",
+    "captureInfo": {
+      "location": "Evolução",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Obtido através de evolução."
+    }
+  },
+  {
+    "id": 876,
+    "lumioseId": 337,
+    "name": "Indeedee",
+    "type": [
+      "Psíquico",
+      "Normal"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/876.png",
+    "captureInfo": {
+      "location": "Erro ao carregar dados",
+      "method": "???",
+      "time": "???",
+      "weather": "???",
+      "notes": "Erro na API."
+    }
+  },
+  {
+    "id": 708,
+    "lumioseId": 338,
+    "name": "Phantump",
+    "type": [
+      "Fantasma",
+      "Grama"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/708.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 709,
+    "lumioseId": 339,
+    "name": "Trevenant",
+    "type": [
+      "Fantasma",
+      "Grama"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/709.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 755,
+    "lumioseId": 340,
+    "name": "Morelull",
+    "type": [
+      "Grama",
+      "Fada"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/755.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 756,
+    "lumioseId": 341,
+    "name": "Shiinotic",
+    "type": [
+      "Grama",
+      "Fada"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/756.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 765,
+    "lumioseId": 342,
+    "name": "Oranguru",
+    "type": [
+      "Normal",
+      "Psíquico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/765.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 766,
+    "lumioseId": 343,
+    "name": "Passimian",
+    "type": [
+      "Lutador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/766.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 877,
+    "lumioseId": 344,
+    "name": "Morpeko",
+    "type": [
+      "Elétrico",
+      "Sombrio"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/877.png",
+    "captureInfo": {
+      "location": "Erro ao carregar dados",
+      "method": "???",
+      "time": "???",
+      "weather": "???",
+      "notes": "Erro na API."
+    }
+  },
+  {
+    "id": 870,
+    "lumioseId": 345,
+    "name": "Falinks",
+    "type": [
+      "Lutador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/870.png",
+    "captureInfo": {
+      "location": "Route 8, Lake of Outrage",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 780,
+    "lumioseId": 346,
+    "name": "Drampa",
+    "type": [
+      "Normal",
+      "Dragão"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/780.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 776,
+    "lumioseId": 347,
+    "name": "Turtonator",
+    "type": [
+      "Fogo",
+      "Dragão"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/776.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 777,
+    "lumioseId": 348,
+    "name": "Togedemaru",
+    "type": [
+      "Elétrico",
+      "Aço"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/777.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 872,
+    "lumioseId": 349,
+    "name": "Snom",
+    "type": [
+      "Gelo",
+      "Inseto"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/872.png",
+    "captureInfo": {
+      "location": "Route 8, 10",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 873,
+    "lumioseId": 350,
+    "name": "Frosmoth",
+    "type": [
+      "Gelo",
+      "Inseto"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/873.png",
+    "captureInfo": {
+      "location": "Evolução",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Obtido através de evolução."
+    }
+  },
+  {
+    "id": 852,
+    "lumioseId": 351,
+    "name": "Clobbopus",
+    "type": [
+      "Lutador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/852.png",
+    "captureInfo": {
+      "location": "Route 9",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 853,
+    "lumioseId": 352,
+    "name": "Grapploct",
+    "type": [
+      "Lutador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/853.png",
+    "captureInfo": {
+      "location": "Route 9 (On Ice), Lake of Outrage",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 871,
+    "lumioseId": 353,
+    "name": "Pincurchin",
+    "type": [
+      "Elétrico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/871.png",
+    "captureInfo": {
+      "location": "Route 9",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 458,
+    "lumioseId": 354,
+    "name": "Mantyke",
+    "type": [
+      "Água",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/458.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 226,
+    "lumioseId": 355,
+    "name": "Mantine",
+    "type": [
+      "Água",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/226.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 320,
+    "lumioseId": 356,
+    "name": "Wailmer",
+    "type": [
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/320.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 321,
+    "lumioseId": 357,
+    "name": "Wailord",
+    "type": [
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/321.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 712,
+    "lumioseId": 358,
+    "name": "Bergmite",
+    "type": [
+      "Gelo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/712.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 713,
+    "lumioseId": 359,
+    "name": "Avalugg",
+    "type": [
+      "Gelo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/713.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 781,
+    "lumioseId": 360,
+    "name": "Dhelmise",
+    "type": [
+      "Fantasma",
+      "Grama"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/781.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 131,
+    "lumioseId": 361,
+    "name": "Lapras",
+    "type": [
+      "Água",
+      "Gelo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/131.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 337,
+    "lumioseId": 362,
+    "name": "Lunatone",
+    "type": [
+      "Pedra",
+      "Psíquico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/337.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 338,
+    "lumioseId": 363,
+    "name": "Solrock",
+    "type": [
+      "Pedra",
+      "Psíquico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/338.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 439,
+    "lumioseId": 364,
+    "name": "Mime Jr.",
+    "type": [
+      "Psíquico",
+      "Fada"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/439.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 10168,
+    "lumioseId": 365,
+    "name": "Mr. Mime (Galar)",
+    "type": [
+      "Gelo",
+      "Psíquico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10168.png",
+    "captureInfo": {
+      "location": "Erro ao carregar dados",
+      "method": "???",
+      "time": "???",
+      "weather": "???",
+      "notes": "Erro na API."
+    }
+  },
+  {
+    "id": 866,
+    "lumioseId": 366,
+    "name": "Mr. Rime",
+    "type": [
+      "Gelo",
+      "Psíquico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/866.png",
+    "captureInfo": {
+      "location": "Route 10 (Evolução de Mr. Mime Galar)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Obtido através de evolução."
+    }
+  },
+  {
+    "id": 10176,
+    "lumioseId": 367,
+    "name": "Darumaka (Galar)",
+    "type": [
+      "Gelo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10176.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 10177,
+    "lumioseId": 368,
+    "name": "Darmanitan (Galar)",
+    "type": [
+      "Gelo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10177.png",
+    "captureInfo": {
+      "location": "Erro ao carregar dados",
+      "method": "???",
+      "time": "???",
+      "weather": "???",
+      "notes": "Erro na API."
+    }
+  },
+  {
+    "id": 874,
+    "lumioseId": 369,
+    "name": "Stonjourner",
+    "type": [
+      "Pedra"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/874.png",
+    "captureInfo": {
+      "location": "Route 10, Lake of Outrage (Sword)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 875,
+    "lumioseId": 370,
+    "name": "Eiscue",
+    "type": [
+      "Gelo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/875.png",
+    "captureInfo": {
+      "location": "Erro ao carregar dados",
+      "method": "???",
+      "time": "???",
+      "weather": "???",
+      "notes": "Erro na API."
+    }
+  },
+  {
+    "id": 884,
+    "lumioseId": 371,
+    "name": "Duraludon",
+    "type": [
+      "Aço",
+      "Dragão"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/884.png",
+    "captureInfo": {
+      "location": "Route 10, Lake of Outrage",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 479,
+    "lumioseId": 372,
+    "name": "Rotom",
+    "type": [
+      "Elétrico",
+      "Fantasma"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/479.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 132,
+    "lumioseId": 373,
+    "name": "Ditto",
+    "type": [
+      "Normal"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/132.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 880,
+    "lumioseId": 374,
+    "name": "Dracozolt",
+    "type": [
+      "Elétrico",
+      "Dragão"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/880.png",
+    "captureInfo": {
+      "location": "Revive Fossil (Bird + Drake)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 881,
+    "lumioseId": 375,
+    "name": "Arctozolt",
+    "type": [
+      "Elétrico",
+      "Gelo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/881.png",
+    "captureInfo": {
+      "location": "Revive Fossil (Bird + Dino)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 882,
+    "lumioseId": 376,
+    "name": "Dracovish",
+    "type": [
+      "Água",
+      "Dragão"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/882.png",
+    "captureInfo": {
+      "location": "Revive Fossil (Fish + Drake)",
+      "method": "Pesca",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 883,
+    "lumioseId": 377,
+    "name": "Arctovish",
+    "type": [
+      "Água",
+      "Gelo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/883.png",
+    "captureInfo": {
+      "location": "Revive Fossil (Fish + Dino)",
+      "method": "Pesca",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 4,
+    "lumioseId": 378,
+    "name": "Charmander",
+    "type": [
+      "Fogo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/4.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 5,
+    "lumioseId": 379,
+    "name": "Charmeleon",
+    "type": [
+      "Fogo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/5.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 6,
+    "lumioseId": 380,
+    "name": "Charizard",
+    "type": [
+      "Fogo",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 772,
+    "lumioseId": 381,
+    "name": "Type: Null",
+    "type": [
+      "Normal"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/772.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 773,
+    "lumioseId": 382,
+    "name": "Silvally",
+    "type": [
+      "Normal"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/773.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 246,
+    "lumioseId": 383,
+    "name": "Larvitar",
+    "type": [
+      "Pedra",
+      "Terrestre"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/246.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 247,
+    "lumioseId": 384,
+    "name": "Pupitar",
+    "type": [
+      "Pedra",
+      "Terrestre"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/247.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 248,
+    "lumioseId": 385,
+    "name": "Tyranitar",
+    "type": [
+      "Pedra",
+      "Sombrio"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/248.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 633,
+    "lumioseId": 386,
+    "name": "Deino",
+    "type": [
+      "Sombrio",
+      "Dragão"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/633.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 634,
+    "lumioseId": 387,
+    "name": "Zweilous",
+    "type": [
+      "Sombrio",
+      "Dragão"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/634.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 635,
+    "lumioseId": 388,
+    "name": "Hydreigon",
+    "type": [
+      "Sombrio",
+      "Dragão"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/635.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 704,
+    "lumioseId": 389,
+    "name": "Goomy",
+    "type": [
+      "Dragão"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/704.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 705,
+    "lumioseId": 390,
+    "name": "Sliggoo",
+    "type": [
+      "Dragão"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/705.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 706,
+    "lumioseId": 391,
+    "name": "Goodra",
+    "type": [
+      "Dragão"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/706.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 782,
+    "lumioseId": 392,
+    "name": "Jangmo-o",
+    "type": [
+      "Dragão"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/782.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 783,
+    "lumioseId": 393,
+    "name": "Hakamo-o",
+    "type": [
+      "Dragão",
+      "Lutador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/783.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 784,
+    "lumioseId": 394,
+    "name": "Kommo-o",
+    "type": [
+      "Dragão",
+      "Lutador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/784.png",
+    "captureInfo": {
+      "location": "Galar Region",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique a Dex."
+    }
+  },
+  {
+    "id": 885,
+    "lumioseId": 395,
+    "name": "Dreepy",
+    "type": [
+      "Dragão",
+      "Fantasma"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/885.png",
+    "captureInfo": {
+      "location": "Lake of Outrage (Nublado/Trovoada)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 886,
+    "lumioseId": 396,
+    "name": "Drakloak",
+    "type": [
+      "Dragão",
+      "Fantasma"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/886.png",
+    "captureInfo": {
+      "location": "Lake of Outrage",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 887,
+    "lumioseId": 397,
+    "name": "Dragapult",
+    "type": [
+      "Dragão",
+      "Fantasma"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/887.png",
+    "captureInfo": {
+      "location": "Evolução",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Obtido através de evolução."
+    }
+  },
+  {
+    "id": 888,
+    "lumioseId": 398,
+    "name": "Zacian",
+    "type": [
+      "Fada"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/888.png",
+    "captureInfo": {
+      "location": "Energy Plant (Sword)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 889,
+    "lumioseId": 399,
+    "name": "Zamazenta",
+    "type": [
+      "Lutador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/889.png",
+    "captureInfo": {
+      "location": "Energy Plant (Shield)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  },
+  {
+    "id": 890,
+    "lumioseId": 400,
+    "name": "Eternatus",
+    "type": [
+      "Venenoso",
+      "Dragão"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/890.png",
+    "captureInfo": {
+      "location": "Energy Plant (Tower Summit)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa para detalhes."
+    }
+  }
+]

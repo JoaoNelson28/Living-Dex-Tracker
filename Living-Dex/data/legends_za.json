@@ -1,0 +1,5215 @@
+[
+  {
+    "id": 152,
+    "lumioseId": 1,
+    "name": "Chikorita",
+    "type": [
+      "Grama"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/152.png",
+    "captureInfo": {
+      "location": "Inicial, Zona Selvagem 20 (Pós-jogo)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 153,
+    "lumioseId": 2,
+    "name": "Bayleef",
+    "type": [
+      "Grama"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/153.png",
+    "captureInfo": {
+      "location": "Evoluir Chikorita (Nvl 16)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 154,
+    "lumioseId": 3,
+    "name": "Meganium",
+    "type": [
+      "Grama"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/154.png",
+    "captureInfo": {
+      "location": "Evoluir Bayleef (Nvl 32)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 498,
+    "lumioseId": 4,
+    "name": "Tepig",
+    "type": [
+      "Fogo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/498.png",
+    "captureInfo": {
+      "location": "Inicial, Zona Selvagem 20 (Pós-jogo)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 499,
+    "lumioseId": 5,
+    "name": "Pignite",
+    "type": [
+      "Fogo",
+      "Lutador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/499.png",
+    "captureInfo": {
+      "location": "Evoluir Tepig (Nvl 17)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 500,
+    "lumioseId": 6,
+    "name": "Emboar",
+    "type": [
+      "Fogo",
+      "Lutador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/500.png",
+    "captureInfo": {
+      "location": "Evoluir Pignite (Nvl 36)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 158,
+    "lumioseId": 7,
+    "name": "Totodile",
+    "type": [
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/158.png",
+    "captureInfo": {
+      "location": "Inicial, Zona Selvagem 20 (Pós-jogo)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 159,
+    "lumioseId": 8,
+    "name": "Croconaw",
+    "type": [
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/159.png",
+    "captureInfo": {
+      "location": "Evoluir Totodile (Nvl 18)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 160,
+    "lumioseId": 9,
+    "name": "Feraligatr",
+    "type": [
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/160.png",
+    "captureInfo": {
+      "location": "Evoluir Croconaw (Nvl 30)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 661,
+    "lumioseId": 10,
+    "name": "Fletchling",
+    "type": [
+      "Normal",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/661.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 1, Telhados",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 662,
+    "lumioseId": 11,
+    "name": "Fletchinder",
+    "type": [
+      "Fogo",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/662.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 9, Telhados, Evoluir Fletchling (Nvl 17)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 663,
+    "lumioseId": 12,
+    "name": "Talonflame",
+    "type": [
+      "Fogo",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/663.png",
+    "captureInfo": {
+      "location": "Telhados, Evoluir Fletchinder (Nvl 35)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 659,
+    "lumioseId": 13,
+    "name": "Bunnelby",
+    "type": [
+      "Normal"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/659.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 1, 5",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 660,
+    "lumioseId": 14,
+    "name": "Diggersby",
+    "type": [
+      "Normal",
+      "Terrestre"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/660.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 17, Evoluir Bunnelby (Nvl 20)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 664,
+    "lumioseId": 15,
+    "name": "Scatterbug",
+    "type": [
+      "Inseto"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/664.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 1, Telhados com grama",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 665,
+    "lumioseId": 16,
+    "name": "Spewpa",
+    "type": [
+      "Inseto"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/665.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 4 (Dia), Telhados com grama, Evoluir Scatterbug (Nvl 9)",
+      "method": "Evolução",
+      "time": "Dia",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 666,
+    "lumioseId": 17,
+    "name": "Vivillon",
+    "type": [
+      "Inseto",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/666.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 13 (Dia), Telhados, Evoluir Spewpa (Nvl 12)",
+      "method": "Evolução",
+      "time": "Dia",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 13,
+    "lumioseId": 18,
+    "name": "Weedle",
+    "type": [
+      "Inseto",
+      "Venenoso"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/13.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 1, Telhados com grama, Parques",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 14,
+    "lumioseId": 19,
+    "name": "Kakuna",
+    "type": [
+      "Inseto",
+      "Venenoso"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/14.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 2, 7 (Árvores), Evoluir Weedle (Nvl 7)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 15,
+    "lumioseId": 20,
+    "name": "Beedrill",
+    "type": [
+      "Inseto",
+      "Venenoso"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/15.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 15 (Dia), Evoluir Kakuna (Nvl 10)",
+      "method": "Evolução",
+      "time": "Dia",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 16,
+    "lumioseId": 21,
+    "name": "Pidgey",
+    "type": [
+      "Normal",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/16.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 1, 5",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 17,
+    "lumioseId": 22,
+    "name": "Pidgeotto",
+    "type": [
+      "Normal",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/17.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 5, Evoluir Pidgey (Nvl 18)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 18,
+    "lumioseId": 23,
+    "name": "Pidgeot",
+    "type": [
+      "Normal",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/18.png",
+    "captureInfo": {
+      "location": "Telhados, Evoluir Pidgeotto (Nvl 36)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 179,
+    "lumioseId": 24,
+    "name": "Mareep",
+    "type": [
+      "Elétrico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/179.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 1",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 180,
+    "lumioseId": 25,
+    "name": "Flaaffy",
+    "type": [
+      "Elétrico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/180.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 6, 16, Evoluir Mareep (Nvl 15)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 181,
+    "lumioseId": 26,
+    "name": "Ampharos",
+    "type": [
+      "Elétrico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/181.png",
+    "captureInfo": {
+      "location": "Alpha: Zona Selvagem 16, Evoluir Flaaffy (Nvl 30)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Cuidado: Pokémon Alpha!"
+    }
+  },
+  {
+    "id": 504,
+    "lumioseId": 27,
+    "name": "Patrat",
+    "type": [
+      "Normal"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/504.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 2, 4 (Noite), Esgotos (Sudoeste)",
+      "method": "Captura Padrão",
+      "time": "Noite",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 505,
+    "lumioseId": 28,
+    "name": "Watchog",
+    "type": [
+      "Normal"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/505.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 10, Evoluir Patrat (Nvl 20)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 406,
+    "lumioseId": 29,
+    "name": "Budew",
+    "type": [
+      "Grama",
+      "Venenoso"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/406.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 2",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 315,
+    "lumioseId": 30,
+    "name": "Roselia",
+    "type": [
+      "Grama",
+      "Venenoso"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/315.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 7, Evoluir Budew (Amizade/Dia)",
+      "method": "Evolução",
+      "time": "Dia",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 407,
+    "lumioseId": 31,
+    "name": "Roserade",
+    "type": [
+      "Grama",
+      "Venenoso"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/407.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 20, Evoluir Roselia (Pedra do Brilho)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 129,
+    "lumioseId": 32,
+    "name": "Magikarp",
+    "type": [
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/129.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 2, 6",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 130,
+    "lumioseId": 33,
+    "name": "Gyarados",
+    "type": [
+      "Água",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/130.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 11, Evoluir Magikarp (Nvl 20)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 688,
+    "lumioseId": 34,
+    "name": "Binacle",
+    "type": [
+      "Pedra",
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/688.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 2, 6",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 689,
+    "lumioseId": 35,
+    "name": "Barbaracle",
+    "type": [
+      "Pedra",
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/689.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 16 (Noite), Evoluir Binacle (Nvl 39)",
+      "method": "Evolução",
+      "time": "Noite",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 120,
+    "lumioseId": 36,
+    "name": "Staryu",
+    "type": [
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/120.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 10, Zona Selvagem 2 (Noite)",
+      "method": "Captura Padrão",
+      "time": "Noite",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 121,
+    "lumioseId": 37,
+    "name": "Starmie",
+    "type": [
+      "Água",
+      "Psíquico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/121.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 16 (Noite), Evoluir Staryu (Pedra da Água)",
+      "method": "Evolução",
+      "time": "Noite",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 669,
+    "lumioseId": 38,
+    "name": "Flabébé",
+    "type": [
+      "Fada"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/669.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 3, Perto de canteiros de flores",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 670,
+    "lumioseId": 39,
+    "name": "Floette",
+    "type": [
+      "Fada"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/670.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 7, Evoluir Flabébé (Nvl 19)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 671,
+    "lumioseId": 40,
+    "name": "Florges",
+    "type": [
+      "Fada"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/671.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 16 (Dia), Evoluir Floette (Pedra do Brilho)",
+      "method": "Evolução",
+      "time": "Dia",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 672,
+    "lumioseId": 41,
+    "name": "Skiddo",
+    "type": [
+      "Grama"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/672.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 3",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 673,
+    "lumioseId": 42,
+    "name": "Gogoat",
+    "type": [
+      "Grama"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/673.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 12, Evoluir Skiddo (Nvl 32)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 677,
+    "lumioseId": 43,
+    "name": "Espurr",
+    "type": [
+      "Psíquico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/677.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 3, 9, Telhados",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 678,
+    "lumioseId": 44,
+    "name": "Meowstic",
+    "type": [
+      "Psíquico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/678.png",
+    "captureInfo": {
+      "location": "Evoluir Espurr (Nvl 25)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 667,
+    "lumioseId": 45,
+    "name": "Litleo",
+    "type": [
+      "Fogo",
+      "Normal"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/667.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 3",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 668,
+    "lumioseId": 46,
+    "name": "Pyroar",
+    "type": [
+      "Fogo",
+      "Normal"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/668.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 17, Evoluir Litleo (Nvl 35)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 674,
+    "lumioseId": 47,
+    "name": "Pancham",
+    "type": [
+      "Lutador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/674.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 3",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 675,
+    "lumioseId": 48,
+    "name": "Pangoro",
+    "type": [
+      "Lutador",
+      "Sombrio"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/675.png",
+    "captureInfo": {
+      "location": "Evoluir Pancham (Nvl 32 + Sombrio na equipe)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 568,
+    "lumioseId": 49,
+    "name": "Trubbish",
+    "type": [
+      "Venenoso"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/568.png",
+    "captureInfo": {
+      "location": "Becos (perto de lixo)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 569,
+    "lumioseId": 50,
+    "name": "Garbodor",
+    "type": [
+      "Venenoso"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/569.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 20, Becos, Evoluir Trubbish (Nvl 36)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 702,
+    "lumioseId": 51,
+    "name": "Dedenne",
+    "type": [
+      "Elétrico",
+      "Fada"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/702.png",
+    "captureInfo": {
+      "location": "Telhados (perto de portas)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 172,
+    "lumioseId": 52,
+    "name": "Pichu",
+    "type": [
+      "Elétrico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/172.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 1 (Acesso esquerdo)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 25,
+    "lumioseId": 53,
+    "name": "Pikachu",
+    "type": [
+      "Elétrico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 3, Evoluir Pichu (Amizade)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 26,
+    "lumioseId": 54,
+    "name": "Raichu",
+    "type": [
+      "Elétrico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/26.png",
+    "captureInfo": {
+      "location": "Evoluir Pikachu (Pedra do Trovão)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 173,
+    "lumioseId": 55,
+    "name": "Cleffa",
+    "type": [
+      "Fada"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/173.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 19 (Noite), Telhados (Raro)",
+      "method": "Captura Padrão",
+      "time": "Noite",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 35,
+    "lumioseId": 56,
+    "name": "Clefairy",
+    "type": [
+      "Fada"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/35.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 19 (Noite), Evoluir Cleffa (Amizade)",
+      "method": "Evolução",
+      "time": "Noite",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 36,
+    "lumioseId": 57,
+    "name": "Clefable",
+    "type": [
+      "Fada"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/36.png",
+    "captureInfo": {
+      "location": "Alpha: Zona Selvagem 19, Evoluir Clefairy (Pedra da Lua)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Cuidado: Pokémon Alpha!"
+    }
+  },
+  {
+    "id": 167,
+    "lumioseId": 58,
+    "name": "Spinarak",
+    "type": [
+      "Inseto",
+      "Venenoso"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/167.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 4 (Lado das criptas)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 168,
+    "lumioseId": 59,
+    "name": "Ariados",
+    "type": [
+      "Inseto",
+      "Venenoso"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/168.png",
+    "captureInfo": {
+      "location": "Esgotos (Noroeste), Evoluir Spinarak (Nvl 22)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 23,
+    "lumioseId": 60,
+    "name": "Ekans",
+    "type": [
+      "Venenoso"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/23.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 4 (Dia), Laboratório Lysandre",
+      "method": "Captura Padrão",
+      "time": "Dia",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 24,
+    "lumioseId": 61,
+    "name": "Arbok",
+    "type": [
+      "Venenoso"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/24.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 10, Alpha: Lab Lysandre, Evoluir Ekans (Nvl 22)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Cuidado: Pokémon Alpha!"
+    }
+  },
+  {
+    "id": 63,
+    "lumioseId": 62,
+    "name": "Abra",
+    "type": [
+      "Psíquico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/63.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 5, Telhados",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 64,
+    "lumioseId": 63,
+    "name": "Kadabra",
+    "type": [
+      "Psíquico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/64.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 9, Evoluir Abra (Nvl 16)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 65,
+    "lumioseId": 64,
+    "name": "Alakazam",
+    "type": [
+      "Psíquico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/65.png",
+    "captureInfo": {
+      "location": "Trocar Kadabra",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 92,
+    "lumioseId": 65,
+    "name": "Gastly",
+    "type": [
+      "Fantasma",
+      "Venenoso"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/92.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 4, Esgotos, Pela cidade (Noite)",
+      "method": "Captura Padrão",
+      "time": "Noite",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 93,
+    "lumioseId": 66,
+    "name": "Haunter",
+    "type": [
+      "Fantasma",
+      "Venenoso"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/93.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 15 (Noite), Esgotos, Evoluir Gastly (Nvl 25)",
+      "method": "Evolução",
+      "time": "Noite",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 94,
+    "lumioseId": 67,
+    "name": "Gengar",
+    "type": [
+      "Fantasma",
+      "Venenoso"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png",
+    "captureInfo": {
+      "location": "Trocar Haunter",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 543,
+    "lumioseId": 68,
+    "name": "Venipede",
+    "type": [
+      "Inseto",
+      "Venenoso"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/543.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 5",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 544,
+    "lumioseId": 69,
+    "name": "Whirlipede",
+    "type": [
+      "Inseto",
+      "Venenoso"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/544.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 15 (Dia), Evoluir Venipede (Nvl 22)",
+      "method": "Evolução",
+      "time": "Dia",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 545,
+    "lumioseId": 70,
+    "name": "Scolipede",
+    "type": [
+      "Inseto",
+      "Venenoso"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/545.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 15 (Dia), Evoluir Whirlipede (Nvl 30)",
+      "method": "Evolução",
+      "time": "Dia",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 679,
+    "lumioseId": 71,
+    "name": "Honedge",
+    "type": [
+      "Aço",
+      "Fantasma"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/679.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 4 (Noite), Laboratório Lysandre",
+      "method": "Captura Padrão",
+      "time": "Noite",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 680,
+    "lumioseId": 72,
+    "name": "Doublade",
+    "type": [
+      "Aço",
+      "Fantasma"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/680.png",
+    "captureInfo": {
+      "location": "Laboratório Lysandre, Evoluir Honedge (Nvl 35)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 681,
+    "lumioseId": 73,
+    "name": "Aegislash",
+    "type": [
+      "Aço",
+      "Fantasma"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/681.png",
+    "captureInfo": {
+      "location": "Evoluir Doublade (Pedra do Crepúsculo)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 69,
+    "lumioseId": 74,
+    "name": "Bellsprout",
+    "type": [
+      "Grama",
+      "Venenoso"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/69.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 5, 10, Telhados",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 70,
+    "lumioseId": 75,
+    "name": "Weepinbell",
+    "type": [
+      "Grama",
+      "Venenoso"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/70.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 13 (Dia), Alpha: Zona Selvagem 13, Evoluir Bellsprout (Nvl 21)",
+      "method": "Evolução",
+      "time": "Dia",
+      "weather": "Qualquer",
+      "notes": "Cuidado: Pokémon Alpha!"
+    }
+  },
+  {
+    "id": 71,
+    "lumioseId": 76,
+    "name": "Victreebel",
+    "type": [
+      "Grama",
+      "Venenoso"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/71.png",
+    "captureInfo": {
+      "location": "Evoluir Weepinbell (Pedra da Folha)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 511,
+    "lumioseId": 77,
+    "name": "Pansage",
+    "type": [
+      "Grama"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/511.png",
+    "captureInfo": {
+      "location": "Árvores pela cidade",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 512,
+    "lumioseId": 78,
+    "name": "Simisage",
+    "type": [
+      "Grama"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/512.png",
+    "captureInfo": {
+      "location": "Evoluir Pansage (Pedra da Folha)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 513,
+    "lumioseId": 79,
+    "name": "Pansear",
+    "type": [
+      "Fogo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/513.png",
+    "captureInfo": {
+      "location": "Árvores pela cidade",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 514,
+    "lumioseId": 80,
+    "name": "Simisear",
+    "type": [
+      "Fogo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/514.png",
+    "captureInfo": {
+      "location": "Evoluir Pansear (Pedra do Fogo)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 515,
+    "lumioseId": 81,
+    "name": "Panpour",
+    "type": [
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/515.png",
+    "captureInfo": {
+      "location": "Árvores pela cidade",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 516,
+    "lumioseId": 82,
+    "name": "Simipour",
+    "type": [
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/516.png",
+    "captureInfo": {
+      "location": "Evoluir Panpour (Pedra da Água)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 307,
+    "lumioseId": 83,
+    "name": "Meditite",
+    "type": [
+      "Lutador",
+      "Psíquico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/307.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 6 (Dia)",
+      "method": "Captura Padrão",
+      "time": "Dia",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 308,
+    "lumioseId": 84,
+    "name": "Medicham",
+    "type": [
+      "Lutador",
+      "Psíquico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/308.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 16 (Dia), Evoluir Meditite (Nvl 37)",
+      "method": "Evolução",
+      "time": "Dia",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 309,
+    "lumioseId": 85,
+    "name": "Electrike",
+    "type": [
+      "Elétrico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/309.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 5 (Dia), Laboratório Lysandre",
+      "method": "Captura Padrão",
+      "time": "Dia",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 310,
+    "lumioseId": 86,
+    "name": "Manectric",
+    "type": [
+      "Elétrico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/310.png",
+    "captureInfo": {
+      "location": "Laboratório Lysandre, Evoluir Electrike (Nvl 26)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 280,
+    "lumioseId": 87,
+    "name": "Ralts",
+    "type": [
+      "Psíquico",
+      "Fada"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/280.png",
+    "captureInfo": {
+      "location": "Pátios gramados",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 281,
+    "lumioseId": 88,
+    "name": "Kirlia",
+    "type": [
+      "Psíquico",
+      "Fada"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/281.png",
+    "captureInfo": {
+      "location": "Evoluir Ralts (Nvl 20)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 282,
+    "lumioseId": 89,
+    "name": "Gardevoir",
+    "type": [
+      "Psíquico",
+      "Fada"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/282.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 20, Evoluir Kirlia (Nvl 30)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 475,
+    "lumioseId": 90,
+    "name": "Gallade",
+    "type": [
+      "Psíquico",
+      "Lutador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/475.png",
+    "captureInfo": {
+      "location": "Evoluir Kirlia (Macho + Pedra do Amanhecer)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 228,
+    "lumioseId": 91,
+    "name": "Houndour",
+    "type": [
+      "Sombrio",
+      "Fogo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/228.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 6, Laboratório Lysandre",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 229,
+    "lumioseId": 92,
+    "name": "Houndoom",
+    "type": [
+      "Sombrio",
+      "Fogo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/229.png",
+    "captureInfo": {
+      "location": "Laboratório Lysandre, Evoluir Houndour (Nvl 24)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 333,
+    "lumioseId": 93,
+    "name": "Swablu",
+    "type": [
+      "Normal",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/333.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 6, 18 (Dia), Telhados",
+      "method": "Captura Padrão",
+      "time": "Dia",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 334,
+    "lumioseId": 94,
+    "name": "Altaria",
+    "type": [
+      "Dragão",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/334.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 18 (Dia), Evoluir Swablu (Nvl 35)",
+      "method": "Evolução",
+      "time": "Dia",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 531,
+    "lumioseId": 95,
+    "name": "Audino",
+    "type": [
+      "Normal"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/531.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 7, 19",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 682,
+    "lumioseId": 96,
+    "name": "Spritzee",
+    "type": [
+      "Fada"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/682.png",
+    "captureInfo": {
+      "location": "Barracas do Mercado (Topo)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 683,
+    "lumioseId": 97,
+    "name": "Aromatisse",
+    "type": [
+      "Fada"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/683.png",
+    "captureInfo": {
+      "location": "Trocar Spritzee (Sachet)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 684,
+    "lumioseId": 98,
+    "name": "Swirlix",
+    "type": [
+      "Fada"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/684.png",
+    "captureInfo": {
+      "location": "Barracas do Mercado (Topo)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 685,
+    "lumioseId": 99,
+    "name": "Slurpuff",
+    "type": [
+      "Fada"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/685.png",
+    "captureInfo": {
+      "location": "Trocar Swirlix (Chantilly)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 133,
+    "lumioseId": 100,
+    "name": "Eevee",
+    "type": [
+      "Normal"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/133.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 19, Telhados (Raro)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 134,
+    "lumioseId": 101,
+    "name": "Vaporeon",
+    "type": [
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/134.png",
+    "captureInfo": {
+      "location": "Evoluir Eevee (Pedra da Água)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 135,
+    "lumioseId": 102,
+    "name": "Jolteon",
+    "type": [
+      "Elétrico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/135.png",
+    "captureInfo": {
+      "location": "Evoluir Eevee (Pedra do Trovão)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 136,
+    "lumioseId": 103,
+    "name": "Flareon",
+    "type": [
+      "Fogo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/136.png",
+    "captureInfo": {
+      "location": "Evoluir Eevee (Pedra do Fogo)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 196,
+    "lumioseId": 104,
+    "name": "Espeon",
+    "type": [
+      "Psíquico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/196.png",
+    "captureInfo": {
+      "location": "Evoluir Eevee (Amizade/Dia)",
+      "method": "Evolução",
+      "time": "Dia",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 197,
+    "lumioseId": 105,
+    "name": "Umbreon",
+    "type": [
+      "Sombrio"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/197.png",
+    "captureInfo": {
+      "location": "Evoluir Eevee (Amizade/Noite)",
+      "method": "Evolução",
+      "time": "Noite",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 470,
+    "lumioseId": 106,
+    "name": "Leafeon",
+    "type": [
+      "Grama"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/470.png",
+    "captureInfo": {
+      "location": "Evoluir Eevee (Pedra da Folha)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 471,
+    "lumioseId": 107,
+    "name": "Glaceon",
+    "type": [
+      "Gelo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/471.png",
+    "captureInfo": {
+      "location": "Evoluir Eevee (Pedra de Gelo)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 700,
+    "lumioseId": 108,
+    "name": "Sylveon",
+    "type": [
+      "Fada"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/700.png",
+    "captureInfo": {
+      "location": "Evoluir Eevee (Amizade + Golpe Fada)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 427,
+    "lumioseId": 109,
+    "name": "Buneary",
+    "type": [
+      "Normal"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/427.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 1, 5",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 428,
+    "lumioseId": 110,
+    "name": "Lopunny",
+    "type": [
+      "Normal"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/428.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 13, Evoluir Buneary (Amizade)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 353,
+    "lumioseId": 111,
+    "name": "Shuppet",
+    "type": [
+      "Fantasma"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/353.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 4 (Noite), Becos",
+      "method": "Captura Padrão",
+      "time": "Noite",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 354,
+    "lumioseId": 112,
+    "name": "Banette",
+    "type": [
+      "Fantasma"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/354.png",
+    "captureInfo": {
+      "location": "Becos (Noite), Evoluir Shuppet (Nvl 37)",
+      "method": "Evolução",
+      "time": "Noite",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 582,
+    "lumioseId": 113,
+    "name": "Vanillite",
+    "type": [
+      "Gelo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/582.png",
+    "captureInfo": {
+      "location": "Cafés, Sorveterias",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 583,
+    "lumioseId": 114,
+    "name": "Vanillish",
+    "type": [
+      "Gelo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/583.png",
+    "captureInfo": {
+      "location": "Evoluir Vanillite (Nvl 35)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 584,
+    "lumioseId": 115,
+    "name": "Vanilluxe",
+    "type": [
+      "Gelo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/584.png",
+    "captureInfo": {
+      "location": "Evoluir Vanillish (Nvl 47)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 322,
+    "lumioseId": 116,
+    "name": "Numel",
+    "type": [
+      "Fogo",
+      "Terrestre"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/322.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 8",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 323,
+    "lumioseId": 117,
+    "name": "Camerupt",
+    "type": [
+      "Fogo",
+      "Terrestre"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/323.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 18, Evoluir Numel (Nvl 33)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 449,
+    "lumioseId": 118,
+    "name": "Hippopotas",
+    "type": [
+      "Terrestre"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/449.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 8",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 450,
+    "lumioseId": 119,
+    "name": "Hippowdon",
+    "type": [
+      "Terrestre"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/450.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 17, Evoluir Hippopotas (Nvl 34)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 529,
+    "lumioseId": 120,
+    "name": "Drilbur",
+    "type": [
+      "Terrestre"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/529.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 5, 8 (Cavernas)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 530,
+    "lumioseId": 121,
+    "name": "Excadrill",
+    "type": [
+      "Terrestre",
+      "Aço"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/530.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 17, Evoluir Drilbur (Nvl 31)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 551,
+    "lumioseId": 122,
+    "name": "Sandile",
+    "type": [
+      "Terrestre",
+      "Sombrio"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/551.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 8",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 552,
+    "lumioseId": 123,
+    "name": "Krokorok",
+    "type": [
+      "Terrestre",
+      "Sombrio"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/552.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 17, Evoluir Sandile (Nvl 29)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 553,
+    "lumioseId": 124,
+    "name": "Krookodile",
+    "type": [
+      "Terrestre",
+      "Sombrio"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/553.png",
+    "captureInfo": {
+      "location": "Evoluir Krokorok (Nvl 40)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 66,
+    "lumioseId": 125,
+    "name": "Machop",
+    "type": [
+      "Lutador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/66.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 3, Obras",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 67,
+    "lumioseId": 126,
+    "name": "Machoke",
+    "type": [
+      "Lutador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/67.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 12, Obras, Evoluir Machop (Nvl 28)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 68,
+    "lumioseId": 127,
+    "name": "Machamp",
+    "type": [
+      "Lutador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/68.png",
+    "captureInfo": {
+      "location": "Trocar Machoke (Link Cable)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 443,
+    "lumioseId": 128,
+    "name": "Gible",
+    "type": [
+      "Dragão",
+      "Terrestre"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/443.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 8 (Cavernas)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 444,
+    "lumioseId": 129,
+    "name": "Gabite",
+    "type": [
+      "Dragão",
+      "Terrestre"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/444.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 17 (Cavernas), Evoluir Gible (Nvl 24)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 445,
+    "lumioseId": 130,
+    "name": "Garchomp",
+    "type": [
+      "Dragão",
+      "Terrestre"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/445.png",
+    "captureInfo": {
+      "location": "Evoluir Gabite (Nvl 48)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 703,
+    "lumioseId": 131,
+    "name": "Carbink",
+    "type": [
+      "Pedra",
+      "Fada"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/703.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 8 (Cavernas), Joalherias",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 302,
+    "lumioseId": 132,
+    "name": "Sableye",
+    "type": [
+      "Sombrio",
+      "Fantasma"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/302.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 8 (Cavernas), Becos Escuros",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 303,
+    "lumioseId": 133,
+    "name": "Mawile",
+    "type": [
+      "Aço",
+      "Fada"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/303.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 8 (Cavernas), Fábrica de Pokébolas",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 359,
+    "lumioseId": 134,
+    "name": "Absol",
+    "type": [
+      "Sombrio"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/359.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 18 (Noite), Telhados (Raro)",
+      "method": "Captura Padrão",
+      "time": "Noite",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 447,
+    "lumioseId": 135,
+    "name": "Riolu",
+    "type": [
+      "Lutador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/447.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 3, 6",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 448,
+    "lumioseId": 136,
+    "name": "Lucario",
+    "type": [
+      "Lutador",
+      "Aço"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/448.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 16, Evoluir Riolu (Amizade/Dia)",
+      "method": "Evolução",
+      "time": "Dia",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 79,
+    "lumioseId": 137,
+    "name": "Slowpoke",
+    "type": [
+      "Água",
+      "Psíquico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/79.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 2, 10",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 80,
+    "lumioseId": 138,
+    "name": "Slowbro",
+    "type": [
+      "Água",
+      "Psíquico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/80.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 14, Evoluir Slowpoke (Nvl 37)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 199,
+    "lumioseId": 139,
+    "name": "Slowking",
+    "type": [
+      "Água",
+      "Psíquico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/199.png",
+    "captureInfo": {
+      "location": "Trocar Slowpoke (Pedra do Rei)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 318,
+    "lumioseId": 140,
+    "name": "Carvanha",
+    "type": [
+      "Água",
+      "Sombrio"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/318.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 11 (Pesca)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 319,
+    "lumioseId": 141,
+    "name": "Sharpedo",
+    "type": [
+      "Água",
+      "Sombrio"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/319.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 11 (Pesca), Evoluir Carvanha (Nvl 30)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 602,
+    "lumioseId": 142,
+    "name": "Tynamo",
+    "type": [
+      "Elétrico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/602.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 6 (Tempestade)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Tempestade",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 603,
+    "lumioseId": 143,
+    "name": "Eelektrik",
+    "type": [
+      "Elétrico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/603.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 16 (Tempestade), Evoluir Tynamo (Nvl 39)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Tempestade",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 604,
+    "lumioseId": 144,
+    "name": "Eelektross",
+    "type": [
+      "Elétrico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/604.png",
+    "captureInfo": {
+      "location": "Evoluir Eelektrik (Pedra do Trovão)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 147,
+    "lumioseId": 145,
+    "name": "Dratini",
+    "type": [
+      "Dragão"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/147.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 10, 14 (Pesca)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 148,
+    "lumioseId": 146,
+    "name": "Dragonair",
+    "type": [
+      "Dragão"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/148.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 14 (Pesca), Evoluir Dratini (Nvl 30)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 149,
+    "lumioseId": 147,
+    "name": "Dragonite",
+    "type": [
+      "Dragão",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/149.png",
+    "captureInfo": {
+      "location": "Evoluir Dragonair (Nvl 55)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 1,
+    "lumioseId": 148,
+    "name": "Bulbasaur",
+    "type": [
+      "Grama",
+      "Venenoso"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 12, Estufa",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 2,
+    "lumioseId": 149,
+    "name": "Ivysaur",
+    "type": [
+      "Grama",
+      "Venenoso"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/2.png",
+    "captureInfo": {
+      "location": "Evoluir Bulbasaur (Nvl 16)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 3,
+    "lumioseId": 150,
+    "name": "Venusaur",
+    "type": [
+      "Grama",
+      "Venenoso"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/3.png",
+    "captureInfo": {
+      "location": "Evoluir Ivysaur (Nvl 32)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 4,
+    "lumioseId": 151,
+    "name": "Charmander",
+    "type": [
+      "Fogo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/4.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 9, Área Industrial",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 5,
+    "lumioseId": 152,
+    "name": "Charmeleon",
+    "type": [
+      "Fogo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/5.png",
+    "captureInfo": {
+      "location": "Evoluir Charmander (Nvl 16)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 6,
+    "lumioseId": 153,
+    "name": "Charizard",
+    "type": [
+      "Fogo",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png",
+    "captureInfo": {
+      "location": "Evoluir Charmeleon (Nvl 36)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 7,
+    "lumioseId": 154,
+    "name": "Squirtle",
+    "type": [
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/7.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 10, Canais",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 8,
+    "lumioseId": 155,
+    "name": "Wartortle",
+    "type": [
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/8.png",
+    "captureInfo": {
+      "location": "Evoluir Squirtle (Nvl 16)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 9,
+    "lumioseId": 156,
+    "name": "Blastoise",
+    "type": [
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/9.png",
+    "captureInfo": {
+      "location": "Evoluir Wartortle (Nvl 36)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 618,
+    "lumioseId": 157,
+    "name": "Stunfisk",
+    "type": [
+      "Terrestre",
+      "Elétrico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/618.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 10 (Lama), Esgotos",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 676,
+    "lumioseId": 158,
+    "name": "Furfrou",
+    "type": [
+      "Normal"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/676.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 1, Salões de Beleza",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 686,
+    "lumioseId": 159,
+    "name": "Inkay",
+    "type": [
+      "Sombrio",
+      "Psíquico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/686.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 11",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 687,
+    "lumioseId": 160,
+    "name": "Malamar",
+    "type": [
+      "Sombrio",
+      "Psíquico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/687.png",
+    "captureInfo": {
+      "location": "Evoluir Inkay (Nvl 30 + Virar console)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 690,
+    "lumioseId": 161,
+    "name": "Skrelp",
+    "type": [
+      "Venenoso",
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/690.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 11 (Pesca/Algas)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 691,
+    "lumioseId": 162,
+    "name": "Dragalge",
+    "type": [
+      "Venenoso",
+      "Dragão"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/691.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 14, Evoluir Skrelp (Nvl 48)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 692,
+    "lumioseId": 163,
+    "name": "Clauncher",
+    "type": [
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/692.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 11 (Pesca)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 693,
+    "lumioseId": 164,
+    "name": "Clawitzer",
+    "type": [
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/693.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 14, Evoluir Clauncher (Nvl 37)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 704,
+    "lumioseId": 165,
+    "name": "Goomy",
+    "type": [
+      "Dragão"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/704.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 14 (Chuva/Pântano)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Chuva",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 705,
+    "lumioseId": 166,
+    "name": "Sliggoo",
+    "type": [
+      "Dragão"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/705.png",
+    "captureInfo": {
+      "location": "Evoluir Goomy (Nvl 40)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 706,
+    "lumioseId": 167,
+    "name": "Goodra",
+    "type": [
+      "Dragão"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/706.png",
+    "captureInfo": {
+      "location": "Evoluir Sliggoo (Nvl 50 + Chuva)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Chuva",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 225,
+    "lumioseId": 168,
+    "name": "Delibird",
+    "type": [
+      "Gelo",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/225.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 18 (Neve), Entregas de Presente",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Neve",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 361,
+    "lumioseId": 169,
+    "name": "Snorunt",
+    "type": [
+      "Gelo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/361.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 18 (Neve)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Neve",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 362,
+    "lumioseId": 170,
+    "name": "Glalie",
+    "type": [
+      "Gelo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/362.png",
+    "captureInfo": {
+      "location": "Evoluir Snorunt (Nvl 42)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 478,
+    "lumioseId": 171,
+    "name": "Froslass",
+    "type": [
+      "Gelo",
+      "Fantasma"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/478.png",
+    "captureInfo": {
+      "location": "Evoluir Snorunt (Fêmea + Pedra do Amanhecer)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 459,
+    "lumioseId": 172,
+    "name": "Snover",
+    "type": [
+      "Grama",
+      "Gelo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/459.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 18 (Neve)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Neve",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 460,
+    "lumioseId": 173,
+    "name": "Abomasnow",
+    "type": [
+      "Grama",
+      "Gelo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/460.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 18 (Neve), Evoluir Snover (Nvl 40)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Neve",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 712,
+    "lumioseId": 174,
+    "name": "Bergmite",
+    "type": [
+      "Gelo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/712.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 18 (Cavernas de Gelo)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 713,
+    "lumioseId": 175,
+    "name": "Avalugg",
+    "type": [
+      "Gelo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/713.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 18 (Cavernas de Gelo), Evoluir Bergmite (Nvl 37)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 123,
+    "lumioseId": 176,
+    "name": "Scyther",
+    "type": [
+      "Inseto",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 5, 13",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 212,
+    "lumioseId": 177,
+    "name": "Scizor",
+    "type": [
+      "Inseto",
+      "Aço"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/212.png",
+    "captureInfo": {
+      "location": "Trocar Scyther (Metal Coat)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 127,
+    "lumioseId": 178,
+    "name": "Pinsir",
+    "type": [
+      "Inseto"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/127.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 13",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 214,
+    "lumioseId": 179,
+    "name": "Heracross",
+    "type": [
+      "Inseto",
+      "Lutador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/214.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 13",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 587,
+    "lumioseId": 180,
+    "name": "Emolga",
+    "type": [
+      "Elétrico",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/587.png",
+    "captureInfo": {
+      "location": "Árvores (Planar entre elas)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 701,
+    "lumioseId": 181,
+    "name": "Hawlucha",
+    "type": [
+      "Lutador",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/701.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 13, Telhados",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 708,
+    "lumioseId": 182,
+    "name": "Phantump",
+    "type": [
+      "Fantasma",
+      "Grama"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/708.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 4, Florestas",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 709,
+    "lumioseId": 183,
+    "name": "Trevenant",
+    "type": [
+      "Fantasma",
+      "Grama"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/709.png",
+    "captureInfo": {
+      "location": "Trocar Phantump",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 559,
+    "lumioseId": 184,
+    "name": "Scraggy",
+    "type": [
+      "Sombrio",
+      "Lutador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/559.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 5, Becos",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 560,
+    "lumioseId": 185,
+    "name": "Scrafty",
+    "type": [
+      "Sombrio",
+      "Lutador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/560.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 15, Becos, Evoluir Scraggy (Nvl 39)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 714,
+    "lumioseId": 186,
+    "name": "Noibat",
+    "type": [
+      "Voador",
+      "Dragão"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/714.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 4, 8 (Cavernas)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 715,
+    "lumioseId": 187,
+    "name": "Noivern",
+    "type": [
+      "Voador",
+      "Dragão"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/715.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 18 (Noite), Evoluir Noibat (Nvl 48)",
+      "method": "Evolução",
+      "time": "Noite",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 707,
+    "lumioseId": 188,
+    "name": "Klefki",
+    "type": [
+      "Aço",
+      "Fada"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/707.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 19, Hotéis",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 607,
+    "lumioseId": 189,
+    "name": "Litwick",
+    "type": [
+      "Fantasma",
+      "Fogo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/607.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 4, Bibliotecas Antigas",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 608,
+    "lumioseId": 190,
+    "name": "Lampent",
+    "type": [
+      "Fantasma",
+      "Fogo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/608.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 15, Evoluir Litwick (Nvl 41)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 609,
+    "lumioseId": 191,
+    "name": "Chandelure",
+    "type": [
+      "Fantasma",
+      "Fogo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/609.png",
+    "captureInfo": {
+      "location": "Evoluir Lampent (Pedra do Crepúsculo)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 142,
+    "lumioseId": 192,
+    "name": "Aerodactyl",
+    "type": [
+      "Pedra",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/142.png",
+    "captureInfo": {
+      "location": "Museu de Fósseis (Reviver Âmbar Velho)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 696,
+    "lumioseId": 193,
+    "name": "Tyrunt",
+    "type": [
+      "Pedra",
+      "Dragão"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/696.png",
+    "captureInfo": {
+      "location": "Museu de Fósseis (Reviver Fóssil Mandíbula)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 697,
+    "lumioseId": 194,
+    "name": "Tyrantrum",
+    "type": [
+      "Pedra",
+      "Dragão"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/697.png",
+    "captureInfo": {
+      "location": "Evoluir Tyrunt (Nvl 39/Dia)",
+      "method": "Evolução",
+      "time": "Dia",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 698,
+    "lumioseId": 195,
+    "name": "Amaura",
+    "type": [
+      "Pedra",
+      "Gelo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/698.png",
+    "captureInfo": {
+      "location": "Museu de Fósseis (Reviver Fóssil Vela)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 699,
+    "lumioseId": 196,
+    "name": "Aurorus",
+    "type": [
+      "Pedra",
+      "Gelo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/699.png",
+    "captureInfo": {
+      "location": "Evoluir Amaura (Nvl 39/Noite)",
+      "method": "Evolução",
+      "time": "Noite",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 95,
+    "lumioseId": 197,
+    "name": "Onix",
+    "type": [
+      "Pedra",
+      "Terrestre"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/95.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 8 (Cavernas)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 208,
+    "lumioseId": 198,
+    "name": "Steelix",
+    "type": [
+      "Aço",
+      "Terrestre"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/208.png",
+    "captureInfo": {
+      "location": "Trocar Onix (Metal Coat)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 304,
+    "lumioseId": 199,
+    "name": "Aron",
+    "type": [
+      "Aço",
+      "Pedra"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/304.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 8 (Cavernas)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 305,
+    "lumioseId": 200,
+    "name": "Lairon",
+    "type": [
+      "Aço",
+      "Pedra"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/305.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 17, Evoluir Aron (Nvl 32)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 306,
+    "lumioseId": 201,
+    "name": "Aggron",
+    "type": [
+      "Aço",
+      "Pedra"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/306.png",
+    "captureInfo": {
+      "location": "Evoluir Lairon (Nvl 42)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 694,
+    "lumioseId": 202,
+    "name": "Helioptile",
+    "type": [
+      "Elétrico",
+      "Normal"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/694.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 8, Usina Elétrica",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 695,
+    "lumioseId": 203,
+    "name": "Heliolisk",
+    "type": [
+      "Elétrico",
+      "Normal"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/695.png",
+    "captureInfo": {
+      "location": "Evoluir Helioptile (Pedra do Sol)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 710,
+    "lumioseId": 204,
+    "name": "Pumpkaboo",
+    "type": [
+      "Fantasma",
+      "Grama"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/710.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 4, Jardins",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 711,
+    "lumioseId": 205,
+    "name": "Gourgeist",
+    "type": [
+      "Fantasma",
+      "Grama"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/711.png",
+    "captureInfo": {
+      "location": "Trocar Pumpkaboo",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 246,
+    "lumioseId": 206,
+    "name": "Larvitar",
+    "type": [
+      "Pedra",
+      "Terrestre"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/246.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 8 (Cavernas)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 247,
+    "lumioseId": 207,
+    "name": "Pupitar",
+    "type": [
+      "Pedra",
+      "Terrestre"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/247.png",
+    "captureInfo": {
+      "location": "Evoluir Larvitar (Nvl 30)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 248,
+    "lumioseId": 208,
+    "name": "Tyranitar",
+    "type": [
+      "Pedra",
+      "Sombrio"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/248.png",
+    "captureInfo": {
+      "location": "Evoluir Pupitar (Nvl 55)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 656,
+    "lumioseId": 209,
+    "name": "Froakie",
+    "type": [
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/656.png",
+    "captureInfo": {
+      "location": "Inicial, Zona Selvagem 20 (Pós-jogo)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 657,
+    "lumioseId": 210,
+    "name": "Frogadier",
+    "type": [
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/657.png",
+    "captureInfo": {
+      "location": "Evoluir Froakie (Nvl 16)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 658,
+    "lumioseId": 211,
+    "name": "Greninja",
+    "type": [
+      "Água",
+      "Sombrio"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/658.png",
+    "captureInfo": {
+      "location": "Evoluir Frogadier (Nvl 36)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 870,
+    "lumioseId": 212,
+    "name": "Falinks",
+    "type": [
+      "Lutador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/870.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 13, Ruínas",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 650,
+    "lumioseId": 213,
+    "name": "Chespin",
+    "type": [
+      "Grama"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/650.png",
+    "captureInfo": {
+      "location": "Inicial, Zona Selvagem 20 (Pós-jogo)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 651,
+    "lumioseId": 214,
+    "name": "Quilladin",
+    "type": [
+      "Grama"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/651.png",
+    "captureInfo": {
+      "location": "Evoluir Chespin (Nvl 16)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 652,
+    "lumioseId": 215,
+    "name": "Chesnaught",
+    "type": [
+      "Grama",
+      "Lutador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/652.png",
+    "captureInfo": {
+      "location": "Evoluir Quilladin (Nvl 36)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 227,
+    "lumioseId": 216,
+    "name": "Skarmory",
+    "type": [
+      "Aço",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/227.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 13, Telhados Altos",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 653,
+    "lumioseId": 217,
+    "name": "Fennekin",
+    "type": [
+      "Fogo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/653.png",
+    "captureInfo": {
+      "location": "Inicial, Zona Selvagem 20 (Pós-jogo)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 654,
+    "lumioseId": 218,
+    "name": "Braixen",
+    "type": [
+      "Fogo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/654.png",
+    "captureInfo": {
+      "location": "Evoluir Fennekin (Nvl 16)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 655,
+    "lumioseId": 219,
+    "name": "Delphox",
+    "type": [
+      "Fogo",
+      "Psíquico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/655.png",
+    "captureInfo": {
+      "location": "Evoluir Braixen (Nvl 36)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 371,
+    "lumioseId": 220,
+    "name": "Bagon",
+    "type": [
+      "Dragão"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/371.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 8 (Penhascos)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 372,
+    "lumioseId": 221,
+    "name": "Shelgon",
+    "type": [
+      "Dragão"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/372.png",
+    "captureInfo": {
+      "location": "Evoluir Bagon (Nvl 30)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 373,
+    "lumioseId": 222,
+    "name": "Salamence",
+    "type": [
+      "Dragão",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/373.png",
+    "captureInfo": {
+      "location": "Evoluir Shelgon (Nvl 50)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 115,
+    "lumioseId": 223,
+    "name": "Kangaskhan",
+    "type": [
+      "Normal"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/115.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 8 (Cavernas)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 780,
+    "lumioseId": 224,
+    "name": "Drampa",
+    "type": [
+      "Normal",
+      "Dragão"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/780.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 18 (Montanhas)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 374,
+    "lumioseId": 225,
+    "name": "Beldum",
+    "type": [
+      "Aço",
+      "Psíquico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/374.png",
+    "captureInfo": {
+      "location": "Zona Selvagem 9, Área Magnética",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 375,
+    "lumioseId": 226,
+    "name": "Metang",
+    "type": [
+      "Aço",
+      "Psíquico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/375.png",
+    "captureInfo": {
+      "location": "Evoluir Beldum (Nvl 20)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 376,
+    "lumioseId": 227,
+    "name": "Metagross",
+    "type": [
+      "Aço",
+      "Psíquico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/376.png",
+    "captureInfo": {
+      "location": "Evoluir Metang (Nvl 45)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 716,
+    "lumioseId": 228,
+    "name": "Xerneas",
+    "type": [
+      "Fada"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/716.png",
+    "captureInfo": {
+      "location": "Eventoo da História (Geosenge Town)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 717,
+    "lumioseId": 229,
+    "name": "Yveltal",
+    "type": [
+      "Sombrio",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/717.png",
+    "captureInfo": {
+      "location": "Eventoo da História (Geosenge Town)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 718,
+    "lumioseId": 230,
+    "name": "Zygarde",
+    "type": [
+      "Dragão",
+      "Terrestre"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/718.png",
+    "captureInfo": {
+      "location": "Caverna Terminus (Coletar Células)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 719,
+    "lumioseId": 231,
+    "name": "Diancie",
+    "type": [
+      "Pedra",
+      "Fada"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/719.png",
+    "captureInfo": {
+      "location": "Eventoo / Pesquisa Especial",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 150,
+    "lumioseId": 232,
+    "name": "Mewtwo",
+    "type": [
+      "Psíquico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/150.png",
+    "captureInfo": {
+      "location": "Masmorra Desconhecida (Pós-jogo)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique os arredores."
+    }
+  },
+  {
+    "id": 20001,
+    "lumioseId": 401,
+    "name": "Mega Raichu X",
+    "type": [
+      "Elétrico"
+    ],
+    "image": "img/mega/Mega-Raichu-X.jpg",
+    "captureInfo": {
+      "location": "Mega Evolução",
+      "method": "Mega Evolução",
+      "notes": "New in Legends Z-A"
+    }
+  },
+  {
+    "id": 20002,
+    "lumioseId": 402,
+    "name": "Mega Raichu Y",
+    "type": [
+      "Elétrico"
+    ],
+    "image": "img/mega/Mega-Raichu-Y.jpg",
+    "captureInfo": {
+      "location": "Mega Evolução",
+      "method": "Mega Evolução",
+      "notes": "New in Legends Z-A"
+    }
+  },
+  {
+    "id": 20003,
+    "lumioseId": 403,
+    "name": "Mega Clefable",
+    "type": [
+      "Fada",
+      "Voador"
+    ],
+    "image": "img/mega/Mega-Clefable.jpg",
+    "captureInfo": {
+      "location": "Mega Evolução",
+      "method": "Mega Evolução",
+      "notes": "New in Legends Z-A"
+    }
+  },
+  {
+    "id": 20004,
+    "lumioseId": 404,
+    "name": "Mega Victreebel",
+    "type": [
+      "Grama",
+      "Venenoso"
+    ],
+    "image": "img/mega/Mega-Victreebel.jpg",
+    "captureInfo": {
+      "location": "Mega Evolução",
+      "method": "Mega Evolução",
+      "notes": "New in Legends Z-A"
+    }
+  },
+  {
+    "id": 20005,
+    "lumioseId": 405,
+    "name": "Mega Starmie",
+    "type": [
+      "Água",
+      "Psíquico"
+    ],
+    "image": "img/mega/Mega-Starmie.jpg",
+    "captureInfo": {
+      "location": "Mega Evolução",
+      "method": "Mega Evolução",
+      "notes": "New in Legends Z-A"
+    }
+  },
+  {
+    "id": 20006,
+    "lumioseId": 406,
+    "name": "Mega Dragonite",
+    "type": [
+      "Dragão",
+      "Voador"
+    ],
+    "image": "img/mega/Mega-Dragonite.jpg",
+    "captureInfo": {
+      "location": "Mega Evolução",
+      "method": "Mega Evolução",
+      "notes": "New in Legends Z-A"
+    }
+  },
+  {
+    "id": 20007,
+    "lumioseId": 407,
+    "name": "Mega Meganium",
+    "type": [
+      "Grama",
+      "Fada"
+    ],
+    "image": "img/mega/Mega-Meganium.jpg",
+    "captureInfo": {
+      "location": "Mega Evolução",
+      "method": "Mega Evolução",
+      "notes": "New in Legends Z-A"
+    }
+  },
+  {
+    "id": 20008,
+    "lumioseId": 408,
+    "name": "Mega Feraligatr",
+    "type": [
+      "Água",
+      "Dragão"
+    ],
+    "image": "img/mega/Mega-Feraligatr.jpg",
+    "captureInfo": {
+      "location": "Mega Evolução",
+      "method": "Mega Evolução",
+      "notes": "New in Legends Z-A"
+    }
+  },
+  {
+    "id": 20009,
+    "lumioseId": 409,
+    "name": "Mega Skarmory",
+    "type": [
+      "Aço",
+      "Voador"
+    ],
+    "image": "img/mega/Mega-Skarmory.jpg",
+    "captureInfo": {
+      "location": "Mega Evolução",
+      "method": "Mega Evolução",
+      "notes": "New in Legends Z-A"
+    }
+  },
+  {
+    "id": 20010,
+    "lumioseId": 410,
+    "name": "Mega Chimecho",
+    "type": [
+      "Psíquico",
+      "Aço"
+    ],
+    "image": "img/mega/Mega-Chimecho.jpg",
+    "captureInfo": {
+      "location": "Mega Evolução",
+      "method": "Mega Evolução",
+      "notes": "New in Legends Z-A"
+    }
+  },
+  {
+    "id": 20011,
+    "lumioseId": 411,
+    "name": "Mega Absol Z",
+    "type": [
+      "Sombrio",
+      "Fantasma"
+    ],
+    "image": "img/mega/Mega-Absol-Z.jpg",
+    "captureInfo": {
+      "location": "Mega Evolução",
+      "method": "Mega Evolução",
+      "notes": "New in Legends Z-A"
+    }
+  },
+  {
+    "id": 20012,
+    "lumioseId": 412,
+    "name": "Mega Staraptor",
+    "type": [
+      "Lutador",
+      "Voador"
+    ],
+    "image": "img/mega/Mega-Staraptor.jpg",
+    "captureInfo": {
+      "location": "Mega Evolução",
+      "method": "Mega Evolução",
+      "notes": "New in Legends Z-A"
+    }
+  },
+  {
+    "id": 20013,
+    "lumioseId": 413,
+    "name": "Mega Garchomp Z",
+    "type": [
+      "Dragão"
+    ],
+    "image": "img/mega/Mega-Garchomp-Z.jpg",
+    "captureInfo": {
+      "location": "Mega Evolução",
+      "method": "Mega Evolução",
+      "notes": "New in Legends Z-A"
+    }
+  },
+  {
+    "id": 20014,
+    "lumioseId": 414,
+    "name": "Mega Lucario Z",
+    "type": [
+      "Lutador",
+      "Aço"
+    ],
+    "image": "img/mega/Mega-Lucario-Z.jpg",
+    "captureInfo": {
+      "location": "Mega Evolução",
+      "method": "Mega Evolução",
+      "notes": "New in Legends Z-A"
+    }
+  },
+  {
+    "id": 20015,
+    "lumioseId": 415,
+    "name": "Mega Froslass",
+    "type": [
+      "Gelo",
+      "Fantasma"
+    ],
+    "image": "img/mega/Mega-Froslass.jpg",
+    "captureInfo": {
+      "location": "Mega Evolução",
+      "method": "Mega Evolução",
+      "notes": "New in Legends Z-A"
+    }
+  },
+  {
+    "id": 20016,
+    "lumioseId": 416,
+    "name": "Mega Heatran",
+    "type": [
+      "Fogo",
+      "Aço"
+    ],
+    "image": "img/mega/Mega-Heatran.jpg",
+    "captureInfo": {
+      "location": "Mega Evolução",
+      "method": "Mega Evolução",
+      "notes": "New in Legends Z-A"
+    }
+  },
+  {
+    "id": 20017,
+    "lumioseId": 417,
+    "name": "Mega Darkrai",
+    "type": [
+      "Sombrio"
+    ],
+    "image": "img/mega/Mega-Darkrai.jpg",
+    "captureInfo": {
+      "location": "Mega Evolução",
+      "method": "Mega Evolução",
+      "notes": "New in Legends Z-A"
+    }
+  },
+  {
+    "id": 20018,
+    "lumioseId": 418,
+    "name": "Mega Emboar",
+    "type": [
+      "Fogo",
+      "Lutador"
+    ],
+    "image": "img/mega/Mega-Emboar.jpg",
+    "captureInfo": {
+      "location": "Mega Evolução",
+      "method": "Mega Evolução",
+      "notes": "New in Legends Z-A"
+    }
+  },
+  {
+    "id": 20019,
+    "lumioseId": 419,
+    "name": "Mega Excadrill",
+    "type": [
+      "Terrestre",
+      "Aço"
+    ],
+    "image": "img/mega/Mega-Excadrill.jpg",
+    "captureInfo": {
+      "location": "Mega Evolução",
+      "method": "Mega Evolução",
+      "notes": "New in Legends Z-A"
+    }
+  },
+  {
+    "id": 20020,
+    "lumioseId": 420,
+    "name": "Mega Scolipede",
+    "type": [
+      "Inseto",
+      "Venenoso"
+    ],
+    "image": "img/mega/Mega-Scolipede.jpg",
+    "captureInfo": {
+      "location": "Mega Evolução",
+      "method": "Mega Evolução",
+      "notes": "New in Legends Z-A"
+    }
+  },
+  {
+    "id": 20021,
+    "lumioseId": 421,
+    "name": "Mega Scrafty",
+    "type": [
+      "Sombrio",
+      "Lutador"
+    ],
+    "image": "img/mega/Mega-Scrafty.jpg",
+    "captureInfo": {
+      "location": "Mega Evolução",
+      "method": "Mega Evolução",
+      "notes": "New in Legends Z-A"
+    }
+  },
+  {
+    "id": 20022,
+    "lumioseId": 422,
+    "name": "Mega Eelektross",
+    "type": [
+      "Elétrico"
+    ],
+    "image": "img/mega/Mega-Eelektross.jpg",
+    "captureInfo": {
+      "location": "Mega Evolução",
+      "method": "Mega Evolução",
+      "notes": "New in Legends Z-A"
+    }
+  },
+  {
+    "id": 20023,
+    "lumioseId": 423,
+    "name": "Mega Chandelure",
+    "type": [
+      "Fantasma",
+      "Fogo"
+    ],
+    "image": "img/mega/Mega-Chandelure.jpg",
+    "captureInfo": {
+      "location": "Mega Evolução",
+      "method": "Mega Evolução",
+      "notes": "New in Legends Z-A"
+    }
+  },
+  {
+    "id": 20024,
+    "lumioseId": 424,
+    "name": "Mega Golurk",
+    "type": [
+      "Terrestre",
+      "Fantasma"
+    ],
+    "image": "img/mega/Mega-Golurk.jpg",
+    "captureInfo": {
+      "location": "Mega Evolução",
+      "method": "Mega Evolução",
+      "notes": "New in Legends Z-A"
+    }
+  },
+  {
+    "id": 20025,
+    "lumioseId": 425,
+    "name": "Mega Chesnaught",
+    "type": [
+      "Grama",
+      "Lutador"
+    ],
+    "image": "img/mega/Mega-Chesnaught.jpg",
+    "captureInfo": {
+      "location": "Mega Evolução",
+      "method": "Mega Evolução",
+      "notes": "New in Legends Z-A"
+    }
+  },
+  {
+    "id": 20026,
+    "lumioseId": 426,
+    "name": "Mega Delphox",
+    "type": [
+      "Fogo",
+      "Psíquico"
+    ],
+    "image": "img/mega/Mega-Delphox.jpg",
+    "captureInfo": {
+      "location": "Mega Evolução",
+      "method": "Mega Evolução",
+      "notes": "New in Legends Z-A"
+    }
+  },
+  {
+    "id": 20027,
+    "lumioseId": 427,
+    "name": "Mega Greninja",
+    "type": [
+      "Água",
+      "Sombrio"
+    ],
+    "image": "img/mega/Mega-Greninja.jpg",
+    "captureInfo": {
+      "location": "Mega Evolução",
+      "method": "Mega Evolução",
+      "notes": "New in Legends Z-A"
+    }
+  },
+  {
+    "id": 20028,
+    "lumioseId": 428,
+    "name": "Mega Pyroar",
+    "type": [
+      "Fogo",
+      "Normal"
+    ],
+    "image": "img/mega/Mega-Pyroar.jpg",
+    "captureInfo": {
+      "location": "Mega Evolução",
+      "method": "Mega Evolução",
+      "notes": "New in Legends Z-A"
+    }
+  },
+  {
+    "id": 20029,
+    "lumioseId": 429,
+    "name": "Mega Eternal Floette",
+    "type": [
+      "Fada"
+    ],
+    "image": "img/mega/Mega-Floette.jpg",
+    "captureInfo": {
+      "location": "Mega Evolução",
+      "method": "Mega Evolução",
+      "notes": "New in Legends Z-A"
+    }
+  },
+  {
+    "id": 20030,
+    "lumioseId": 430,
+    "name": "Mega Meowstic",
+    "type": [
+      "Psíquico"
+    ],
+    "image": "img/mega/Mega-Meowstic.jpg",
+    "captureInfo": {
+      "location": "Mega Evolução",
+      "method": "Mega Evolução",
+      "notes": "New in Legends Z-A"
+    }
+  },
+  {
+    "id": 20031,
+    "lumioseId": 431,
+    "name": "Mega Malamar",
+    "type": [
+      "Sombrio",
+      "Psíquico"
+    ],
+    "image": "img/mega/Mega-Malamar.jpg",
+    "captureInfo": {
+      "location": "Mega Evolução",
+      "method": "Mega Evolução",
+      "notes": "New in Legends Z-A"
+    }
+  },
+  {
+    "id": 20032,
+    "lumioseId": 432,
+    "name": "Mega Barbaracle",
+    "type": [
+      "Pedra",
+      "Lutador"
+    ],
+    "image": "img/mega/Mega-Barbaracle.jpg",
+    "captureInfo": {
+      "location": "Mega Evolução",
+      "method": "Mega Evolução",
+      "notes": "New in Legends Z-A"
+    }
+  },
+  {
+    "id": 20033,
+    "lumioseId": 433,
+    "name": "Mega Dragalge",
+    "type": [
+      "Venenoso",
+      "Dragão"
+    ],
+    "image": "img/mega/Mega-Dragalge.jpg",
+    "captureInfo": {
+      "location": "Mega Evolução",
+      "method": "Mega Evolução",
+      "notes": "New in Legends Z-A"
+    }
+  },
+  {
+    "id": 20034,
+    "lumioseId": 434,
+    "name": "Mega Hawlucha",
+    "type": [
+      "Lutador",
+      "Voador"
+    ],
+    "image": "img/mega/Mega-Hawlucha.jpg",
+    "captureInfo": {
+      "location": "Mega Evolução",
+      "method": "Mega Evolução",
+      "notes": "New in Legends Z-A"
+    }
+  },
+  {
+    "id": 20035,
+    "lumioseId": 435,
+    "name": "Mega Complete Zygarde",
+    "type": [
+      "Dragão",
+      "Terrestre"
+    ],
+    "image": "img/mega/Mega-Zygarde.jpg",
+    "captureInfo": {
+      "location": "Mega Evolução",
+      "method": "Mega Evolução",
+      "notes": "New in Legends Z-A"
+    }
+  },
+  {
+    "id": 20036,
+    "lumioseId": 436,
+    "name": "Mega Crabominable",
+    "type": [
+      "Lutador",
+      "Gelo"
+    ],
+    "image": "img/mega/Mega-Crabominable.jpg",
+    "captureInfo": {
+      "location": "Mega Evolução",
+      "method": "Mega Evolução",
+      "notes": "New in Legends Z-A"
+    }
+  },
+  {
+    "id": 20037,
+    "lumioseId": 437,
+    "name": "Mega Golisopod",
+    "type": [
+      "Inseto",
+      "Aço"
+    ],
+    "image": "img/mega/Mega-Golisopod.jpg",
+    "captureInfo": {
+      "location": "Mega Evolução",
+      "method": "Mega Evolução",
+      "notes": "New in Legends Z-A"
+    }
+  },
+  {
+    "id": 20038,
+    "lumioseId": 438,
+    "name": "Mega Drampa",
+    "type": [
+      "Normal",
+      "Dragão"
+    ],
+    "image": "img/mega/Mega-Drampa.jpg",
+    "captureInfo": {
+      "location": "Mega Evolução",
+      "method": "Mega Evolução",
+      "notes": "New in Legends Z-A"
+    }
+  },
+  {
+    "id": 20039,
+    "lumioseId": 439,
+    "name": "Mega Magearna",
+    "type": [
+      "Aço",
+      "Fada"
+    ],
+    "image": "img/mega/Mega-Magearna.jpg",
+    "captureInfo": {
+      "location": "Mega Evolução",
+      "method": "Mega Evolução",
+      "notes": "New in Legends Z-A"
+    }
+  },
+  {
+    "id": 20041,
+    "lumioseId": 441,
+    "name": "Mega Zeraora",
+    "type": [
+      "Elétrico"
+    ],
+    "image": "img/mega/Mega-Zeraora.jpg",
+    "captureInfo": {
+      "location": "Mega Evolução",
+      "method": "Mega Evolução",
+      "notes": "New in Legends Z-A"
+    }
+  },
+  {
+    "id": 20042,
+    "lumioseId": 442,
+    "name": "Mega Scovillain",
+    "type": [
+      "Grama",
+      "Fogo"
+    ],
+    "image": "img/mega/Mega-Scovillian.jpg",
+    "captureInfo": {
+      "location": "Mega Evolução",
+      "method": "Mega Evolução",
+      "notes": "New in Legends Z-A"
+    }
+  },
+  {
+    "id": 20043,
+    "lumioseId": 443,
+    "name": "Mega Glimmora",
+    "type": [
+      "Pedra",
+      "Venenoso"
+    ],
+    "image": "img/mega/Mega-Glimmora.jpg",
+    "captureInfo": {
+      "location": "Mega Evolução",
+      "method": "Mega Evolução",
+      "notes": "New in Legends Z-A"
+    }
+  },
+  {
+    "id": 20044,
+    "lumioseId": 444,
+    "name": "Mega Tatsugiri",
+    "type": [
+      "Dragão",
+      "Água"
+    ],
+    "image": "img/mega/Mega-Tatsugiri.jpg",
+    "captureInfo": {
+      "location": "Mega Evolução",
+      "method": "Mega Evolução",
+      "notes": "New in Legends Z-A"
+    }
+  },
+  {
+    "id": 20047,
+    "lumioseId": 447,
+    "name": "Mega Falinks",
+    "type": [
+      "Lutador"
+    ],
+    "image": "img/mega/Mega-Falinks.jpg",
+    "captureInfo": {
+      "location": "Mega Evolução",
+      "method": "Mega Evolução",
+      "notes": "New in Legends Z-A"
+    }
+  },
+  {
+    "id": 20048,
+    "lumioseId": 448,
+    "name": "Mega Baxcalibur",
+    "type": [
+      "Dragão",
+      "Gelo"
+    ],
+    "image": "img/mega/Mega-Baxcalibur.jpg",
+    "captureInfo": {
+      "location": "Mega Evolução",
+      "method": "Mega Evolução",
+      "notes": "New in Legends Z-A"
+    }
+  },
+  {
+    "id": 20101,
+    "lumioseId": 450,
+    "name": "Mega Venusaur",
+    "type": [
+      "Grama",
+      "Venenoso"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10033.png",
+    "captureInfo": {
+      "location": "Mega Evolução",
+      "method": "Mega Evolução",
+      "notes": "Returning Mega"
+    }
+  },
+  {
+    "id": 20102,
+    "lumioseId": 451,
+    "name": "Mega Charizard X",
+    "type": [
+      "Fogo",
+      "Dragão"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10034.png",
+    "captureInfo": {
+      "location": "Mega Evolução",
+      "method": "Mega Evolução",
+      "notes": "Returning Mega"
+    }
+  },
+  {
+    "id": 20103,
+    "lumioseId": 452,
+    "name": "Mega Charizard Y",
+    "type": [
+      "Fogo",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10035.png",
+    "captureInfo": {
+      "location": "Mega Evolução",
+      "method": "Mega Evolução",
+      "notes": "Returning Mega"
+    }
+  },
+  {
+    "id": 20104,
+    "lumioseId": 453,
+    "name": "Mega Blastoise",
+    "type": [
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10036.png",
+    "captureInfo": {
+      "location": "Mega Evolução",
+      "method": "Mega Evolução",
+      "notes": "Returning Mega"
+    }
+  },
+  {
+    "id": 20105,
+    "lumioseId": 454,
+    "name": "Mega Beedrill",
+    "type": [
+      "Inseto",
+      "Venenoso"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10090.png",
+    "captureInfo": {
+      "location": "Mega Evolução",
+      "method": "Mega Evolução",
+      "notes": "Returning Mega"
+    }
+  },
+  {
+    "id": 20106,
+    "lumioseId": 455,
+    "name": "Mega Pidgeot",
+    "type": [
+      "Normal",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10073.png",
+    "captureInfo": {
+      "location": "Mega Evolução",
+      "method": "Mega Evolução",
+      "notes": "Returning Mega"
+    }
+  },
+  {
+    "id": 20107,
+    "lumioseId": 456,
+    "name": "Mega Alakazam",
+    "type": [
+      "Psíquico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10037.png",
+    "captureInfo": {
+      "location": "Mega Evolução",
+      "method": "Mega Evolução",
+      "notes": "Returning Mega"
+    }
+  },
+  {
+    "id": 20108,
+    "lumioseId": 457,
+    "name": "Mega Slowbro",
+    "type": [
+      "Água",
+      "Psíquico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10071.png",
+    "captureInfo": {
+      "location": "Mega Evolução",
+      "method": "Mega Evolução",
+      "notes": "Returning Mega"
+    }
+  },
+  {
+    "id": 20109,
+    "lumioseId": 458,
+    "name": "Mega Gengar",
+    "type": [
+      "Fantasma",
+      "Venenoso"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10038.png",
+    "captureInfo": {
+      "location": "Mega Evolução",
+      "method": "Mega Evolução",
+      "notes": "Returning Mega"
+    }
+  },
+  {
+    "id": 20110,
+    "lumioseId": 459,
+    "name": "Mega Kangaskhan",
+    "type": [
+      "Normal"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10039.png",
+    "captureInfo": {
+      "location": "Mega Evolução",
+      "method": "Mega Evolução",
+      "notes": "Returning Mega"
+    }
+  },
+  {
+    "id": 20111,
+    "lumioseId": 460,
+    "name": "Mega Pinsir",
+    "type": [
+      "Inseto",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10040.png",
+    "captureInfo": {
+      "location": "Mega Evolução",
+      "method": "Mega Evolução",
+      "notes": "Returning Mega"
+    }
+  },
+  {
+    "id": 20112,
+    "lumioseId": 461,
+    "name": "Mega Gyarados",
+    "type": [
+      "Água",
+      "Sombrio"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10041.png",
+    "captureInfo": {
+      "location": "Mega Evolução",
+      "method": "Mega Evolução",
+      "notes": "Returning Mega"
+    }
+  },
+  {
+    "id": 20113,
+    "lumioseId": 462,
+    "name": "Mega Aerodactyl",
+    "type": [
+      "Pedra",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10042.png",
+    "captureInfo": {
+      "location": "Mega Evolução",
+      "method": "Mega Evolução",
+      "notes": "Returning Mega"
+    }
+  },
+  {
+    "id": 20114,
+    "lumioseId": 463,
+    "name": "Mega Mewtwo X",
+    "type": [
+      "Psíquico",
+      "Lutador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10043.png",
+    "captureInfo": {
+      "location": "Mega Evolução",
+      "method": "Mega Evolução",
+      "notes": "Returning Mega"
+    }
+  },
+  {
+    "id": 20115,
+    "lumioseId": 464,
+    "name": "Mega Mewtwo Y",
+    "type": [
+      "Psíquico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10044.png",
+    "captureInfo": {
+      "location": "Mega Evolução",
+      "method": "Mega Evolução",
+      "notes": "Returning Mega"
+    }
+  },
+  {
+    "id": 20116,
+    "lumioseId": 465,
+    "name": "Mega Ampharos",
+    "type": [
+      "Elétrico",
+      "Dragão"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10045.png",
+    "captureInfo": {
+      "location": "Mega Evolução",
+      "method": "Mega Evolução",
+      "notes": "Returning Mega"
+    }
+  },
+  {
+    "id": 20117,
+    "lumioseId": 466,
+    "name": "Mega Steelix",
+    "type": [
+      "Aço",
+      "Terrestre"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10072.png",
+    "captureInfo": {
+      "location": "Mega Evolução",
+      "method": "Mega Evolução",
+      "notes": "Returning Mega"
+    }
+  },
+  {
+    "id": 20118,
+    "lumioseId": 467,
+    "name": "Mega Scizor",
+    "type": [
+      "Inseto",
+      "Aço"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10046.png",
+    "captureInfo": {
+      "location": "Mega Evolução",
+      "method": "Mega Evolução",
+      "notes": "Returning Mega"
+    }
+  },
+  {
+    "id": 20119,
+    "lumioseId": 468,
+    "name": "Mega Heracross",
+    "type": [
+      "Inseto",
+      "Lutador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10047.png",
+    "captureInfo": {
+      "location": "Mega Evolução",
+      "method": "Mega Evolução",
+      "notes": "Returning Mega"
+    }
+  },
+  {
+    "id": 20120,
+    "lumioseId": 469,
+    "name": "Mega Houndoom",
+    "type": [
+      "Sombrio",
+      "Fogo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10048.png",
+    "captureInfo": {
+      "location": "Mega Evolução",
+      "method": "Mega Evolução",
+      "notes": "Returning Mega"
+    }
+  },
+  {
+    "id": 20121,
+    "lumioseId": 470,
+    "name": "Mega Tyranitar",
+    "type": [
+      "Pedra",
+      "Sombrio"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10049.png",
+    "captureInfo": {
+      "location": "Mega Evolução",
+      "method": "Mega Evolução",
+      "notes": "Returning Mega"
+    }
+  },
+  {
+    "id": 20122,
+    "lumioseId": 471,
+    "name": "Mega Sceptile",
+    "type": [
+      "Grama",
+      "Dragão"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10065.png",
+    "captureInfo": {
+      "location": "Mega Evolução",
+      "method": "Mega Evolução",
+      "notes": "Returning Mega"
+    }
+  },
+  {
+    "id": 20123,
+    "lumioseId": 472,
+    "name": "Mega Blaziken",
+    "type": [
+      "Fogo",
+      "Lutador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10050.png",
+    "captureInfo": {
+      "location": "Mega Evolução",
+      "method": "Mega Evolução",
+      "notes": "Returning Mega"
+    }
+  },
+  {
+    "id": 20124,
+    "lumioseId": 473,
+    "name": "Mega Swampert",
+    "type": [
+      "Água",
+      "Terrestre"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10064.png",
+    "captureInfo": {
+      "location": "Mega Evolução",
+      "method": "Mega Evolução",
+      "notes": "Returning Mega"
+    }
+  },
+  {
+    "id": 20125,
+    "lumioseId": 474,
+    "name": "Mega Gardevoir",
+    "type": [
+      "Psíquico",
+      "Fada"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10051.png",
+    "captureInfo": {
+      "location": "Mega Evolução",
+      "method": "Mega Evolução",
+      "notes": "Returning Mega"
+    }
+  },
+  {
+    "id": 20126,
+    "lumioseId": 475,
+    "name": "Mega Sableye",
+    "type": [
+      "Sombrio",
+      "Fantasma"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10066.png",
+    "captureInfo": {
+      "location": "Mega Evolução",
+      "method": "Mega Evolução",
+      "notes": "Returning Mega"
+    }
+  },
+  {
+    "id": 20127,
+    "lumioseId": 476,
+    "name": "Mega Mawile",
+    "type": [
+      "Aço",
+      "Fada"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10052.png",
+    "captureInfo": {
+      "location": "Mega Evolução",
+      "method": "Mega Evolução",
+      "notes": "Returning Mega"
+    }
+  },
+  {
+    "id": 20128,
+    "lumioseId": 477,
+    "name": "Mega Aggron",
+    "type": [
+      "Aço"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10053.png",
+    "captureInfo": {
+      "location": "Mega Evolução",
+      "method": "Mega Evolução",
+      "notes": "Returning Mega"
+    }
+  },
+  {
+    "id": 20129,
+    "lumioseId": 478,
+    "name": "Mega Medicham",
+    "type": [
+      "Lutador",
+      "Psíquico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10054.png",
+    "captureInfo": {
+      "location": "Mega Evolução",
+      "method": "Mega Evolução",
+      "notes": "Returning Mega"
+    }
+  },
+  {
+    "id": 20130,
+    "lumioseId": 479,
+    "name": "Mega Manectric",
+    "type": [
+      "Elétrico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10055.png",
+    "captureInfo": {
+      "location": "Mega Evolução",
+      "method": "Mega Evolução",
+      "notes": "Returning Mega"
+    }
+  },
+  {
+    "id": 20131,
+    "lumioseId": 480,
+    "name": "Mega Sharpedo",
+    "type": [
+      "Água",
+      "Sombrio"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10070.png",
+    "captureInfo": {
+      "location": "Mega Evolução",
+      "method": "Mega Evolução",
+      "notes": "Returning Mega"
+    }
+  },
+  {
+    "id": 20132,
+    "lumioseId": 481,
+    "name": "Mega Camerupt",
+    "type": [
+      "Fogo",
+      "Terrestre"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10087.png",
+    "captureInfo": {
+      "location": "Mega Evolução",
+      "method": "Mega Evolução",
+      "notes": "Returning Mega"
+    }
+  },
+  {
+    "id": 20133,
+    "lumioseId": 482,
+    "name": "Mega Altaria",
+    "type": [
+      "Dragão",
+      "Fada"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10067.png",
+    "captureInfo": {
+      "location": "Mega Evolução",
+      "method": "Mega Evolução",
+      "notes": "Returning Mega"
+    }
+  },
+  {
+    "id": 20134,
+    "lumioseId": 483,
+    "name": "Mega Banette",
+    "type": [
+      "Fantasma"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10056.png",
+    "captureInfo": {
+      "location": "Mega Evolução",
+      "method": "Mega Evolução",
+      "notes": "Returning Mega"
+    }
+  },
+  {
+    "id": 20135,
+    "lumioseId": 484,
+    "name": "Mega Absol",
+    "type": [
+      "Sombrio"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10057.png",
+    "captureInfo": {
+      "location": "Mega Evolução",
+      "method": "Mega Evolução",
+      "notes": "Returning Mega"
+    }
+  },
+  {
+    "id": 20136,
+    "lumioseId": 485,
+    "name": "Mega Glalie",
+    "type": [
+      "Gelo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10074.png",
+    "captureInfo": {
+      "location": "Mega Evolução",
+      "method": "Mega Evolução",
+      "notes": "Returning Mega"
+    }
+  },
+  {
+    "id": 20137,
+    "lumioseId": 486,
+    "name": "Mega Salamence",
+    "type": [
+      "Dragão",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10089.png",
+    "captureInfo": {
+      "location": "Mega Evolução",
+      "method": "Mega Evolução",
+      "notes": "Returning Mega"
+    }
+  },
+  {
+    "id": 20138,
+    "lumioseId": 487,
+    "name": "Mega Metagross",
+    "type": [
+      "Aço",
+      "Psíquico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10076.png",
+    "captureInfo": {
+      "location": "Mega Evolução",
+      "method": "Mega Evolução",
+      "notes": "Returning Mega"
+    }
+  },
+  {
+    "id": 20139,
+    "lumioseId": 488,
+    "name": "Mega Latias",
+    "type": [
+      "Dragão",
+      "Psíquico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10062.png",
+    "captureInfo": {
+      "location": "Mega Evolução",
+      "method": "Mega Evolução",
+      "notes": "Returning Mega"
+    }
+  },
+  {
+    "id": 20140,
+    "lumioseId": 489,
+    "name": "Mega Latios",
+    "type": [
+      "Dragão",
+      "Psíquico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10063.png",
+    "captureInfo": {
+      "location": "Mega Evolução",
+      "method": "Mega Evolução",
+      "notes": "Returning Mega"
+    }
+  },
+  {
+    "id": 20141,
+    "lumioseId": 490,
+    "name": "Mega Rayquaza",
+    "type": [
+      "Dragão",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10079.png",
+    "captureInfo": {
+      "location": "Mega Evolução",
+      "method": "Mega Evolução",
+      "notes": "Returning Mega"
+    }
+  },
+  {
+    "id": 20142,
+    "lumioseId": 491,
+    "name": "Mega Lopunny",
+    "type": [
+      "Normal",
+      "Lutador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10088.png",
+    "captureInfo": {
+      "location": "Mega Evolução",
+      "method": "Mega Evolução",
+      "notes": "Returning Mega"
+    }
+  },
+  {
+    "id": 20143,
+    "lumioseId": 492,
+    "name": "Mega Garchomp",
+    "type": [
+      "Dragão",
+      "Terrestre"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10058.png",
+    "captureInfo": {
+      "location": "Mega Evolução",
+      "method": "Mega Evolução",
+      "notes": "Returning Mega"
+    }
+  },
+  {
+    "id": 20144,
+    "lumioseId": 493,
+    "name": "Mega Lucario",
+    "type": [
+      "Lutador",
+      "Aço"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10059.png",
+    "captureInfo": {
+      "location": "Mega Evolução",
+      "method": "Mega Evolução",
+      "notes": "Returning Mega"
+    }
+  },
+  {
+    "id": 20145,
+    "lumioseId": 494,
+    "name": "Mega Abomasnow",
+    "type": [
+      "Grama",
+      "Gelo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10060.png",
+    "captureInfo": {
+      "location": "Mega Evolução",
+      "method": "Mega Evolução",
+      "notes": "Returning Mega"
+    }
+  },
+  {
+    "id": 20146,
+    "lumioseId": 495,
+    "name": "Mega Gallade",
+    "type": [
+      "Psíquico",
+      "Lutador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10068.png",
+    "captureInfo": {
+      "location": "Mega Evolução",
+      "method": "Mega Evolução",
+      "notes": "Returning Mega"
+    }
+  },
+  {
+    "id": 20147,
+    "lumioseId": 496,
+    "name": "Mega Audino",
+    "type": [
+      "Normal",
+      "Fada"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10069.png",
+    "captureInfo": {
+      "location": "Mega Evolução",
+      "method": "Mega Evolução",
+      "notes": "Returning Mega"
+    }
+  },
+  {
+    "id": 20148,
+    "lumioseId": 497,
+    "name": "Mega Diancie",
+    "type": [
+      "Pedra",
+      "Fada"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10075.png",
+    "captureInfo": {
+      "location": "Mega Evolução",
+      "method": "Mega Evolução",
+      "notes": "Returning Mega"
+    }
+  }
+]

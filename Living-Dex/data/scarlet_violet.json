@@ -1,0 +1,6607 @@
+[
+  {
+    "id": 906,
+    "lumioseId": 1,
+    "name": "Sprigatito",
+    "type": [
+      "Grama"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/906.png",
+    "captureInfo": {
+      "location": "Received as a Inicial Pokemon outside Nemona's House.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 907,
+    "lumioseId": 2,
+    "name": "Floragato",
+    "type": [
+      "Grama"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/907.png",
+    "captureInfo": {
+      "location": "Not known to be found in the wild. Can be evolved from Sprigatito.",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 908,
+    "lumioseId": 3,
+    "name": "Meowscarada",
+    "type": [
+      "Grama",
+      "Sombrio"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/908.png",
+    "captureInfo": {
+      "location": "Not known to be found in the wild. Can be evolved from Floragato.",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 909,
+    "lumioseId": 4,
+    "name": "Fuecoco",
+    "type": [
+      "Fogo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/909.png",
+    "captureInfo": {
+      "location": "Received as a Inicial Pokemon outside Nemona's House.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 910,
+    "lumioseId": 5,
+    "name": "Crocalor",
+    "type": [
+      "Fogo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/910.png",
+    "captureInfo": {
+      "location": "Not known to be found in the wild. Can be evolved from Fuecoco.",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 911,
+    "lumioseId": 6,
+    "name": "Skeledirge",
+    "type": [
+      "Fogo",
+      "Fantasma"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/911.png",
+    "captureInfo": {
+      "location": "Not known to be found in the wild. Can be evolved from Crocalor.",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 912,
+    "lumioseId": 7,
+    "name": "Quaxly",
+    "type": [
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/912.png",
+    "captureInfo": {
+      "location": "Received as a Inicial Pokemon outside Nemona's House.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 913,
+    "lumioseId": 8,
+    "name": "Quaxwell",
+    "type": [
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/913.png",
+    "captureInfo": {
+      "location": "Not known to be found in the wild. Can be evolved from Quaxly.",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 914,
+    "lumioseId": 9,
+    "name": "Quaquaval",
+    "type": [
+      "Água",
+      "Lutador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/914.png",
+    "captureInfo": {
+      "location": "Not known to be found in the wild. Can be evolved from Quaxwell.",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 915,
+    "lumioseId": 10,
+    "name": "Lechonk",
+    "type": [
+      "Normal"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/915.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area One) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 916,
+    "lumioseId": 11,
+    "name": "Oinkologne",
+    "type": [
+      "Normal"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/916.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area One) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 917,
+    "lumioseId": 12,
+    "name": "Tarountula",
+    "type": [
+      "Inseto"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/917.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area One) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 918,
+    "lumioseId": 13,
+    "name": "Spidops",
+    "type": [
+      "Inseto"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/918.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area One) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 919,
+    "lumioseId": 14,
+    "name": "Nymble",
+    "type": [
+      "Inseto"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/919.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Three) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 920,
+    "lumioseId": 15,
+    "name": "Lokix",
+    "type": [
+      "Inseto",
+      "Sombrio"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/920.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Six) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 187,
+    "lumioseId": 16,
+    "name": "Hoppip",
+    "type": [
+      "Grama",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/187.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area One) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 188,
+    "lumioseId": 17,
+    "name": "Skiploom",
+    "type": [
+      "Grama",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/188.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Five) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 189,
+    "lumioseId": 18,
+    "name": "Jumpluff",
+    "type": [
+      "Grama",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/189.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Six) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 661,
+    "lumioseId": 19,
+    "name": "Fletchling",
+    "type": [
+      "Normal",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/661.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area One) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 662,
+    "lumioseId": 20,
+    "name": "Fletchinder",
+    "type": [
+      "Fogo",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/662.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Four) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 663,
+    "lumioseId": 21,
+    "name": "Talonflame",
+    "type": [
+      "Fogo",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/663.png",
+    "captureInfo": {
+      "location": "Can be found in The Great Crater of Paldea (Area Zero).",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 921,
+    "lumioseId": 22,
+    "name": "Pawmi",
+    "type": [
+      "Elétrico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/921.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area One) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 922,
+    "lumioseId": 23,
+    "name": "Pawmo",
+    "type": [
+      "Elétrico",
+      "Lutador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/922.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area One) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 923,
+    "lumioseId": 24,
+    "name": "Pawmot",
+    "type": [
+      "Elétrico",
+      "Lutador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/923.png",
+    "captureInfo": {
+      "location": "Not known to be found in the wild. Can be evolved from Pawmo.",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 228,
+    "lumioseId": 25,
+    "name": "Houndour",
+    "type": [
+      "Sombrio",
+      "Fogo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/228.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area One) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 229,
+    "lumioseId": 26,
+    "name": "Houndoom",
+    "type": [
+      "Sombrio",
+      "Fogo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/229.png",
+    "captureInfo": {
+      "location": "Can be found in North Province (Area Two) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 734,
+    "lumioseId": 27,
+    "name": "Yungoos",
+    "type": [
+      "Normal"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/734.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area One) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 735,
+    "lumioseId": 28,
+    "name": "Gumshoos",
+    "type": [
+      "Normal"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/735.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area One) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 819,
+    "lumioseId": 29,
+    "name": "Skwovet",
+    "type": [
+      "Normal"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/819.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Two) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 820,
+    "lumioseId": 30,
+    "name": "Greedent",
+    "type": [
+      "Normal"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/820.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Six) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 191,
+    "lumioseId": 31,
+    "name": "Sunkern",
+    "type": [
+      "Grama"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/191.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area One) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 192,
+    "lumioseId": 32,
+    "name": "Sunflora",
+    "type": [
+      "Grama"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/192.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Six) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 401,
+    "lumioseId": 33,
+    "name": "Kricketot",
+    "type": [
+      "Inseto"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/401.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Two) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 402,
+    "lumioseId": 34,
+    "name": "Kricketune",
+    "type": [
+      "Inseto"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/402.png",
+    "captureInfo": {
+      "location": "Can be found in North Province (Area One).",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 664,
+    "lumioseId": 35,
+    "name": "Scatterbug",
+    "type": [
+      "Inseto"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/664.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area One).",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 665,
+    "lumioseId": 36,
+    "name": "Spewpa",
+    "type": [
+      "Inseto"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/665.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area One) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 666,
+    "lumioseId": 37,
+    "name": "Vivillon",
+    "type": [
+      "Inseto",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/666.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Six) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 415,
+    "lumioseId": 38,
+    "name": "Combee",
+    "type": [
+      "Inseto",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/415.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area One) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 416,
+    "lumioseId": 39,
+    "name": "Vespiquen",
+    "type": [
+      "Inseto",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/416.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Six) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 821,
+    "lumioseId": 40,
+    "name": "Rookidee",
+    "type": [
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/821.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Three) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 822,
+    "lumioseId": 41,
+    "name": "Corvisquire",
+    "type": [
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/822.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Five) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 823,
+    "lumioseId": 42,
+    "name": "Corviknight",
+    "type": [
+      "Voador",
+      "Aço"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/823.png",
+    "captureInfo": {
+      "location": "Can be evolved from Corvisquire.",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 440,
+    "lumioseId": 43,
+    "name": "Happiny",
+    "type": [
+      "Normal"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/440.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area One) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 113,
+    "lumioseId": 44,
+    "name": "Chansey",
+    "type": [
+      "Normal"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/113.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Six) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 242,
+    "lumioseId": 45,
+    "name": "Blissey",
+    "type": [
+      "Normal"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/242.png",
+    "captureInfo": {
+      "location": "Can be found in North Province (Area One) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 298,
+    "lumioseId": 46,
+    "name": "Azurill",
+    "type": [
+      "Normal",
+      "Fada"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/298.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Two) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 183,
+    "lumioseId": 47,
+    "name": "Marill",
+    "type": [
+      "Água",
+      "Fada"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/183.png",
+    "captureInfo": {
+      "location": "Can be found in East Province (Area Two).",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 184,
+    "lumioseId": 48,
+    "name": "Azumarill",
+    "type": [
+      "Água",
+      "Fada"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/184.png",
+    "captureInfo": {
+      "location": "Can be found in West Province (Area Two) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 283,
+    "lumioseId": 49,
+    "name": "Surskit",
+    "type": [
+      "Inseto",
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/283.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area One) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 284,
+    "lumioseId": 50,
+    "name": "Masquerain",
+    "type": [
+      "Inseto",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/284.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Four) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 418,
+    "lumioseId": 51,
+    "name": "Buizel",
+    "type": [
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/418.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area One) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 419,
+    "lumioseId": 52,
+    "name": "Floatzel",
+    "type": [
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/419.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Six) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 10253,
+    "lumioseId": 53,
+    "name": "Wooper",
+    "type": [
+      "Venenoso",
+      "Terrestre"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10253.png",
+    "captureInfo": {
+      "location": "Localização a ser descoberta em Paldea",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 980,
+    "lumioseId": 54,
+    "name": "Clodsire",
+    "type": [
+      "Venenoso",
+      "Terrestre"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/980.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area One) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 54,
+    "lumioseId": 55,
+    "name": "Psyduck",
+    "type": [
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/54.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area One) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 55,
+    "lumioseId": 56,
+    "name": "Golduck",
+    "type": [
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/55.png",
+    "captureInfo": {
+      "location": "Can be found in North Province (Area One) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 833,
+    "lumioseId": 57,
+    "name": "Chewtle",
+    "type": [
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/833.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area One) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 834,
+    "lumioseId": 58,
+    "name": "Drednaw",
+    "type": [
+      "Água",
+      "Pedra"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/834.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Six) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 174,
+    "lumioseId": 59,
+    "name": "Igglybuff",
+    "type": [
+      "Normal",
+      "Fada"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/174.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Two) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 39,
+    "lumioseId": 60,
+    "name": "Jigglypuff",
+    "type": [
+      "Normal",
+      "Fada"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/39.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Two) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 40,
+    "lumioseId": 61,
+    "name": "Wigglytuff",
+    "type": [
+      "Normal",
+      "Fada"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/40.png",
+    "captureInfo": {
+      "location": "Can be found in North Province (Area One).",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 280,
+    "lumioseId": 62,
+    "name": "Ralts",
+    "type": [
+      "Psíquico",
+      "Fada"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/280.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area One).",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 281,
+    "lumioseId": 63,
+    "name": "Kirlia",
+    "type": [
+      "Psíquico",
+      "Fada"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/281.png",
+    "captureInfo": {
+      "location": "Can be found in West Province (Area Two) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 282,
+    "lumioseId": 64,
+    "name": "Gardevoir",
+    "type": [
+      "Psíquico",
+      "Fada"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/282.png",
+    "captureInfo": {
+      "location": "Can be found on Glaseado Mountain or by evolving a Kirlia.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 475,
+    "lumioseId": 65,
+    "name": "Gallade",
+    "type": [
+      "Psíquico",
+      "Lutador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/475.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Six) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 96,
+    "lumioseId": 66,
+    "name": "Drowzee",
+    "type": [
+      "Psíquico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/96.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Two) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 97,
+    "lumioseId": 67,
+    "name": "Hypno",
+    "type": [
+      "Psíquico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/97.png",
+    "captureInfo": {
+      "location": "Can be evolved from Drowzee.",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 92,
+    "lumioseId": 68,
+    "name": "Gastly",
+    "type": [
+      "Fantasma",
+      "Venenoso"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/92.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area One) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 93,
+    "lumioseId": 69,
+    "name": "Haunter",
+    "type": [
+      "Fantasma",
+      "Venenoso"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/93.png",
+    "captureInfo": {
+      "location": "Can be found in North Province (Area One) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 94,
+    "lumioseId": 70,
+    "name": "Gengar",
+    "type": [
+      "Fantasma",
+      "Venenoso"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png",
+    "captureInfo": {
+      "location": "Not known to be found in the wild. Can be evolved from Haunter via trading.",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 924,
+    "lumioseId": 71,
+    "name": "Tandemaus",
+    "type": [
+      "Normal"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/924.png",
+    "captureInfo": {
+      "location": "Can be found in East Province (Area Two) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 925,
+    "lumioseId": 72,
+    "name": "Maushold",
+    "type": [
+      "Normal"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/925.png",
+    "captureInfo": {
+      "location": "Not known to be found in the wild. Can be evolved from Tandemaus.",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 172,
+    "lumioseId": 73,
+    "name": "Pichu",
+    "type": [
+      "Elétrico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/172.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Two) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 25,
+    "lumioseId": 74,
+    "name": "Pikachu",
+    "type": [
+      "Elétrico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Two) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 26,
+    "lumioseId": 75,
+    "name": "Raichu",
+    "type": [
+      "Elétrico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/26.png",
+    "captureInfo": {
+      "location": "Can be found in Casseroya Lake.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 926,
+    "lumioseId": 76,
+    "name": "Fidough",
+    "type": [
+      "Fada"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/926.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area One) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 927,
+    "lumioseId": 77,
+    "name": "Dachsbun",
+    "type": [
+      "Fada"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/927.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area One) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 287,
+    "lumioseId": 78,
+    "name": "Slakoth",
+    "type": [
+      "Normal"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/287.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Three) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 288,
+    "lumioseId": 79,
+    "name": "Vigoroth",
+    "type": [
+      "Normal"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/288.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Five) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 289,
+    "lumioseId": 80,
+    "name": "Slaking",
+    "type": [
+      "Normal"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/289.png",
+    "captureInfo": {
+      "location": "Can be found in Casseroya Lake.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 761,
+    "lumioseId": 81,
+    "name": "Bounsweet",
+    "type": [
+      "Grama"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/761.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Four) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 762,
+    "lumioseId": 82,
+    "name": "Steenee",
+    "type": [
+      "Grama"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/762.png",
+    "captureInfo": {
+      "location": "Can be found in East Province (Area One).",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 763,
+    "lumioseId": 83,
+    "name": "Tsareena",
+    "type": [
+      "Grama"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/763.png",
+    "captureInfo": {
+      "location": "Not known to be found in the wild. Can be evolved from a Steenee with Stomp.",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 928,
+    "lumioseId": 84,
+    "name": "Smoliv",
+    "type": [
+      "Grama",
+      "Normal"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/928.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Two) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 929,
+    "lumioseId": 85,
+    "name": "Dolliv",
+    "type": [
+      "Grama",
+      "Normal"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/929.png",
+    "captureInfo": {
+      "location": "Can be evolved from Smoliv.",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 930,
+    "lumioseId": 86,
+    "name": "Arboliva",
+    "type": [
+      "Grama",
+      "Normal"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/930.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Six) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 438,
+    "lumioseId": 87,
+    "name": "Bonsly",
+    "type": [
+      "Pedra"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/438.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area One) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 185,
+    "lumioseId": 88,
+    "name": "Sudowoodo",
+    "type": [
+      "Pedra"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/185.png",
+    "captureInfo": {
+      "location": "Can be found in West Province (Area Three) and Casseroya Lake.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 744,
+    "lumioseId": 89,
+    "name": "Rockruff",
+    "type": [
+      "Pedra"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/744.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area One) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 745,
+    "lumioseId": 90,
+    "name": "Lycanroc",
+    "type": [
+      "Pedra"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/745.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Six) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 837,
+    "lumioseId": 91,
+    "name": "Rolycoly",
+    "type": [
+      "Pedra"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/837.png",
+    "captureInfo": {
+      "location": "Can be found in East Province (Area Three).",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 838,
+    "lumioseId": 92,
+    "name": "Carkol",
+    "type": [
+      "Pedra",
+      "Fogo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/838.png",
+    "captureInfo": {
+      "location": "Can be found in East Province (Area Three).",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 839,
+    "lumioseId": 93,
+    "name": "Coalossal",
+    "type": [
+      "Pedra",
+      "Fogo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/839.png",
+    "captureInfo": {
+      "location": "Not known to be found in the wild. Can be evolved from Carkol.",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 403,
+    "lumioseId": 94,
+    "name": "Shinx",
+    "type": [
+      "Elétrico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/403.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Three).",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 404,
+    "lumioseId": 95,
+    "name": "Luxio",
+    "type": [
+      "Elétrico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/404.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Five).",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 405,
+    "lumioseId": 96,
+    "name": "Luxray",
+    "type": [
+      "Elétrico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/405.png",
+    "captureInfo": {
+      "location": "Can be found in North Province (Area Two).",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 396,
+    "lumioseId": 97,
+    "name": "Starly",
+    "type": [
+      "Normal",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/396.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Two) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 397,
+    "lumioseId": 98,
+    "name": "Staravia",
+    "type": [
+      "Normal",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/397.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Two) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 398,
+    "lumioseId": 99,
+    "name": "Staraptor",
+    "type": [
+      "Normal",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/398.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Two) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 741,
+    "lumioseId": 100,
+    "name": "Oricorio",
+    "type": [
+      "Fogo",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/741.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Three) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 179,
+    "lumioseId": 101,
+    "name": "Mareep",
+    "type": [
+      "Elétrico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/179.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Two) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 180,
+    "lumioseId": 102,
+    "name": "Flaaffy",
+    "type": [
+      "Elétrico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/180.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Six) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 181,
+    "lumioseId": 103,
+    "name": "Ampharos",
+    "type": [
+      "Elétrico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/181.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Six) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 548,
+    "lumioseId": 104,
+    "name": "Petilil",
+    "type": [
+      "Grama"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/548.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Two) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 549,
+    "lumioseId": 105,
+    "name": "Lilligant",
+    "type": [
+      "Grama"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/549.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Two) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 285,
+    "lumioseId": 106,
+    "name": "Shroomish",
+    "type": [
+      "Grama"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/285.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Five) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 286,
+    "lumioseId": 107,
+    "name": "Breloom",
+    "type": [
+      "Grama",
+      "Lutador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/286.png",
+    "captureInfo": {
+      "location": "Can be found in West Province (Area Three).",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 840,
+    "lumioseId": 108,
+    "name": "Applin",
+    "type": [
+      "Grama",
+      "Dragão"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/840.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Two) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 841,
+    "lumioseId": 109,
+    "name": "Flapple",
+    "type": [
+      "Grama",
+      "Dragão"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/841.png",
+    "captureInfo": {
+      "location": "Not known to be found in the wild. Can be evolved from Applin using a Tart Apple.",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 842,
+    "lumioseId": 110,
+    "name": "Appletun",
+    "type": [
+      "Grama",
+      "Dragão"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/842.png",
+    "captureInfo": {
+      "location": "Not known to be found in the wild. Can be evolved from Applin using a Sweet Apple.",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 325,
+    "lumioseId": 111,
+    "name": "Spoink",
+    "type": [
+      "Psíquico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/325.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Three).",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 326,
+    "lumioseId": 112,
+    "name": "Grumpig",
+    "type": [
+      "Psíquico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/326.png",
+    "captureInfo": {
+      "location": "Can be found in Glaseado Mountain among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 931,
+    "lumioseId": 113,
+    "name": "Squawkabilly",
+    "type": [
+      "Normal",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/931.png",
+    "captureInfo": {
+      "location": "Can be found in East Province (Area One) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 200,
+    "lumioseId": 114,
+    "name": "Misdreavus",
+    "type": [
+      "Fantasma"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/200.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Three) among other places. (Violet Only)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 429,
+    "lumioseId": 115,
+    "name": "Mismagius",
+    "type": [
+      "Fantasma"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/429.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Six) among other places. (Violet Only)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 296,
+    "lumioseId": 116,
+    "name": "Makuhita",
+    "type": [
+      "Lutador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/296.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Three) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 297,
+    "lumioseId": 117,
+    "name": "Hariyama",
+    "type": [
+      "Lutador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/297.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Six) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 739,
+    "lumioseId": 118,
+    "name": "Crabrawler",
+    "type": [
+      "Lutador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/739.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Three) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 740,
+    "lumioseId": 119,
+    "name": "Crabominable",
+    "type": [
+      "Lutador",
+      "Gelo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/740.png",
+    "captureInfo": {
+      "location": "Can be found in Glaseado Mountain.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 757,
+    "lumioseId": 120,
+    "name": "Salandit",
+    "type": [
+      "Venenoso",
+      "Fogo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/757.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Six) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 758,
+    "lumioseId": 121,
+    "name": "Salazzle",
+    "type": [
+      "Venenoso",
+      "Fogo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/758.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Six) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 231,
+    "lumioseId": 122,
+    "name": "Phanpy",
+    "type": [
+      "Terrestre"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/231.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Four) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 232,
+    "lumioseId": 123,
+    "name": "Donphan",
+    "type": [
+      "Terrestre"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/232.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Six) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 878,
+    "lumioseId": 124,
+    "name": "Cufant",
+    "type": [
+      "Aço"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/878.png",
+    "captureInfo": {
+      "location": "Can be found in East Province (Area Two) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 879,
+    "lumioseId": 125,
+    "name": "Copperajah",
+    "type": [
+      "Aço"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/879.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Six) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 443,
+    "lumioseId": 126,
+    "name": "Gible",
+    "type": [
+      "Dragão",
+      "Terrestre"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/443.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Six) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 444,
+    "lumioseId": 127,
+    "name": "Gabite",
+    "type": [
+      "Dragão",
+      "Terrestre"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/444.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Six) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 445,
+    "lumioseId": 128,
+    "name": "Garchomp",
+    "type": [
+      "Dragão",
+      "Terrestre"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/445.png",
+    "captureInfo": {
+      "location": "Can be found flying while climbing the mountains surrounding The Great Crater of Paldea.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 932,
+    "lumioseId": 129,
+    "name": "Nacli",
+    "type": [
+      "Pedra"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/932.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area One) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 933,
+    "lumioseId": 130,
+    "name": "Naclstack",
+    "type": [
+      "Pedra"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/933.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Six) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 934,
+    "lumioseId": 131,
+    "name": "Garganacl",
+    "type": [
+      "Pedra"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/934.png",
+    "captureInfo": {
+      "location": "Can be evolved from Naclstack.",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 278,
+    "lumioseId": 132,
+    "name": "Wingull",
+    "type": [
+      "Água",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/278.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area One) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 279,
+    "lumioseId": 133,
+    "name": "Pelipper",
+    "type": [
+      "Água",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/279.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area One) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 129,
+    "lumioseId": 134,
+    "name": "Magikarp",
+    "type": [
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/129.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Four) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 130,
+    "lumioseId": 135,
+    "name": "Gyarados",
+    "type": [
+      "Água",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/130.png",
+    "captureInfo": {
+      "location": "Can be found in the South Paldean Sea among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 846,
+    "lumioseId": 136,
+    "name": "Arrokuda",
+    "type": [
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/846.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area One) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 847,
+    "lumioseId": 137,
+    "name": "Barraskewda",
+    "type": [
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/847.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Six) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 550,
+    "lumioseId": 138,
+    "name": "Basculin",
+    "type": [
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/550.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area One) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 316,
+    "lumioseId": 139,
+    "name": "Gulpin",
+    "type": [
+      "Venenoso"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/316.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Three) among other places. (Violet Only)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 317,
+    "lumioseId": 140,
+    "name": "Swalot",
+    "type": [
+      "Venenoso"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/317.png",
+    "captureInfo": {
+      "location": "Can be found in Casseroya Lake. (Violet Only)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 52,
+    "lumioseId": 141,
+    "name": "Meowth",
+    "type": [
+      "Normal"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/52.png",
+    "captureInfo": {
+      "location": "Can be found in West Province (Area Two) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 53,
+    "lumioseId": 142,
+    "name": "Persian",
+    "type": [
+      "Normal"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/53.png",
+    "captureInfo": {
+      "location": "Can be found in West Province (Area Three).",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 425,
+    "lumioseId": 143,
+    "name": "Drifloon",
+    "type": [
+      "Fantasma",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/425.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Four) among other places. (Scarlet Only)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 426,
+    "lumioseId": 144,
+    "name": "Drifblim",
+    "type": [
+      "Fantasma",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/426.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Four) among other places. (Scarlet Only)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 669,
+    "lumioseId": 145,
+    "name": "Flabébé",
+    "type": [
+      "Fada"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/669.png",
+    "captureInfo": {
+      "location": "Localização a ser descoberta em Paldea",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 670,
+    "lumioseId": 146,
+    "name": "Floette",
+    "type": [
+      "Fada"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/670.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Five) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 671,
+    "lumioseId": 147,
+    "name": "Florges",
+    "type": [
+      "Fada"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/671.png",
+    "captureInfo": {
+      "location": "Can be found in North Province (Area Three) or evolved from Floette with a Shiny Stone.",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 50,
+    "lumioseId": 148,
+    "name": "Diglett",
+    "type": [
+      "Terrestre"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/50.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Two) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 51,
+    "lumioseId": 149,
+    "name": "Dugtrio",
+    "type": [
+      "Terrestre"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/51.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Six) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 324,
+    "lumioseId": 150,
+    "name": "Torkoal",
+    "type": [
+      "Fogo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/324.png",
+    "captureInfo": {
+      "location": "Can be found in East Province (Area Three) and Zapapico.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 322,
+    "lumioseId": 151,
+    "name": "Numel",
+    "type": [
+      "Fogo",
+      "Terrestre"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/322.png",
+    "captureInfo": {
+      "location": "Can be found in West Province (Area One).",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 323,
+    "lumioseId": 152,
+    "name": "Camerupt",
+    "type": [
+      "Fogo",
+      "Terrestre"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/323.png",
+    "captureInfo": {
+      "location": "Can be found in North Province (Area Two) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 436,
+    "lumioseId": 153,
+    "name": "Bronzor",
+    "type": [
+      "Aço",
+      "Psíquico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/436.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area One) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 437,
+    "lumioseId": 154,
+    "name": "Bronzong",
+    "type": [
+      "Aço",
+      "Psíquico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/437.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Six) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 610,
+    "lumioseId": 155,
+    "name": "Axew",
+    "type": [
+      "Dragão"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/610.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Five) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 611,
+    "lumioseId": 156,
+    "name": "Fraxure",
+    "type": [
+      "Dragão"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/611.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Five) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 612,
+    "lumioseId": 157,
+    "name": "Haxorus",
+    "type": [
+      "Dragão"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/612.png",
+    "captureInfo": {
+      "location": "Not known to be found in the wild. Can be evolved from Fraxure.",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 56,
+    "lumioseId": 158,
+    "name": "Mankey",
+    "type": [
+      "Lutador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/56.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Five) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 57,
+    "lumioseId": 159,
+    "name": "Primeape",
+    "type": [
+      "Lutador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/57.png",
+    "captureInfo": {
+      "location": "Can be found in West Province (Area Three) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 979,
+    "lumioseId": 160,
+    "name": "Annihilape",
+    "type": [
+      "Lutador",
+      "Fantasma"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/979.png",
+    "captureInfo": {
+      "location": "Not known to be found in the wild. Can be evolved from Primeape.",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 307,
+    "lumioseId": 161,
+    "name": "Meditite",
+    "type": [
+      "Lutador",
+      "Psíquico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/307.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Four) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 308,
+    "lumioseId": 162,
+    "name": "Medicham",
+    "type": [
+      "Lutador",
+      "Psíquico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/308.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Six) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 447,
+    "lumioseId": 163,
+    "name": "Riolu",
+    "type": [
+      "Lutador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/447.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Four).",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 448,
+    "lumioseId": 164,
+    "name": "Lucario",
+    "type": [
+      "Lutador",
+      "Aço"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/448.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Four) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 935,
+    "lumioseId": 165,
+    "name": "Charcadet",
+    "type": [
+      "Fogo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/935.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area One) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 936,
+    "lumioseId": 166,
+    "name": "Armarouge",
+    "type": [
+      "Fogo",
+      "Psíquico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/936.png",
+    "captureInfo": {
+      "location": "Evoluir from Charcadet by giving 10 Bronzor Fragments to the man in Zapapico. (Scarlet Only)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 937,
+    "lumioseId": 167,
+    "name": "Ceruledge",
+    "type": [
+      "Fogo",
+      "Fantasma"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/937.png",
+    "captureInfo": {
+      "location": "Evoluir from Charcadet by giving 10 Sinistea Chips to the man in Zapapico. (Violet Only)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 339,
+    "lumioseId": 168,
+    "name": "Barboach",
+    "type": [
+      "Água",
+      "Terrestre"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/339.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area One) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 340,
+    "lumioseId": 169,
+    "name": "Whiscash",
+    "type": [
+      "Água",
+      "Terrestre"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/340.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Six) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 938,
+    "lumioseId": 170,
+    "name": "Tadbulb",
+    "type": [
+      "Elétrico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/938.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area One) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 939,
+    "lumioseId": 171,
+    "name": "Bellibolt",
+    "type": [
+      "Elétrico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/939.png",
+    "captureInfo": {
+      "location": "Can be found in West Province (Area Two) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 704,
+    "lumioseId": 172,
+    "name": "Goomy",
+    "type": [
+      "Dragão"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/704.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area One) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 705,
+    "lumioseId": 173,
+    "name": "Sliggoo",
+    "type": [
+      "Dragão"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/705.png",
+    "captureInfo": {
+      "location": "Can be found in Casseroya Lake or evolved from Goomy.",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 706,
+    "lumioseId": 174,
+    "name": "Goodra",
+    "type": [
+      "Dragão"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/706.png",
+    "captureInfo": {
+      "location": "Not known to be found in the wild. Can be evolved from Sliggoo in overworld rain or fog.",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 453,
+    "lumioseId": 175,
+    "name": "Croagunk",
+    "type": [
+      "Venenoso",
+      "Lutador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/453.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Five) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 454,
+    "lumioseId": 176,
+    "name": "Toxicroak",
+    "type": [
+      "Venenoso",
+      "Lutador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/454.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Five) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 940,
+    "lumioseId": 177,
+    "name": "Wattrel",
+    "type": [
+      "Elétrico",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/940.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area One) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 941,
+    "lumioseId": 178,
+    "name": "Kilowattrel",
+    "type": [
+      "Elétrico",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/941.png",
+    "captureInfo": {
+      "location": "Can be found in West Paldean Sea among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 133,
+    "lumioseId": 179,
+    "name": "Eevee",
+    "type": [
+      "Normal"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/133.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Two) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 134,
+    "lumioseId": 180,
+    "name": "Vaporeon",
+    "type": [
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/134.png",
+    "captureInfo": {
+      "location": "Can be evolved from an Eevee with a Water Stone.",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 135,
+    "lumioseId": 181,
+    "name": "Jolteon",
+    "type": [
+      "Elétrico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/135.png",
+    "captureInfo": {
+      "location": "Can be evolved from an Eevee with a Pedra do Trovão.",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 136,
+    "lumioseId": 182,
+    "name": "Flareon",
+    "type": [
+      "Fogo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/136.png",
+    "captureInfo": {
+      "location": "Can be found in West Province (Area Three) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 196,
+    "lumioseId": 183,
+    "name": "Espeon",
+    "type": [
+      "Psíquico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/196.png",
+    "captureInfo": {
+      "location": "Can be evolved from an Eevee with High Friendship in the day without knowing Fairy-type moves.",
+      "method": "Evolução",
+      "time": "Dia",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 197,
+    "lumioseId": 184,
+    "name": "Umbreon",
+    "type": [
+      "Sombrio"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/197.png",
+    "captureInfo": {
+      "location": "Can be evolved from an Eevee with High Friendship in the night without knowing Fairy-type moves.",
+      "method": "Evolução",
+      "time": "Noite",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 470,
+    "lumioseId": 185,
+    "name": "Leafeon",
+    "type": [
+      "Grama"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/470.png",
+    "captureInfo": {
+      "location": "Can be found in West Province (Area Three) and Casseroya Lake.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 471,
+    "lumioseId": 186,
+    "name": "Glaceon",
+    "type": [
+      "Gelo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/471.png",
+    "captureInfo": {
+      "location": "Can be evolved from an Eevee with an Ice Stone.",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 700,
+    "lumioseId": 187,
+    "name": "Sylveon",
+    "type": [
+      "Fada"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/700.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Six) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 206,
+    "lumioseId": 188,
+    "name": "Dunsparce",
+    "type": [
+      "Normal"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/206.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Four) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 982,
+    "lumioseId": 189,
+    "name": "Dudunsparce",
+    "type": [
+      "Normal"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/982.png",
+    "captureInfo": {
+      "location": "Not known to be found in the wild. Can be evolved from Dunsparce after learning Hyper Drill.",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 585,
+    "lumioseId": 190,
+    "name": "Deerling",
+    "type": [
+      "Normal",
+      "Grama"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/585.png",
+    "captureInfo": {
+      "location": "Can be found in each Province, with its Winter Form only found on Glaseado Mountain.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 586,
+    "lumioseId": 191,
+    "name": "Sawsbuck",
+    "type": [
+      "Normal",
+      "Grama"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/586.png",
+    "captureInfo": {
+      "location": "Can be found in West Province (Area Three) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 203,
+    "lumioseId": 192,
+    "name": "Girafarig",
+    "type": [
+      "Normal",
+      "Psíquico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/203.png",
+    "captureInfo": {
+      "location": "Can be found in West Province (Area Two) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 981,
+    "lumioseId": 193,
+    "name": "Farigiraf",
+    "type": [
+      "Normal",
+      "Psíquico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/981.png",
+    "captureInfo": {
+      "location": "Can be evolved from Girafarig after learning Twin Beam.",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 88,
+    "lumioseId": 194,
+    "name": "Grimer",
+    "type": [
+      "Venenoso"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/88.png",
+    "captureInfo": {
+      "location": "Can be found in West Province (Area Two) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 89,
+    "lumioseId": 195,
+    "name": "Muk",
+    "type": [
+      "Venenoso"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/89.png",
+    "captureInfo": {
+      "location": "Can be evolved from Grimer.",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 942,
+    "lumioseId": 196,
+    "name": "Maschiff",
+    "type": [
+      "Sombrio"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/942.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Two) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 943,
+    "lumioseId": 197,
+    "name": "Mabosstiff",
+    "type": [
+      "Sombrio"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/943.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Two) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 848,
+    "lumioseId": 198,
+    "name": "Toxel",
+    "type": [
+      "Elétrico",
+      "Venenoso"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/848.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Four) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 849,
+    "lumioseId": 199,
+    "name": "Toxtricity",
+    "type": [
+      "Elétrico",
+      "Venenoso"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/849.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Four) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 702,
+    "lumioseId": 200,
+    "name": "Dedenne",
+    "type": [
+      "Elétrico",
+      "Fada"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/702.png",
+    "captureInfo": {
+      "location": "Can be found in West Province (Area Three) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 417,
+    "lumioseId": 201,
+    "name": "Pachirisu",
+    "type": [
+      "Elétrico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/417.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Four) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 944,
+    "lumioseId": 202,
+    "name": "Shroodle",
+    "type": [
+      "Venenoso",
+      "Normal"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/944.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Two) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 945,
+    "lumioseId": 203,
+    "name": "Grafaiai",
+    "type": [
+      "Venenoso",
+      "Normal"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/945.png",
+    "captureInfo": {
+      "location": "Can be found in Tagtree Thicket.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 234,
+    "lumioseId": 204,
+    "name": "Stantler",
+    "type": [
+      "Normal"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/234.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Five).",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 590,
+    "lumioseId": 205,
+    "name": "Foongus",
+    "type": [
+      "Grama",
+      "Venenoso"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/590.png",
+    "captureInfo": {
+      "location": "Can be found in West Province (Area Three) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 591,
+    "lumioseId": 206,
+    "name": "Amoonguss",
+    "type": [
+      "Grama",
+      "Venenoso"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/591.png",
+    "captureInfo": {
+      "location": "Can be found in Casseroya Lake among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 100,
+    "lumioseId": 207,
+    "name": "Voltorb",
+    "type": [
+      "Elétrico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/100.png",
+    "captureInfo": {
+      "location": "Can be found in West Province (Area Three) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 101,
+    "lumioseId": 208,
+    "name": "Electrode",
+    "type": [
+      "Elétrico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/101.png",
+    "captureInfo": {
+      "location": "Can be found in West Province (Area Three) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 81,
+    "lumioseId": 209,
+    "name": "Magnemite",
+    "type": [
+      "Elétrico",
+      "Aço"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/81.png",
+    "captureInfo": {
+      "location": "Can be found in East Province (Area Two) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 82,
+    "lumioseId": 210,
+    "name": "Magneton",
+    "type": [
+      "Elétrico",
+      "Aço"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/82.png",
+    "captureInfo": {
+      "location": "Can be found on Glaseado Mountain.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 462,
+    "lumioseId": 211,
+    "name": "Magnezone",
+    "type": [
+      "Elétrico",
+      "Aço"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/462.png",
+    "captureInfo": {
+      "location": "Can be found circling around the mountains surrounding The Great Crater of Paldea.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 132,
+    "lumioseId": 212,
+    "name": "Ditto",
+    "type": [
+      "Normal"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/132.png",
+    "captureInfo": {
+      "location": "Can be found in West Province (Area Two) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 58,
+    "lumioseId": 213,
+    "name": "Growlithe",
+    "type": [
+      "Fogo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/58.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Three) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 59,
+    "lumioseId": 214,
+    "name": "Arcanine",
+    "type": [
+      "Fogo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/59.png",
+    "captureInfo": {
+      "location": "Can be found in North Province (Area Two) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 216,
+    "lumioseId": 215,
+    "name": "Teddiursa",
+    "type": [
+      "Normal"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/216.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Five) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 217,
+    "lumioseId": 216,
+    "name": "Ursaring",
+    "type": [
+      "Normal"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/217.png",
+    "captureInfo": {
+      "location": "Can be found in North Province (Area One) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 335,
+    "lumioseId": 217,
+    "name": "Zangoose",
+    "type": [
+      "Normal"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/335.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Five).",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 336,
+    "lumioseId": 218,
+    "name": "Seviper",
+    "type": [
+      "Venenoso"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/336.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Three) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 333,
+    "lumioseId": 219,
+    "name": "Swablu",
+    "type": [
+      "Normal",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/333.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Three) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 334,
+    "lumioseId": 220,
+    "name": "Altaria",
+    "type": [
+      "Dragão",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/334.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Six) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 672,
+    "lumioseId": 221,
+    "name": "Skiddo",
+    "type": [
+      "Grama"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/672.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Three) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 673,
+    "lumioseId": 222,
+    "name": "Gogoat",
+    "type": [
+      "Grama"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/673.png",
+    "captureInfo": {
+      "location": "Can be found in West Province (Area Three) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 10250,
+    "lumioseId": 223,
+    "name": "Tauros",
+    "type": [
+      "Lutador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10250.png",
+    "captureInfo": {
+      "location": "Can be found in West Province (Area Two) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 667,
+    "lumioseId": 224,
+    "name": "Litleo",
+    "type": [
+      "Fogo",
+      "Normal"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/667.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Five) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 668,
+    "lumioseId": 225,
+    "name": "Pyroar",
+    "type": [
+      "Fogo",
+      "Normal"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/668.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Five) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 434,
+    "lumioseId": 226,
+    "name": "Stunky",
+    "type": [
+      "Venenoso",
+      "Sombrio"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/434.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Five) among other places. (Scarlet Only)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 435,
+    "lumioseId": 227,
+    "name": "Skuntank",
+    "type": [
+      "Venenoso",
+      "Sombrio"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/435.png",
+    "captureInfo": {
+      "location": "Can be found in Casseroya Lake. (Scarlet Only)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 570,
+    "lumioseId": 228,
+    "name": "Zorua",
+    "type": [
+      "Sombrio"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/570.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area One) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 571,
+    "lumioseId": 229,
+    "name": "Zoroark",
+    "type": [
+      "Sombrio"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/571.png",
+    "captureInfo": {
+      "location": "Can be found in West Province (Area Three) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 215,
+    "lumioseId": 230,
+    "name": "Sneasel",
+    "type": [
+      "Sombrio",
+      "Gelo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/215.png",
+    "captureInfo": {
+      "location": "Can be found in North Province (Area One) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 461,
+    "lumioseId": 231,
+    "name": "Weavile",
+    "type": [
+      "Sombrio",
+      "Gelo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/461.png",
+    "captureInfo": {
+      "location": "Can be found in North Province (Area One) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 198,
+    "lumioseId": 232,
+    "name": "Murkrow",
+    "type": [
+      "Sombrio",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/198.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area One) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 430,
+    "lumioseId": 233,
+    "name": "Honchkrow",
+    "type": [
+      "Sombrio",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/430.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Six) among other places. (Noitetime Only)",
+      "method": "Captura Padrão",
+      "time": "Noite",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 574,
+    "lumioseId": 234,
+    "name": "Gothita",
+    "type": [
+      "Psíquico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/574.png",
+    "captureInfo": {
+      "location": "Can be found in East Province (Area Three) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 575,
+    "lumioseId": 235,
+    "name": "Gothorita",
+    "type": [
+      "Psíquico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/575.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Six).",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 576,
+    "lumioseId": 236,
+    "name": "Gothitelle",
+    "type": [
+      "Psíquico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/576.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Six).",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 854,
+    "lumioseId": 237,
+    "name": "Sinistea",
+    "type": [
+      "Fantasma"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/854.png",
+    "captureInfo": {
+      "location": "Can be found in the Ruins in South Province (Area Six) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 855,
+    "lumioseId": 238,
+    "name": "Polteageist",
+    "type": [
+      "Fantasma"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/855.png",
+    "captureInfo": {
+      "location": "Not known to be found in the wild. Can be evolved from Sinistea using a Cracked Pot.",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 778,
+    "lumioseId": 239,
+    "name": "Mimikyu",
+    "type": [
+      "Fantasma",
+      "Fada"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/778.png",
+    "captureInfo": {
+      "location": "Can be found in East Province (Area Two) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 707,
+    "lumioseId": 240,
+    "name": "Klefki",
+    "type": [
+      "Aço",
+      "Fada"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/707.png",
+    "captureInfo": {
+      "location": "Can be found in Glaseado Mountain among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 876,
+    "lumioseId": 241,
+    "name": "Indeedee",
+    "type": [
+      "Psíquico",
+      "Normal"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/876.png",
+    "captureInfo": {
+      "location": "Can be found in North Province (Area One) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 946,
+    "lumioseId": 242,
+    "name": "Bramblin",
+    "type": [
+      "Grama",
+      "Fantasma"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/946.png",
+    "captureInfo": {
+      "location": "Can be found in East Province (Area Three) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 947,
+    "lumioseId": 243,
+    "name": "Brambleghast",
+    "type": [
+      "Grama",
+      "Fantasma"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/947.png",
+    "captureInfo": {
+      "location": "Can be found in North Province (Area One) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 948,
+    "lumioseId": 244,
+    "name": "Toedscool",
+    "type": [
+      "Terrestre",
+      "Grama"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/948.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area One) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 949,
+    "lumioseId": 245,
+    "name": "Toedscruel",
+    "type": [
+      "Terrestre",
+      "Grama"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/949.png",
+    "captureInfo": {
+      "location": "Can be evolved from Toedscool.",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 357,
+    "lumioseId": 246,
+    "name": "Tropius",
+    "type": [
+      "Grama",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/357.png",
+    "captureInfo": {
+      "location": "Can be found in West Province (Area Three) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 753,
+    "lumioseId": 247,
+    "name": "Fomantis",
+    "type": [
+      "Grama"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/753.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Five) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 754,
+    "lumioseId": 248,
+    "name": "Lurantis",
+    "type": [
+      "Grama"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/754.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Five) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 950,
+    "lumioseId": 249,
+    "name": "Klawf",
+    "type": [
+      "Pedra"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/950.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Three).",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 951,
+    "lumioseId": 250,
+    "name": "Capsakid",
+    "type": [
+      "Grama"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/951.png",
+    "captureInfo": {
+      "location": "Can be found in West Province (Area One) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 952,
+    "lumioseId": 251,
+    "name": "Scovillain",
+    "type": [
+      "Grama",
+      "Fogo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/952.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Six) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 331,
+    "lumioseId": 252,
+    "name": "Cacnea",
+    "type": [
+      "Grama"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/331.png",
+    "captureInfo": {
+      "location": "Can be found in the Asado Desert.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 332,
+    "lumioseId": 253,
+    "name": "Cacturne",
+    "type": [
+      "Grama",
+      "Sombrio"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/332.png",
+    "captureInfo": {
+      "location": "Can be encountered in the Asado Desert. Can also be evolved from Cacnea.",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 953,
+    "lumioseId": 254,
+    "name": "Rellor",
+    "type": [
+      "Inseto"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/953.png",
+    "captureInfo": {
+      "location": "Can be found in the Asado Desert.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 954,
+    "lumioseId": 255,
+    "name": "Rabsca",
+    "type": [
+      "Inseto",
+      "Psíquico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/954.png",
+    "captureInfo": {
+      "location": "Not known to be found in the wild. Can be evolved from Rellor.",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 48,
+    "lumioseId": 256,
+    "name": "Venonat",
+    "type": [
+      "Inseto",
+      "Venenoso"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/48.png",
+    "captureInfo": {
+      "location": "Can be found in East Province (Area One) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 49,
+    "lumioseId": 257,
+    "name": "Venomoth",
+    "type": [
+      "Inseto",
+      "Venenoso"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/49.png",
+    "captureInfo": {
+      "location": "Can be found in East Province (Area One) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 204,
+    "lumioseId": 258,
+    "name": "Pineco",
+    "type": [
+      "Inseto"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/204.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Three) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 205,
+    "lumioseId": 259,
+    "name": "Forretress",
+    "type": [
+      "Inseto",
+      "Aço"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/205.png",
+    "captureInfo": {
+      "location": "Can be found in Casseroya Lake.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 123,
+    "lumioseId": 260,
+    "name": "Scyther",
+    "type": [
+      "Inseto",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Four) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 212,
+    "lumioseId": 261,
+    "name": "Scizor",
+    "type": [
+      "Inseto",
+      "Aço"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/212.png",
+    "captureInfo": {
+      "location": "Not known to be found in the wild. Can be evolved from Scyther.",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 214,
+    "lumioseId": 262,
+    "name": "Heracross",
+    "type": [
+      "Inseto",
+      "Lutador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/214.png",
+    "captureInfo": {
+      "location": "Can be found in Casseroya Lake among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 955,
+    "lumioseId": 263,
+    "name": "Flittle",
+    "type": [
+      "Psíquico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/955.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Three) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 956,
+    "lumioseId": 264,
+    "name": "Espathra",
+    "type": [
+      "Psíquico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/956.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Four) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 449,
+    "lumioseId": 265,
+    "name": "Hippopotas",
+    "type": [
+      "Terrestre"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/449.png",
+    "captureInfo": {
+      "location": "Can be found in the Asado Desert.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 450,
+    "lumioseId": 266,
+    "name": "Hippowdon",
+    "type": [
+      "Terrestre"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/450.png",
+    "captureInfo": {
+      "location": "Can be found in the Asado Desert. Can also be evolved from Hippopotas.",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 551,
+    "lumioseId": 267,
+    "name": "Sandile",
+    "type": [
+      "Terrestre",
+      "Sombrio"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/551.png",
+    "captureInfo": {
+      "location": "Can be found in the Asado Desert.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 552,
+    "lumioseId": 268,
+    "name": "Krokorok",
+    "type": [
+      "Terrestre",
+      "Sombrio"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/552.png",
+    "captureInfo": {
+      "location": "Can be evolved from Sandile.",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 553,
+    "lumioseId": 269,
+    "name": "Krookodile",
+    "type": [
+      "Terrestre",
+      "Sombrio"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/553.png",
+    "captureInfo": {
+      "location": "Not known to be found in the wild. Can be evolved from Krokorok.",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 843,
+    "lumioseId": 270,
+    "name": "Silicobra",
+    "type": [
+      "Terrestre"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/843.png",
+    "captureInfo": {
+      "location": "Can be found in the Asado Desert.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 844,
+    "lumioseId": 271,
+    "name": "Sandaconda",
+    "type": [
+      "Terrestre"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/844.png",
+    "captureInfo": {
+      "location": "Not known to be found in the wild. Can be evolved from Silicobra.",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 749,
+    "lumioseId": 272,
+    "name": "Mudbray",
+    "type": [
+      "Terrestre"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/749.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area One) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 750,
+    "lumioseId": 273,
+    "name": "Mudsdale",
+    "type": [
+      "Terrestre"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/750.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Six) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 636,
+    "lumioseId": 274,
+    "name": "Larvesta",
+    "type": [
+      "Inseto",
+      "Fogo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/636.png",
+    "captureInfo": {
+      "location": "Can be found in the Asado Desert.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 637,
+    "lumioseId": 275,
+    "name": "Volcarona",
+    "type": [
+      "Inseto",
+      "Fogo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/637.png",
+    "captureInfo": {
+      "location": "Can be evolved from Larvesta.",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 371,
+    "lumioseId": 276,
+    "name": "Bagon",
+    "type": [
+      "Dragão"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/371.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Five) among other places. (Violet Only)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 372,
+    "lumioseId": 277,
+    "name": "Shelgon",
+    "type": [
+      "Dragão"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/372.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Six) or evolved from Bagon. (Violet Only)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 373,
+    "lumioseId": 278,
+    "name": "Salamence",
+    "type": [
+      "Dragão",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/373.png",
+    "captureInfo": {
+      "location": "Not known to be found in the wild. Can be evolved from Shelgon. (Violet Only)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 957,
+    "lumioseId": 279,
+    "name": "Tinkatink",
+    "type": [
+      "Fada",
+      "Aço"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/957.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Two) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 958,
+    "lumioseId": 280,
+    "name": "Tinkatuff",
+    "type": [
+      "Fada",
+      "Aço"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/958.png",
+    "captureInfo": {
+      "location": "Can be found in North Province (Area One) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 959,
+    "lumioseId": 281,
+    "name": "Tinkaton",
+    "type": [
+      "Fada",
+      "Aço"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/959.png",
+    "captureInfo": {
+      "location": "Not known to be found in the wild. Can be evolved from Tinkatuff.",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 856,
+    "lumioseId": 282,
+    "name": "Hatenna",
+    "type": [
+      "Psíquico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/856.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Four) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 857,
+    "lumioseId": 283,
+    "name": "Hattrem",
+    "type": [
+      "Psíquico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/857.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Six) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 858,
+    "lumioseId": 284,
+    "name": "Hatterene",
+    "type": [
+      "Psíquico",
+      "Fada"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/858.png",
+    "captureInfo": {
+      "location": "Not known to be found in the wild. Can be evolved from Hattrem.",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 859,
+    "lumioseId": 285,
+    "name": "Impidimp",
+    "type": [
+      "Sombrio",
+      "Fada"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/859.png",
+    "captureInfo": {
+      "location": "Can be found in Tagtree Thicket.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 860,
+    "lumioseId": 286,
+    "name": "Morgrem",
+    "type": [
+      "Sombrio",
+      "Fada"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/860.png",
+    "captureInfo": {
+      "location": "Can be found in Tagtree Thicket.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 861,
+    "lumioseId": 287,
+    "name": "Grimmsnarl",
+    "type": [
+      "Sombrio",
+      "Fada"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/861.png",
+    "captureInfo": {
+      "location": "Not known to be found in the wild. Can be evolved from Morgrem.",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 960,
+    "lumioseId": 288,
+    "name": "Wiglett",
+    "type": [
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/960.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Five) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 961,
+    "lumioseId": 289,
+    "name": "Wugtrio",
+    "type": [
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/961.png",
+    "captureInfo": {
+      "location": "Can be found in West Province (Area Two) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 962,
+    "lumioseId": 290,
+    "name": "Bombirdier",
+    "type": [
+      "Voador",
+      "Sombrio"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/962.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Six) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 963,
+    "lumioseId": 291,
+    "name": "Finizen",
+    "type": [
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/963.png",
+    "captureInfo": {
+      "location": "Can be found in South Paldean Sea among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 964,
+    "lumioseId": 292,
+    "name": "Palafin",
+    "type": [
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/964.png",
+    "captureInfo": {
+      "location": "Not known to be found in the wild. Can be evolved from Finizen.",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 965,
+    "lumioseId": 293,
+    "name": "Varoom",
+    "type": [
+      "Aço",
+      "Venenoso"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/965.png",
+    "captureInfo": {
+      "location": "Can be found in West Province (Area Two) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 966,
+    "lumioseId": 294,
+    "name": "Revavroom",
+    "type": [
+      "Aço",
+      "Venenoso"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/966.png",
+    "captureInfo": {
+      "location": "Can be found in East Province (Area Three) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 967,
+    "lumioseId": 295,
+    "name": "Cyclizar",
+    "type": [
+      "Dragão",
+      "Normal"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/967.png",
+    "captureInfo": {
+      "location": "Can be found in West Province (Area Two) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 968,
+    "lumioseId": 296,
+    "name": "Orthworm",
+    "type": [
+      "Aço"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/968.png",
+    "captureInfo": {
+      "location": "Can be found in East Province (Area Three) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 302,
+    "lumioseId": 297,
+    "name": "Sableye",
+    "type": [
+      "Sombrio",
+      "Fantasma"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/302.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Six) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 353,
+    "lumioseId": 298,
+    "name": "Shuppet",
+    "type": [
+      "Fantasma"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/353.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Three) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 354,
+    "lumioseId": 299,
+    "name": "Banette",
+    "type": [
+      "Fantasma"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/354.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Six) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 870,
+    "lumioseId": 300,
+    "name": "Falinks",
+    "type": [
+      "Lutador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/870.png",
+    "captureInfo": {
+      "location": "Can be found in West Province (Area One) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 701,
+    "lumioseId": 301,
+    "name": "Hawlucha",
+    "type": [
+      "Lutador",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/701.png",
+    "captureInfo": {
+      "location": "Can be found in Casseroya Lake among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 442,
+    "lumioseId": 302,
+    "name": "Spiritomb",
+    "type": [
+      "Fantasma",
+      "Sombrio"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/442.png",
+    "captureInfo": {
+      "location": "Can be found on the Northeast side of Glaseado Mountain.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 714,
+    "lumioseId": 303,
+    "name": "Noibat",
+    "type": [
+      "Voador",
+      "Dragão"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/714.png",
+    "captureInfo": {
+      "location": "Can be found in West Province (Area Two) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 715,
+    "lumioseId": 304,
+    "name": "Noivern",
+    "type": [
+      "Voador",
+      "Dragão"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/715.png",
+    "captureInfo": {
+      "location": "Can be found in North Province (Area One) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 885,
+    "lumioseId": 305,
+    "name": "Dreepy",
+    "type": [
+      "Dragão",
+      "Fantasma"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/885.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Four) among other places. (Violet Only)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 886,
+    "lumioseId": 306,
+    "name": "Drakloak",
+    "type": [
+      "Dragão",
+      "Fantasma"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/886.png",
+    "captureInfo": {
+      "location": "Can be found in North Province (Area One) among other places. (Violet Only)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 887,
+    "lumioseId": 307,
+    "name": "Dragapult",
+    "type": [
+      "Dragão",
+      "Fantasma"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/887.png",
+    "captureInfo": {
+      "location": "Not known to be found in the wild. Can be evolved from Drakloak. (Violet Only)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 969,
+    "lumioseId": 308,
+    "name": "Glimmet",
+    "type": [
+      "Pedra",
+      "Venenoso"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/969.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Six) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 970,
+    "lumioseId": 309,
+    "name": "Glimmora",
+    "type": [
+      "Pedra",
+      "Venenoso"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/970.png",
+    "captureInfo": {
+      "location": "Can be evolved from Glimmet.",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 479,
+    "lumioseId": 310,
+    "name": "Rotom",
+    "type": [
+      "Elétrico",
+      "Fantasma"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/479.png",
+    "captureInfo": {
+      "location": "Can be found in West Province (Area Two) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 971,
+    "lumioseId": 311,
+    "name": "Greavard",
+    "type": [
+      "Fantasma"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/971.png",
+    "captureInfo": {
+      "location": "Can be found in West Province (Area Three) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 972,
+    "lumioseId": 312,
+    "name": "Houndstone",
+    "type": [
+      "Fantasma"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/972.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Six) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 765,
+    "lumioseId": 313,
+    "name": "Oranguru",
+    "type": [
+      "Normal",
+      "Psíquico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/765.png",
+    "captureInfo": {
+      "location": "Can be found in Casseroya Lake among other places. (Scarlet Only)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 766,
+    "lumioseId": 314,
+    "name": "Passimian",
+    "type": [
+      "Lutador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/766.png",
+    "captureInfo": {
+      "location": "Can be found in Casseroya Lake among other places. (Violet Only)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 775,
+    "lumioseId": 315,
+    "name": "Komala",
+    "type": [
+      "Normal"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/775.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Four) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 246,
+    "lumioseId": 316,
+    "name": "Larvitar",
+    "type": [
+      "Pedra",
+      "Terrestre"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/246.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Three) among other places. (Scarlet Only)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 247,
+    "lumioseId": 317,
+    "name": "Pupitar",
+    "type": [
+      "Pedra",
+      "Terrestre"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/247.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Six) or evolved from Larvitar. (Scarlet Only)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 248,
+    "lumioseId": 318,
+    "name": "Tyranitar",
+    "type": [
+      "Pedra",
+      "Sombrio"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/248.png",
+    "captureInfo": {
+      "location": "Not known to be found in the wild. Can be evolved from a Pupitar. (Scarlet Only)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 874,
+    "lumioseId": 319,
+    "name": "Stonjourner",
+    "type": [
+      "Pedra"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/874.png",
+    "captureInfo": {
+      "location": "Can be found in the Asado Desert. (Scarlet Only)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 875,
+    "lumioseId": 320,
+    "name": "Eiscue",
+    "type": [
+      "Gelo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/875.png",
+    "captureInfo": {
+      "location": "Can be found in North Province (Area One) among other places. (Violet Only)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 871,
+    "lumioseId": 321,
+    "name": "Pincurchin",
+    "type": [
+      "Elétrico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/871.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Five) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 769,
+    "lumioseId": 322,
+    "name": "Sandygast",
+    "type": [
+      "Fantasma",
+      "Terrestre"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/769.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Five) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 770,
+    "lumioseId": 323,
+    "name": "Palossand",
+    "type": [
+      "Fantasma",
+      "Terrestre"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/770.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Five) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 79,
+    "lumioseId": 324,
+    "name": "Slowpoke",
+    "type": [
+      "Água",
+      "Psíquico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/79.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Five) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 80,
+    "lumioseId": 325,
+    "name": "Slowbro",
+    "type": [
+      "Água",
+      "Psíquico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/80.png",
+    "captureInfo": {
+      "location": "Can be found in West Province (Area Two) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 199,
+    "lumioseId": 326,
+    "name": "Slowking",
+    "type": [
+      "Água",
+      "Psíquico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/199.png",
+    "captureInfo": {
+      "location": "Not known to be found in the wild. Can be evolved from Slowpoke via trading with a King's Rock.",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 422,
+    "lumioseId": 327,
+    "name": "Shellos",
+    "type": [
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/422.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Five) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 423,
+    "lumioseId": 328,
+    "name": "Gastrodon",
+    "type": [
+      "Água",
+      "Terrestre"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/423.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Four) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 90,
+    "lumioseId": 329,
+    "name": "Shellder",
+    "type": [
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/90.png",
+    "captureInfo": {
+      "location": "Can be found in the South Paldean Sea among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 91,
+    "lumioseId": 330,
+    "name": "Cloyster",
+    "type": [
+      "Água",
+      "Gelo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/91.png",
+    "captureInfo": {
+      "location": "Can be found in the West Paldean Sea among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 211,
+    "lumioseId": 331,
+    "name": "Qwilfish",
+    "type": [
+      "Água",
+      "Venenoso"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/211.png",
+    "captureInfo": {
+      "location": "Can be found in the South Paldean Sea among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 370,
+    "lumioseId": 332,
+    "name": "Luvdisc",
+    "type": [
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/370.png",
+    "captureInfo": {
+      "location": "Can be found in the South Paldean Sea.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 456,
+    "lumioseId": 333,
+    "name": "Finneon",
+    "type": [
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/456.png",
+    "captureInfo": {
+      "location": "Can be found in the West Paldean Sea among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 457,
+    "lumioseId": 334,
+    "name": "Lumineon",
+    "type": [
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/457.png",
+    "captureInfo": {
+      "location": "Can be found in the West Paldean Sea among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 779,
+    "lumioseId": 335,
+    "name": "Bruxish",
+    "type": [
+      "Água",
+      "Psíquico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/779.png",
+    "captureInfo": {
+      "location": "Can be found in West Paldean Sea among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 594,
+    "lumioseId": 336,
+    "name": "Alomomola",
+    "type": [
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/594.png",
+    "captureInfo": {
+      "location": "Can be found in North Province (Area One) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 690,
+    "lumioseId": 337,
+    "name": "Skrelp",
+    "type": [
+      "Venenoso",
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/690.png",
+    "captureInfo": {
+      "location": "Can be found in South Paldean Sea among other places. (Scarlet Only)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 691,
+    "lumioseId": 338,
+    "name": "Dragalge",
+    "type": [
+      "Venenoso",
+      "Dragão"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/691.png",
+    "captureInfo": {
+      "location": "Can be found in North Paldean Sea among other places. (Scarlet Only)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 692,
+    "lumioseId": 339,
+    "name": "Clauncher",
+    "type": [
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/692.png",
+    "captureInfo": {
+      "location": "Can be found in the West Paldean Sea among other places. (Violet Only)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 693,
+    "lumioseId": 340,
+    "name": "Clawitzer",
+    "type": [
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/693.png",
+    "captureInfo": {
+      "location": "Can be found in the South Paldean Sea among other places. (Violet Only)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 602,
+    "lumioseId": 341,
+    "name": "Tynamo",
+    "type": [
+      "Elétrico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/602.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Four) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 603,
+    "lumioseId": 342,
+    "name": "Eelektrik",
+    "type": [
+      "Elétrico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/603.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Four) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 604,
+    "lumioseId": 343,
+    "name": "Eelektross",
+    "type": [
+      "Elétrico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/604.png",
+    "captureInfo": {
+      "location": "Not known to be found in the wild. Can be evolved from Eelektrik using a Pedra do Trovão.",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 747,
+    "lumioseId": 344,
+    "name": "Mareanie",
+    "type": [
+      "Venenoso",
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/747.png",
+    "captureInfo": {
+      "location": "Can be found in East Province (Area One) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 748,
+    "lumioseId": 345,
+    "name": "Toxapex",
+    "type": [
+      "Venenoso",
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/748.png",
+    "captureInfo": {
+      "location": "Regular and Terastal versions can be found along the coast southeast of Levincia.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 973,
+    "lumioseId": 346,
+    "name": "Flamigo",
+    "type": [
+      "Voador",
+      "Lutador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/973.png",
+    "captureInfo": {
+      "location": "Can be found in Casseroya Lake among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 147,
+    "lumioseId": 347,
+    "name": "Dratini",
+    "type": [
+      "Dragão"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/147.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Six) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 148,
+    "lumioseId": 348,
+    "name": "Dragonair",
+    "type": [
+      "Dragão"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/148.png",
+    "captureInfo": {
+      "location": "Can be found in Casseroya Lake.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 149,
+    "lumioseId": 349,
+    "name": "Dragonite",
+    "type": [
+      "Dragão",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/149.png",
+    "captureInfo": {
+      "location": "Can be found flying around North Province (Area Two).",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 872,
+    "lumioseId": 350,
+    "name": "Snom",
+    "type": [
+      "Gelo",
+      "Inseto"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/872.png",
+    "captureInfo": {
+      "location": "Can be found in West Province (Area Three) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 873,
+    "lumioseId": 351,
+    "name": "Frosmoth",
+    "type": [
+      "Gelo",
+      "Inseto"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/873.png",
+    "captureInfo": {
+      "location": "Can be found in Casseroya Lake among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 459,
+    "lumioseId": 352,
+    "name": "Snover",
+    "type": [
+      "Grama",
+      "Gelo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/459.png",
+    "captureInfo": {
+      "location": "Can be found on Glaseado Mountain.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 460,
+    "lumioseId": 353,
+    "name": "Abomasnow",
+    "type": [
+      "Grama",
+      "Gelo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/460.png",
+    "captureInfo": {
+      "location": "Can be found in Montenevera.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 225,
+    "lumioseId": 354,
+    "name": "Delibird",
+    "type": [
+      "Gelo",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/225.png",
+    "captureInfo": {
+      "location": "Can be found in Glaseado Mountain among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 613,
+    "lumioseId": 355,
+    "name": "Cubchoo",
+    "type": [
+      "Gelo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/613.png",
+    "captureInfo": {
+      "location": "Can be found in North Province (Area One) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 614,
+    "lumioseId": 356,
+    "name": "Beartic",
+    "type": [
+      "Gelo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/614.png",
+    "captureInfo": {
+      "location": "Can be found in North Province (Area Three) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 361,
+    "lumioseId": 357,
+    "name": "Snorunt",
+    "type": [
+      "Gelo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/361.png",
+    "captureInfo": {
+      "location": "Can be found in North Province (Area One) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 362,
+    "lumioseId": 358,
+    "name": "Glalie",
+    "type": [
+      "Gelo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/362.png",
+    "captureInfo": {
+      "location": "Can be found in West Province (Area Three) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 478,
+    "lumioseId": 359,
+    "name": "Froslass",
+    "type": [
+      "Gelo",
+      "Fantasma"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/478.png",
+    "captureInfo": {
+      "location": "Can be found in Montenevera among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 615,
+    "lumioseId": 360,
+    "name": "Cryogonal",
+    "type": [
+      "Gelo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/615.png",
+    "captureInfo": {
+      "location": "Can be found on Glaseado Mountain.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 974,
+    "lumioseId": 361,
+    "name": "Cetoddle",
+    "type": [
+      "Gelo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/974.png",
+    "captureInfo": {
+      "location": "Can be found in North Province (Area One) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 975,
+    "lumioseId": 362,
+    "name": "Cetitan",
+    "type": [
+      "Gelo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/975.png",
+    "captureInfo": {
+      "location": "Can be found in North Province (Area One) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 712,
+    "lumioseId": 363,
+    "name": "Bergmite",
+    "type": [
+      "Gelo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/712.png",
+    "captureInfo": {
+      "location": "Can be found in Glaseado Mountain among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 713,
+    "lumioseId": 364,
+    "name": "Avalugg",
+    "type": [
+      "Gelo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/713.png",
+    "captureInfo": {
+      "location": "Can be found in Glaseado Mountain among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 627,
+    "lumioseId": 365,
+    "name": "Rufflet",
+    "type": [
+      "Normal",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/627.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area One) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 628,
+    "lumioseId": 366,
+    "name": "Braviary",
+    "type": [
+      "Normal",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/628.png",
+    "captureInfo": {
+      "location": "Can be found in North Province (Area One) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 624,
+    "lumioseId": 367,
+    "name": "Pawniard",
+    "type": [
+      "Sombrio",
+      "Aço"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/624.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Five) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 625,
+    "lumioseId": 368,
+    "name": "Bisharp",
+    "type": [
+      "Sombrio",
+      "Aço"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/625.png",
+    "captureInfo": {
+      "location": "Can be found in North Province (Area Two) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 983,
+    "lumioseId": 369,
+    "name": "Kingambit",
+    "type": [
+      "Sombrio",
+      "Aço"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/983.png",
+    "captureInfo": {
+      "location": "Not known to be found in the wild. Can be evolved from Bisharp.",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 633,
+    "lumioseId": 370,
+    "name": "Deino",
+    "type": [
+      "Sombrio",
+      "Dragão"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/633.png",
+    "captureInfo": {
+      "location": "Can be found in South Province (Area Six) among other places. (Scarlet Only)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 634,
+    "lumioseId": 371,
+    "name": "Zweilous",
+    "type": [
+      "Sombrio",
+      "Dragão"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/634.png",
+    "captureInfo": {
+      "location": "Can be found in North Province (Area One) among other places or evolved from Deino. (Scarlet Only)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 635,
+    "lumioseId": 372,
+    "name": "Hydreigon",
+    "type": [
+      "Sombrio",
+      "Dragão"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/635.png",
+    "captureInfo": {
+      "location": "Not known to be found in the wild. Can be evolved from Zweilous. (Scarlet Only)",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 976,
+    "lumioseId": 373,
+    "name": "Veluza",
+    "type": [
+      "Água",
+      "Psíquico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/976.png",
+    "captureInfo": {
+      "location": "Can be found in West Paldean Sea among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 977,
+    "lumioseId": 374,
+    "name": "Dondozo",
+    "type": [
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/977.png",
+    "captureInfo": {
+      "location": "Can be found in Casseroya Lake.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 978,
+    "lumioseId": 375,
+    "name": "Tatsugiri",
+    "type": [
+      "Dragão",
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/978.png",
+    "captureInfo": {
+      "location": "Can be found in Casseroya Lake.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 984,
+    "lumioseId": 376,
+    "name": "Great Tusk",
+    "type": [
+      "Terrestre",
+      "Lutador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/984.png",
+    "captureInfo": {
+      "location": "Can be found in the Research Station 4 cave in Area Zero. (Scarlet Only)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 985,
+    "lumioseId": 377,
+    "name": "Scream Tail",
+    "type": [
+      "Fada",
+      "Psíquico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/985.png",
+    "captureInfo": {
+      "location": "Can be found in all zones in Area Zero. (Scarlet Only)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 986,
+    "lumioseId": 378,
+    "name": "Brute Bonnet",
+    "type": [
+      "Grama",
+      "Sombrio"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/986.png",
+    "captureInfo": {
+      "location": "Can be found in all zones in Area Zero, especially near the second observatory and inside caves. (Scarlet Only)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 987,
+    "lumioseId": 379,
+    "name": "Flutter Mane",
+    "type": [
+      "Fantasma",
+      "Fada"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/987.png",
+    "captureInfo": {
+      "location": "Can be found often in small and large caves in Area Zero including the caves near Research Station 4. (Scarlet Only)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 988,
+    "lumioseId": 380,
+    "name": "Slither Wing",
+    "type": [
+      "Inseto",
+      "Lutador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/988.png",
+    "captureInfo": {
+      "location": "Can be found in most places between Research Station 1 & 3 including the cliffs above Research Station 1 in Area Zero. (Scarlet Only)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 989,
+    "lumioseId": 381,
+    "name": "Sandy Shocks",
+    "type": [
+      "Elétrico",
+      "Terrestre"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/989.png",
+    "captureInfo": {
+      "location": "Can be found around the cliffs and grassy areas near Research Station 2 in Area Zero. (Scarlet Only)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 990,
+    "lumioseId": 382,
+    "name": "Iron Treads",
+    "type": [
+      "Terrestre",
+      "Aço"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/990.png",
+    "captureInfo": {
+      "location": "Can be found in caves in Area Zero including the Research Station 4 cave. (Violet Only)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 991,
+    "lumioseId": 383,
+    "name": "Iron Bundle",
+    "type": [
+      "Gelo",
+      "Água"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/991.png",
+    "captureInfo": {
+      "location": "Can be found in all zones of Area Zero. (Violet Only)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 992,
+    "lumioseId": 384,
+    "name": "Iron Hands",
+    "type": [
+      "Lutador",
+      "Elétrico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/992.png",
+    "captureInfo": {
+      "location": "Can be found in the cliff zones of Area Zero around Research Stations 1, 2 and 3. (Violet Only)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 993,
+    "lumioseId": 385,
+    "name": "Iron Jugulis",
+    "type": [
+      "Sombrio",
+      "Voador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/993.png",
+    "captureInfo": {
+      "location": "Can be found in caves in Area Zero including the Research Station 4 cave. (Violet Only)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 994,
+    "lumioseId": 386,
+    "name": "Iron Moth",
+    "type": [
+      "Fogo",
+      "Venenoso"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/994.png",
+    "captureInfo": {
+      "location": "Can be found in the First Research Area of Area Zero. (Violet Only)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 995,
+    "lumioseId": 387,
+    "name": "Iron Thorns",
+    "type": [
+      "Pedra",
+      "Elétrico"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/995.png",
+    "captureInfo": {
+      "location": "Can be found in the cliff zones of Area Zero around Research Stations 1, 2 and 3. (Violet Only)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 996,
+    "lumioseId": 388,
+    "name": "Frigibax",
+    "type": [
+      "Dragão",
+      "Gelo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/996.png",
+    "captureInfo": {
+      "location": "Can be found in the Glaseado Mountains.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 997,
+    "lumioseId": 389,
+    "name": "Arctibax",
+    "type": [
+      "Dragão",
+      "Gelo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/997.png",
+    "captureInfo": {
+      "location": "Can be found in North Province (Area One) among other places.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 998,
+    "lumioseId": 390,
+    "name": "Baxcalibur",
+    "type": [
+      "Dragão",
+      "Gelo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/998.png",
+    "captureInfo": {
+      "location": "Not known to be found in the wild. Can be evolved from Arctibax.",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 999,
+    "lumioseId": 391,
+    "name": "Gimmighoul",
+    "type": [
+      "Fantasma"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/999.png",
+    "captureInfo": {
+      "location": "Can be found on top of the Watchtowers around Paldea.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 1000,
+    "lumioseId": 392,
+    "name": "Gholdengo",
+    "type": [
+      "Aço",
+      "Fantasma"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1000.png",
+    "captureInfo": {
+      "location": "Not known to be found in the wild. Can be evolved from Gimmighoul.",
+      "method": "Evolução",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 1001,
+    "lumioseId": 393,
+    "name": "Wo-Chien",
+    "type": [
+      "Sombrio",
+      "Grama"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1001.png",
+    "captureInfo": {
+      "location": "Collect all 8 Purple Stakes in the Eastern side of South Paldea to access the Shrine where Wo-Chien can be found.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 1002,
+    "lumioseId": 394,
+    "name": "Chien-Pao",
+    "type": [
+      "Sombrio",
+      "Gelo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1002.png",
+    "captureInfo": {
+      "location": "Collect all 8 Yellow Stakes in the Western side of South Paldea to access the Shrine where Chien-Pao can be found.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 1003,
+    "lumioseId": 395,
+    "name": "Ting-Lu",
+    "type": [
+      "Sombrio",
+      "Terrestre"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1003.png",
+    "captureInfo": {
+      "location": "Collect all 8 Green Stakes in Casseroya Lake to access the Shrine where Ting-Lu can be found.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 1004,
+    "lumioseId": 396,
+    "name": "Chi-Yu",
+    "type": [
+      "Sombrio",
+      "Fogo"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1004.png",
+    "captureInfo": {
+      "location": "Collect all 8 Blue Stakes in Northeast Paldea to access the Shrine where Chi-Yu can be found.",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 1005,
+    "lumioseId": 397,
+    "name": "Roaring Moon",
+    "type": [
+      "Dragão",
+      "Sombrio"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1005.png",
+    "captureInfo": {
+      "location": "Can only be encountered in the Hidden Cave between Research Station 2 & 3 in Area Zero. (Scarlet Only)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 1006,
+    "lumioseId": 398,
+    "name": "Iron Valiant",
+    "type": [
+      "Fada",
+      "Lutador"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1006.png",
+    "captureInfo": {
+      "location": "Can only be encountered in the Hidden Cave between Research Station 2 & 3 in Area Zero. (Violet Only)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 1007,
+    "lumioseId": 399,
+    "name": "Koraidon",
+    "type": [
+      "Lutador",
+      "Dragão"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1007.png",
+    "captureInfo": {
+      "location": "Obtained as a mount near Poco Path Lighthouse, and can be caught in Area Zero after completing the game. (Scarlet Only)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  },
+  {
+    "id": 1008,
+    "lumioseId": 400,
+    "name": "Miraidon",
+    "type": [
+      "Elétrico",
+      "Dragão"
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1008.png",
+    "captureInfo": {
+      "location": "Obtained as a mount near Poco Path Lighthouse, and can be caught in Area Zero after completing the game. (Violet Only)",
+      "method": "Captura Padrão",
+      "time": "Qualquer",
+      "weather": "Qualquer",
+      "notes": "Verifique o mapa interativo."
+    }
+  }
+]
