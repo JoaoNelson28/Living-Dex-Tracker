@@ -10764,7 +10764,8 @@ let currentState = {
     selectedSlotIndex: null, // Track which slot we are filling
     selectedTeamProfile: 0, // Default profile 0 (Equipe 1)
     hideMegas: false, // Toggle to hide Mega Evolutions
-    shinyToggles: {} // Toggle Shiny view per Pokemon
+    shinyToggles: {}, // Toggle Shiny view per Pokemon
+    itemsToShow: 50 // Infinite Scroll
 };
 
 // DOM Elements
@@ -10821,46 +10822,204 @@ const infoGrid = document.getElementById('info-grid');
 
 // Initialize
 function init() {
-    // Populate Game Select
+    // Populate Custom Game Select
+    const customGameSelect = document.getElementById('custom-game-select');
+    const customGameOptions = document.getElementById('custom-game-options');
+    const selectedGameText = document.getElementById('selected-game-text');
+
+    if (customGameSelect && customGameOptions) {
+        games.forEach(game => {
+            const option = document.createElement('div');
+            option.className = 'custom-option';
+            option.dataset.value = game.id;
+            
+            // Beta highlight for Scarlet & Violet
+            let displayText = game.name;
+            if (game.id === 'scarlet-violet') {
+                displayText = `${game.name} (Beta 🚧)`;
+                option.style.color = '#ff9f43'; // Orange highlight
+                option.style.fontWeight = 'bold';
+            }
+            
+            option.textContent = displayText;
+            customGameOptions.appendChild(option);
+        });
+
+        // Toggle Dropdown
+        customGameSelect.querySelector('.select-trigger').addEventListener('click', (e) => {
+            closeAllDropdowns();
+            customGameSelect.classList.toggle('open');
+            e.stopPropagation();
+        });
+
+        // Option Selection
+        customGameOptions.addEventListener('click', (e) => {
+            const option = e.target.closest('.custom-option');
+            if (!option) return;
+            
+            const value = option.dataset.value;
+            const text = option.textContent;
+
+            // Update UI
+            selectedGameText.textContent = text;
+            if (value === 'scarlet-violet') {
+                selectedGameText.style.color = '#ff9f43';
+                selectedGameText.style.fontWeight = 'bold';
+            } else {
+                selectedGameText.style.color = 'var(--text-primary)';
+                selectedGameText.style.fontWeight = 'normal';
+            }
+
+            // Update State
+            currentState.selectedGameId = value;
+            currentState.selectedPokemonId = null; // Reset selection
+            loadData(); // Reload data for new game
+
+            // Close
+            customGameSelect.classList.remove('open');
+            
+            // Update Selected Class
+            customGameOptions.querySelectorAll('.custom-option').forEach(opt => opt.classList.remove('selected'));
+            option.classList.add('selected');
+        });
+    }
+
+    /* Original Game Select Logic Removed
     games.forEach(game => {
-        const option = document.createElement('option');
-        option.value = game.id;
-        option.textContent = game.name;
-        
-        // Beta highlight for Scarlet & Violet
-        if (game.id === 'scarlet-violet') {
-            option.textContent = `${game.name} (Beta 🚧)`;
-            option.style.color = '#ff9f43'; // Orange highlight
-            option.style.fontWeight = 'bold';
+        ...
+    });
+    gameSelect.addEventListener('change', ...);
+    */
+
+    // Custom Team Profile Select Logic
+    const customTeamSelect = document.getElementById('custom-team-select');
+    const customTeamOptions = document.getElementById('custom-team-options');
+    const selectedTeamText = document.getElementById('selected-team-text');
+
+    if (customTeamSelect && customTeamOptions) {
+        // Populate options 0-4
+        for (let i = 0; i < 5; i++) {
+            const option = document.createElement('div');
+            option.className = 'custom-option';
+            option.dataset.value = i;
+            option.textContent = `Equipe ${i + 1}`;
+            if (i === 0) option.classList.add('selected');
+            customTeamOptions.appendChild(option);
         }
 
-        gameSelect.appendChild(option);
-    });
+        // Toggle Dropdown
+        customTeamSelect.querySelector('.select-trigger').addEventListener('click', (e) => {
+            closeAllDropdowns();
+            customTeamSelect.classList.toggle('open');
+            e.stopPropagation();
+        });
 
-    // Event Listeners
-    gameSelect.addEventListener('change', (e) => {
-        currentState.selectedGameId = e.target.value;
-        currentState.selectedPokemonId = null; // Reset selection
-        loadData(); // Reload data for new game
-    });
+        // Option Selection
+        customTeamOptions.addEventListener('click', (e) => {
+            const option = e.target.closest('.custom-option');
+            if (!option) return;
+            
+            const value = parseInt(option.dataset.value);
+            const text = option.textContent;
 
-    // Populate Type Filter
-    // Ensure element exists before using it
-    if (filterTypeSelect) {
+            // Update UI
+            selectedTeamText.textContent = text;
+
+            // Update State
+            currentState.selectedTeamProfile = value;
+            renderTeamBuilder();
+
+            // Close
+            customTeamSelect.classList.remove('open');
+            
+            // Update Selected Class
+            customTeamOptions.querySelectorAll('.custom-option').forEach(opt => opt.classList.remove('selected'));
+            option.classList.add('selected');
+        });
+    }
+
+    // Helper to close all dropdowns
+    function closeAllDropdowns() {
+        document.querySelectorAll('.custom-select').forEach(el => el.classList.remove('open'));
+    }
+
+    // Custom Type Filter Logic
+    const customTypeFilter = document.getElementById('custom-type-filter');
+    const customTypeOptions = document.getElementById('custom-type-options');
+    const selectedTypeText = document.getElementById('selected-type-text');
+    
+    if (customTypeFilter && customTypeOptions) {
         const types = Object.keys(typeChart).sort();
         
         types.forEach(type => {
-            const option = document.createElement('option');
-            option.value = type;
-            option.textContent = type;
-            filterTypeSelect.appendChild(option);
+            const option = document.createElement('div');
+            option.className = 'custom-option';
+            option.dataset.value = type;
+            
+            // Optional: Add colored dot
+            const colorVar = mapTypeToCss(type);
+            const dot = document.createElement('span');
+            dot.className = 'custom-option-dot';
+            dot.style.backgroundColor = `var(--type-${colorVar})`;
+            
+            option.appendChild(dot);
+            option.appendChild(document.createTextNode(type));
+            
+            customTypeOptions.appendChild(option);
         });
 
-        filterTypeSelect.addEventListener('change', (e) => {
-            currentState.filterType = e.target.value;
+        // Toggle Dropdown
+        customTypeFilter.querySelector('.select-trigger').addEventListener('click', (e) => {
+            closeAllDropdowns(); // Close others first
+            customTypeFilter.classList.toggle('open');
+            e.stopPropagation();
+        });
+
+        // Option Selection
+        customTypeOptions.addEventListener('click', (e) => {
+            const option = e.target.closest('.custom-option');
+            if (!option) return;
+            
+            const value = option.dataset.value;
+            
+            // Update UI
+            if (value === 'all') {
+                selectedTypeText.textContent = "Todos os Tipos";
+                // Optionally clear color if it was set
+                // selectedTypeText.style.color = 'var(--text-primary)';
+            } else {
+                selectedTypeText.textContent = value;
+                // Optional: Update trigger text color to match type
+                // const colorVar = mapTypeToCss(value);
+                // selectedTypeText.style.color = `var(--type-${colorVar})`;
+            }
+
+            // Update State
+            currentState.filterType = value;
+            currentState.itemsToShow = 50;
             renderList();
+
+            // Close
+            customTypeFilter.classList.remove('open');
+            
+            // Update Selected Class
+            customTypeOptions.querySelectorAll('.custom-option').forEach(opt => opt.classList.remove('selected'));
+            option.classList.add('selected');
+        });
+
+        // Close on Click Outside (Updated to cover all custom selects)
+        window.addEventListener('click', (e) => {
+            if (!e.target.closest('.custom-select')) {
+                closeAllDropdowns();
+            }
         });
     }
+
+    /* Original Select Logic Removed/Commented
+    if (filterTypeSelect) {
+        ...
+    }
+    */
 
     if (teamProfileSelect) {
         teamProfileSelect.addEventListener('change', (e) => {
@@ -10881,10 +11040,11 @@ function init() {
     }
 
     if (searchInput) {
-        searchInput.addEventListener('input', (e) => {
+        searchInput.addEventListener('input', debounce((e) => {
             currentState.searchTerm = e.target.value.toLowerCase();
+            currentState.itemsToShow = 50; // Reset scroll on search
             renderList();
-        });
+        }, 300));
     }
 
     if (filterUncapturedBtn) {
@@ -10897,6 +11057,7 @@ function init() {
                 filterUncapturedBtn.classList.add('active');
                 if (filterCapturedBtn) filterCapturedBtn.classList.remove('active');
             }
+            currentState.itemsToShow = 50; // Reset scroll on filter
             renderList();
         });
     }
@@ -10911,6 +11072,7 @@ function init() {
                 filterCapturedBtn.classList.add('active');
                 if (filterUncapturedBtn) filterUncapturedBtn.classList.remove('active');
             }
+            currentState.itemsToShow = 50; // Reset scroll on filter
             renderList();
         });
     }
@@ -10919,6 +11081,7 @@ function init() {
         filterHideMegasBtn.addEventListener('click', () => {
             currentState.hideMegas = !currentState.hideMegas;
             filterHideMegasBtn.classList.toggle('active', currentState.hideMegas);
+            currentState.itemsToShow = 50; // Reset scroll on filter
             renderList();
             updateProgress();
         });
@@ -11448,6 +11611,8 @@ function renderSelectorList(searchTerm = '') {
         return;
     }
 
+    const fragment = document.createDocumentFragment();
+
     filtered.forEach(p => {
         const item = document.createElement('div');
         item.className = 'selector-item';
@@ -11456,7 +11621,7 @@ function renderSelectorList(searchTerm = '') {
         const imageUrl = getPokemonImage(p);
 
         item.innerHTML = `
-            <img src="${imageUrl}" alt="${p.name}">
+            <img src="${imageUrl}" alt="${p.name}" loading="lazy">
             <div class="selector-info">
                 <span class="selector-name">#${String(p.lumioseId).padStart(3, '0')} ${p.name}</span>
                 <div class="selector-types">
@@ -11465,8 +11630,10 @@ function renderSelectorList(searchTerm = '') {
             </div>
             <i class="fa-solid fa-plus" style="color: var(--accent-color);"></i>
         `;
-        selectorList.appendChild(item);
+        fragment.appendChild(item);
     });
+
+    selectorList.appendChild(fragment);
 }
 
 function removeFromTeam(index) {
@@ -11723,10 +11890,14 @@ function renderList() {
         return;
     }
 
-    filteredList.forEach(p => {
+    // Infinite Scroll Slice
+    const listToRender = filteredList.slice(0, currentState.itemsToShow);
+
+    const fragment = document.createDocumentFragment();
+
+    listToRender.forEach(p => {
         const isCaptured = capturedList.includes(p.id);
         const isActive = p.id === currentState.selectedPokemonId;
-        // const imageUrl = getPokemonImage(p); // Disabled for list view
         const imageUrl = p.image; // Use normal image for list view
         
         const item = document.createElement('div');
@@ -11734,7 +11905,7 @@ function renderList() {
         item.onclick = () => selectPokemon(p.id);
 
         item.innerHTML = `
-            <img src="${imageUrl}" alt="${p.name}">
+            <img src="${imageUrl}" alt="${p.name}" loading="lazy" decoding="async">
             <div class="pokemon-id">#${String(p.lumioseId).padStart(3, '0')}</div>
             <div class="pokemon-info">
                 <span class="pokemon-name">${p.name}</span>
@@ -11742,8 +11913,41 @@ function renderList() {
             </div>
         `;
         
-        pokemonListEl.appendChild(item);
+        fragment.appendChild(item);
     });
+
+    // "Show More" Trigger (Sentinel)
+    if (filteredList.length > currentState.itemsToShow) {
+        const sentinel = document.createElement('div');
+        sentinel.id = 'scroll-sentinel';
+        sentinel.style.height = '20px';
+        sentinel.style.width = '100%';
+        fragment.appendChild(sentinel);
+    }
+
+    pokemonListEl.appendChild(fragment);
+
+    // Setup Intersection Observer for Infinite Scroll
+    if (filteredList.length > currentState.itemsToShow) {
+        setupInfiniteScroll(filteredList.length);
+    }
+}
+
+let observer;
+function setupInfiniteScroll(totalItems) {
+    if (observer) observer.disconnect();
+
+    const sentinel = document.getElementById('scroll-sentinel');
+    if (!sentinel) return;
+
+    observer = new IntersectionObserver((entries) => {
+        if (entries[0].isIntersecting) {
+            currentState.itemsToShow += 50;
+            renderList(); // Re-render with more items
+        }
+    }, { root: pokemonListEl, rootMargin: '200px' });
+
+    observer.observe(sentinel);
 }
 
 function selectPokemon(id) {
@@ -11877,6 +12081,15 @@ function updateProgress() {
     progressText.textContent = `${current}/${total}`;
     const percentage = total === 0 ? 0 : (current / total) * 100;
     progressFill.style.width = `${percentage}%`;
+}
+
+// Utility function for performance
+function debounce(func, wait) {
+    let timeout;
+    return function(...args) {
+        clearTimeout(timeout);
+        timeout = setTimeout(() => func.apply(this, args), wait);
+    };
 }
 
 // Run init when DOM is ready

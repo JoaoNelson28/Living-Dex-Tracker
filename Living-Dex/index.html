@@ -99,10 +99,19 @@
                 Living Dex Tracker
             </h1>
             <div class="game-selector">
-                <label for="game-select">Jogo:</label>
-                <select id="game-select">
-                    <!-- Options will be populated by JS -->
-                </select>
+                <label for="custom-game-select">Jogo:</label>
+                <!-- Custom Game Select -->
+                <div class="custom-select" id="custom-game-select" style="width: 260px;">
+                    <div class="select-trigger">
+                        <span id="selected-game-text">Pokémon Legends: Z-A</span>
+                        <i class="fa-solid fa-chevron-down arrow"></i>
+                    </div>
+                    <div class="custom-options" id="custom-game-options">
+                        <!-- Options will be populated by JS -->
+                    </div>
+                </div>
+                <!-- Original Select Removed -->
+                <!-- <select id="game-select">...</select> -->
             </div>
             <div class="progress-container">
                 <div class="progress-labels">
@@ -133,10 +142,19 @@
                     <input type="text" id="search-input" placeholder="Buscar Pokémon...">
                 </div>
                 <div class="filters">
-                    <select id="filter-type" class="type-filter">
-                        <option value="all">Todos os Tipos</option>
-                        <!-- Options populated by JS -->
-                    </select>
+                    <!-- Custom Select Replacement -->
+                    <div class="custom-select" id="custom-type-filter">
+                        <div class="select-trigger">
+                            <span id="selected-type-text">Todos os Tipos</span>
+                            <i class="fa-solid fa-chevron-down arrow"></i>
+                        </div>
+                        <div class="custom-options" id="custom-type-options">
+                            <div class="custom-option selected" data-value="all">Todos os Tipos</div>
+                        </div>
+                    </div>
+                    <!-- Original Select (Hidden/Removed) -->
+                    <!-- <select id="filter-type" class="type-filter">...</select> -->
+
                     <button id="filter-uncaptured" title="Mostrar apenas não capturados"><i class="fa-regular fa-square"></i></button>
                     <button id="filter-captured" title="Mostrar apenas capturados"><i class="fa-regular fa-check-square"></i></button>
                     <button id="filter-hide-megas" title="Ocultar Mega Evoluções" class="toggle-btn"><i class="fa-solid fa-dna"></i></button>
@@ -249,13 +267,18 @@
                     <div class="team-header-controls" style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
                         <h2>Sua Equipe</h2>
                         <div class="profile-selector">
-                            <select id="team-profile-select" class="team-profile-select">
-                                <option value="0">Equipe 1</option>
-                                <option value="1">Equipe 2</option>
-                                <option value="2">Equipe 3</option>
-                                <option value="3">Equipe 4</option>
-                                <option value="4">Equipe 5</option>
-                            </select>
+                            <!-- Custom Team Profile Select -->
+                            <div class="custom-select" id="custom-team-select" style="width: 160px; height: 40px;">
+                                <div class="select-trigger" style="height: 40px;">
+                                    <span id="selected-team-text">Equipe 1</span>
+                                    <i class="fa-solid fa-chevron-down arrow"></i>
+                                </div>
+                                <div class="custom-options" id="custom-team-options">
+                                    <!-- Options will be populated by JS -->
+                                </div>
+                            </div>
+                            <!-- Original Select Removed -->
+                            <!-- <select id="team-profile-select" class="team-profile-select">...</select> -->
                         </div>
                     </div>
                     <div class="team-slots-large" id="team-slots-large">
