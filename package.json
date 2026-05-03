@@ -1,5 +1,11 @@
 {
+  "scripts": {
+    "dev": "live-server Living-Dex"
+  },
   "dependencies": {
     "@supabase/supabase-js": "^2.95.3"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2"
   }
 }

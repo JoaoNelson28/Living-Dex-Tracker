@@ -1317,11 +1317,15 @@ function getCapturedList() {
 }
 
 function toggleCapture(pokemonId, isCaptured) {
+    // Ensure ID is a number
+    const id = Number(pokemonId);
+    if (isNaN(id)) return;
+
     const list = getCapturedList();
-    const index = list.indexOf(pokemonId);
+    const index = list.indexOf(id);
 
     if (isCaptured && index === -1) {
-        list.push(pokemonId);
+        list.push(id);
     } else if (!isCaptured && index > -1) {
         list.splice(index, 1);
     }
@@ -1329,7 +1333,9 @@ function toggleCapture(pokemonId, isCaptured) {
     saveData();
     updateProgress();
     renderDetails(); // Re-render details to update style
-    renderList(); 
+    
+    // Always re-render list to ensure consistency, but keep scroll position/count
+    renderList(false, true); 
 }
 
 function toggleShiny(pokemonId) {
@@ -1372,7 +1378,7 @@ function getPokemonImage(pokemon) {
     return imageUrl;
 }
 
-function renderList(append = false) {
+function renderList(append = false, keepCount = false) {
     const gameData = getCurrentGameData();
     if (!gameData || !gameData.pokemonList) {
         pokemonListEl.innerHTML = '<div style="padding: 20px; text-align: center; color: #888;">Carregando dados...</div>';
@@ -1382,8 +1388,14 @@ function renderList(append = false) {
     
     // Calculate Filtered List (Only if not appending)
     if (!append) {
-        pokemonListEl.innerHTML = '';
-        currentState.itemsToShow = 50;
+        if (!keepCount) {
+             currentState.itemsToShow = 50;
+             pokemonListEl.innerHTML = ''; // Full reset
+        } else {
+             // If keeping count, we still need to clear to re-render visible items with new state
+             // OR better: we re-render up to current itemsToShow
+             pokemonListEl.innerHTML = '';
+        }
 
         const filteredList = gameData.pokemonList.filter(p => {
             const matchesSearch = p.name.toLowerCase().includes(currentState.searchTerm) || 
@@ -1414,7 +1426,13 @@ function renderList(append = false) {
 
     // Determine slice to render
     const start = append ? currentState.itemsToShow : 0;
-    const end = append ? currentState.itemsToShow + 50 : 50;
+    // If append, add 50. If not append but keepCount, use current itemsToShow. Else 50.
+    let end;
+    if (append) {
+        end = currentState.itemsToShow + 50;
+    } else {
+        end = keepCount ? currentState.itemsToShow : 50;
+    }
     
     // Clamp end
     const safeEnd = Math.min(end, currentState.currentFilteredList.length);
@@ -1432,6 +1450,7 @@ function renderList(append = false) {
         
         const item = document.createElement('div');
         item.className = `pokemon-item ${isCaptured ? 'captured' : ''} ${isActive ? 'active' : ''}`;
+        item.dataset.id = p.id; // Add ID for easy selection
         item.onclick = () => selectPokemon(p.id);
 
         // Optimization: Use decoding="async" for smoother scrolling
@@ -1481,8 +1500,21 @@ function setupInfiniteScroll() {
 }
 
 function selectPokemon(id) {
+    const prevId = currentState.selectedPokemonId;
     currentState.selectedPokemonId = id;
-    render(); // Re-render to update active state in list and show details
+    
+    renderDetails(); // Re-render details
+
+    // Optimized List Update (Avoid full re-render)
+    if (prevId) {
+        const prevItem = pokemonListEl.querySelector(`.pokemon-item[data-id="${prevId}"]`);
+        if (prevItem) prevItem.classList.remove('active');
+    }
+
+    if (id) {
+        const newItem = pokemonListEl.querySelector(`.pokemon-item[data-id="${id}"]`);
+        if (newItem) newItem.classList.add('active');
+    }
 }
 
 function renderDetails() {
